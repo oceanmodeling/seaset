@@ -1,0 +1,851 @@
+SSC ID,Station Name,Country_x,Latitude,Longitude,IOC code,PTWC code,GLOSS ID_x,UHSLC ID,PSMSL ID,SONEL GPS,SONEL TG,Code,GLOSS ID_y,Country_y,Location
+SSC-abas,Abashiri,Japan,44.02,144.28,abas,abas,327.0,347,1104,797,2107,abas,327,Japan,Abashiri
+SSC-abed,Aberdeen,United Kingdom,57.14,-2.08,abed,,,,"21, 361",617,"2185, 2735",abed,,UK,Aberdeen
+SSC-abur,Aburatsu,Japan,31.58,131.41,abur,abur,82.0,354,814,806,2209,abur,82,Japan,Aburatsu
+SSC-acaj,Acajutla,El Salvador,13.57,-89.84,acaj,acaj,182.0,82,"1011, 1302",,2859,acaj,182,El Salvador,Acajutla
+SSC-acap,Acapulco,Mexico,16.83,-99.92,"acap, acap2, acya","acap, acya",267.0,316,686,2279,2280,acap,267,Mexico,Acapulco
+SSC-acnj,Atlantic City,United States,39.36,-74.42,"acnj, acnj2",acnj,220.0,264,180,2923,2876,acnj,220,USA,Atlantic City
+SSC-acnj,Atlantic City,United States,39.36,-74.42,"acnj, acnj2",acnj,220.0,264,180,2923,2876,acnj2,220,USA,Atlantic City
+SSC-adak,Adak,United States,51.86,-176.63,"adak, adak2",adak,302.0,40,487,2667,2666,adak,302,USA,Adak
+SSC-adak,Adak,United States,51.86,-176.63,"adak, adak2",adak,302.0,40,487,2667,2666,adak2,302,USA,Adak
+SSC-aden,Aden,Yemen,12.79,44.97,aden,aden,3.0,172,44,,2790,aden,3,Yemen,Aden
+SSC-agal,Agalega,Mauritius,-10.35,56.59,agal,agal,,,,,,agal,,Mauritius,Agalega
+SSC-aigi,Aigio,Greece,38.26,22.08,aigi,,,,,,,aigi,,Greece,Aigio
+SSC-ajac,Ajaccio,France,41.92,8.76,"ajac, ajac2",ajac,,,1929,"3197, 619",1719,ajac,,France,Ajaccio
+SSC-alak,Alitak,United States,56.9,-154.25,"alak, alak2",alak,,,,,,alak,,USA,Alitak
+SSC-alak,Alitak,United States,56.9,-154.25,"alak, alak2",alak,,,,,,alak2,,USA,Alitak
+SSC-alam,Alameda,United States,37.77,-122.3,"alam, alam2",alam,,,437,3319,3318,alam,,USA,Alameda
+SSC-alam,Alameda,United States,37.77,-122.3,"alam, alam2",alam,,,437,3319,3318,alam2,,USA,Alameda
+SSC-albo,Alboran Island,Spain,35.94,-3.03,albo,,,,,4151,4150,albo,,Spain,Alboran Island
+SSC-albu,Albufeira,Portugal,37.08,-8.26,albu,albu,,,,,,albu,,Portugal,Albufeira
+SSC-alcu,Alcudia,Spain,39.87,3.12,alcu,,,,2063,,,alcu,,Spain,Alcudia
+SSC-aler,Alert,Canada,82.49,-62.32,aler,,333.0,836,1110,625,2108,aler,333,Canada,Alert
+SSC-alex,Alexandria,Egypt,31.21,29.92,"alex, alex1",alex,349.0,807,"2088, 503","2006, 933","2206, 3010",alex,349,Egypt,Alexandria
+SSC-alex,Alexandria,Egypt,31.21,29.92,"alex, alex1",alex,349.0,807,"2088, 503","2006, 933","2206, 3010",alex1,,Egypt,Alexandria
+SSC-alge,Algeciras,Spain,36.18,-5.4,alge,alge,,,,3373,3464,alge,,Spain,Algeciras
+SSC-alme,Almeria,Spain,36.83,-2.48,"alme, alme2",,,,"1455, 2056","3461, 624","2193, 2395",alme,,Spain,Almeria
+SSC-alva,Alvarado,Mexico,18.77,-95.77,"alva, alva2",,,,768,,,alva,,Mexico,Alvarado
+SSC-amal,Charlotte-Amalie,United States,18.33,-64.92,"amal, amal2",amal,,255,1393,"1899, 2664",2663,amal,,USA,Charlotte-Amalie
+SSC-amal,Charlotte-Amalie,United States,18.33,-64.92,"amal, amal2",amal,,255,1393,"1899, 2664",2663,amal2,,USA,Charlotte-Amalie
+SSC-amas,Amasra,Turkey,41.74,32.39,amas,,,,1919,,,amas,,Turkey,Amasra
+SSC-ambo,Ambon,Indonesia,-3.68,128.18,ambon,ambo,68.0,133,"1815, 347",3216,2821,ambon,68,Indonesia,Ambon
+SSC-anca,Ancona,Italy,43.62,13.51,AN15,,,,"101, 2098",3153,"3151, 3152",AN15,,Italy,Ancona
+SSC-anch,Anchorage,United States,61.24,-149.89,"anch, anch2",anch,,,1067,1897,2104,anch,,USA,Anchorage
+SSC-anch,Anchorage,United States,61.24,-149.89,"anch, anch2",anch,,,1067,1897,2104,anch2,,USA,Anchorage
+SSC-ancu,Ancud,Chile,-41.87,-73.83,"ancu, ancu2",ancu,,,,,,ancu,,Chile,Ancud
+SSC-ancu,Ancud,Chile,-41.87,-73.83,"ancu, ancu2",ancu,,,,,,ancu2,,Chile,Ancud
+SSC-ande,Andenes,Norway,69.32,16.15,ande,,322.0,800,425,3573,2263,ande,322,Norway,Andenes
+SSC-anta,Antalya,Turkey,36.88,30.7,anta,,,,"1681, 400",2019,2158,anta,,Turkey,Antalya
+SSC-anto,Antofagasta,Chile,-23.65,-70.4,"anto, anto2",anto,174.0,80,"510, 511",2608,"2607, 2753",anto,174,Chile,Antofagasta
+SSC-anto,Antofagasta,Chile,-23.65,-70.4,"anto, anto2",anto,174.0,80,"510, 511",2608,"2607, 2753",anto2,174,Chile,Antofagasta
+SSC-anzio,Anzio,Italy,41.45,12.63,AZ42,,,,2136,,,AZ42,,Italy,Anzio
+SSC-apfl,Apalachicola,United States,29.73,-84.98,"apfl, apfl2",apfl,,760,1193,,,apfl,,USA,Apalachicola
+SSC-apfl,Apalachicola,United States,29.73,-84.98,"apfl, apfl2",apfl,,760,1193,,,apfl2,,USA,Apalachicola
+SSC-arac,Arecibo,Puerto Rico,18.48,-66.7,"arac, aracS",arec,,735,2213,,,arac,,Puerto Rico,Arecibo
+SSC-arca,Arcachon Eyrac,France,44.67,-1.16,"arca, arca2",,,,1918,3191,1724,arca,,France,Arcachon Eyrac
+SSC-aren,Arena Cove,United States,38.91,-123.71,"aren, aren2",aren,,573,2125,3026,3025,aren,,USA,Arena Cove
+SSC-aren,Arena Cove,United States,38.91,-123.71,"aren, aren2",aren,,573,2125,3026,3025,aren2,,USA,Arena Cove
+SSC-aric,Arica,Chile,-18.48,-70.32,"aric, aric2",aric,,83,"1554, 618","2610, 3159",2609,aric,,Chile,Arica
+SSC-aric,Arica,Chile,-18.48,-70.32,"aric, aric2",aric,,83,"1554, 618","2610, 3159",2609,aric2,,Chile,Arica
+SSC-arko,Arko,Sweden,58.48,16.96,arko,,,,,,,arko,,Sweden,Arko
+SSC-aron,"Arona, Tenerife",Spain,28.05,-16.72,tn031,ten2,,,,,,tn031,,Spain,"Arona, Tenerife"
+SSC-arrc,Arraial do Cabo,Brazil,-22.97,-42.01,arrc,,,,,,,arrc,,Brasil,Arraial do Cabo
+SSC-arre,Arrecife,Spain,28.97,-13.53,arre,,,205,"1362, 1710, 2066, 593, 943",3133,3132,arre,,Spain,Arrecife
+SSC-arri,Arrifana,Portugal,37.3,-8.87,arri,,,,,,,arri,,Portugal,Arrifana
+SSC-ascen,Ascension,United Kingdom,-7.92,-14.42,ascen,ascn,263.0,291,1831,630,1971,ascen,263,UK,Ascension
+SSC-ashd,Ashdod Port,Israel,31.83,34.64,"ashd, ashd1",,,,"2219, 855",2021,"2180, 3502",ashd,,Israel,Ashdod Port
+SSC-ashk,Ashkhara,Oman,21.85,59.57,ashk,ashk,,,,,,ashk,,Oman,Ashkhara
+SSC-askl,Ashkelon,Israel,31.63,34.49,askl,,,,2220,,,askl,,Israel,Ashkelon
+SSC-asto,Astoria,United States,46.21,-123.77,"asto, asto2",asto,,572,265,"2093, 2690, 2691, 675",2176,asto,,USA,Astoria
+SSC-asto,Astoria,United States,46.21,-123.77,"asto, asto2",asto,,572,265,"2093, 2690, 2691, 675",2176,asto2,,USA,Astoria
+SSC-atic,Atico,Peru,-16.23,-73.69,atic,atic,,,,,,atic,,Perú,Atico
+SSC-audi,Audierne,France,48.02,-4.54,"audi, audi2",,,,,,,audi,,France,Audierne
+SSC-avon,Avonmouth Portbury,United Kingdom,51.5,-2.73,avon,,,,"2011, 257",,,avon,,UK,Avonmouth Portbury
+SSC-bamd,Baltimore,United States,39.27,-76.58,"bamd, bamd2",bamd,,,148,"2704, 3059",2703,bamd,,USA,Baltimore
+SSC-bamd,Baltimore,United States,39.27,-76.58,"bamd, bamd2",bamd,,,148,"2704, 3059",2703,bamd2,,USA,Baltimore
+SSC-bame,Bar Harbor,United States,44.39,-68.21,"bame, bame2",bame,,,525,635,2353,bame,,USA,Bar Harbor
+SSC-bame,Bar Harbor,United States,44.39,-68.21,"bame, bame2",bame,,,525,635,2353,bame2,,USA,Bar Harbor
+SSC-bamf,Bamfield,Canada,48.84,-125.14,bamf,,,541,1242,3023,3022,bamf,,Canada,Bamfield
+SSC-bang,Bangor,United Kingdom,54.66,-5.67,bang,,,,1856,,,bang,,UK,Bangor
+SSC-bapj,Battery Point,Australia,-42.89,147.34,bapj,,,,,,,bapj,,Australia,Battery Point
+SSC-bara,Barahona,Dominican Republic,18.21,-71.09,bara,bara,,,745,3554,3553,bara,,Dominican Republic,Barahona
+SSC-barb,Barbuda,Antigua and Barbuda,17.59,-61.82,"barb, barb2",barb,,,,,,barb,,Antigua,Barbuda
+SSC-barb,Barbuda,Antigua and Barbuda,17.59,-61.82,"barb, barb2",barb,,,,,,barb2,,Antigua,Barbuda
+SSC-barc,Barcelona,Spain,41.34,2.16,barc,,,,1811,3533,3532,barc,,Spain,Barcelona
+SSC-barii,Bari,Italy,41.14,16.87,BA05,,,,2075,,,BA05,,Italy,Bari
+SSC-barm,Barmouth,United Kingdom,52.72,-4.05,barm,,,,1771,,,barm,,UK,Barmouth
+SSC-bars,Barseback,Sweden,55.76,12.9,bars,,,,2109,2077,2327,bars,,Sweden,Barseback
+SSC-bass,Basseterre (Coast Guard Base),Saint Kitts and Nevis,17.29,-62.71,bass,bass,,,2004,,,bass,,St. Kitts & Nevis,Basseterre (Coast Guard Base)
+SSC-batr,Batroun,Lebanon,34.25,35.66,batr,,,,,,,batr,,Lebanon,Batroun
+SSC-bbbc,Bella Bella,Canada,52.16,-128.14,bbbc,bbbc,,,,,,bbbc,,Canada,Bella Bella
+SSC-bell,Bella Bella,Canada,52.17,-128.13,,,,,984,3209,3208,bbbc,,Canada,Bella Bella
+SSC-bdto,Bocas Del Toro,Panama,9.35,-82.26,bdto,bdto,,,,,,bdto,,Panamá,Bocas Del Toro
+SSC-beau,Beaufort,United States,32.43,-80.67,,,,,1537,,,benc,,USA,Beaufort
+SSC-beau,Beaufort,United States,32.43,-80.67,,,,,1537,,,benc2,,USA,Beaufort
+SSC-benc,Beaufort,United States,34.72,-76.67,"benc, benc2",benc,,,719,,,benc,,USA,Beaufort
+SSC-benc,Beaufort,United States,34.72,-76.67,"benc, benc2",benc,,,719,,,benc2,,USA,Beaufort
+SSC-beno,Benoa,Indonesia,-8.77,115.22,beno,beno,49.0,163,"1738, 2200","2945, 3404","2812, 3585",beno,49,Indonesia,Benoa
+SSC-bgct,Bridgeport,United States,41.17,-73.18,"bgct, bgct2",bgct,,,1068,,,bgct,,USA,Bridgeport
+SSC-bgct,Bridgeport,United States,41.17,-73.18,"bgct, bgct2",bgct,,,1068,,,bgct2,,USA,Bridgeport
+SSC-bitu,Bitung,Indonesia,1.44,125.19,bitu,bitg,69.0,33,"1709, 308","3215, 3405",2822,bitu,69,Indonesia,Bitung
+SSC-blueb,Blue Bay,Mauritius,-20.44,57.71,blueb,blue,,,930,,,blueb,,Mauritius,Blue Bay
+SSC-bmsa,Bahia Mansa,Chile,-40.58,-73.74,"bmsa, bmsa2",bmsa,,,,,,bmsa,,Chile,Bahia Mansa
+SSC-bmsa,Bahia Mansa,Chile,-40.58,-73.74,"bmsa, bmsa2",bmsa,,,,,,bmsa2,,Chile,Bahia Mansa
+SSC-bnjl,Banjul,Gambia,13.44,-16.57,bnjl,,,,,,,bnjl,,Gambia,Banjul
+SSC-bodr,Bodrum,Turkey,37.03,27.42,"bodr, bodri",bodr,,,"1204, 1680",,,bodr,,Turkey,Bodrum
+SSC-boma,Boston,United States,42.36,-71.05,"boma, boma2",boma,,741,235,,,boma,,USA,Boston
+SSC-bona,Bonan,Sweden,60.74,17.32,bona,,,,,,,bona,,Sweden,Bonan
+SSC-bork,Borkum Fischerbalje,Germany,53.56,6.75,bork,,,,"1037, 573","1938, 2511, 639",2512,bork,,Germany,Borkum Fischerbalje
+SSC-bouc,Boucau-Bayonne,France,43.53,-1.51,"bouc, bouc2",bouc,,,1801,3192,"1734, 3482",bouc,,France,Boucau-Bayonne
+SSC-boul,Boulogne-Sur-Mer,France,50.73,1.58,"boul, boul2",boul,,,471,3187,1735,boul,,France,Boulogne-Sur-Mer
+SSC-bour,Bournemouth,United Kingdom,50.71,-1.87,bour,,,,1878,,,bour,,UK,Bournemouth
+SSC-bozc,Bozcaada,Turkey,39.84,26.08,bozc,,,,,,,bozc,,Turkey,Bozcaada
+SSC-bozy,Bozyazi,Turkey,36.1,32.94,bozy,,,,2014,,,bozy,,Turkey,Bozyazi
+SSC-bres,Brest,France,48.38,-4.5,"bres, bres2",,242.0,822,1,"3180, 642",1736,bres,242,France,Brest
+SSC-brid,Bridgetown Port,Barbados,13.11,-59.62,brid,brid,,249,"1231, 1766","2092, 634",2217,brid,,Barbados,Bridgetown Port
+SSC-brof,Brofjorden,Sweden,58.34,11.4,brof,,,,,,,brof,,Sweden,Brofjorden
+SSC-brom,Broome,Australia,-18.0,122.22,brom,brom,40.0,166,"1159, 1171",3221,2806,brom,40,Australia,Broome
+SSC-brpt,Barbers Point,United States,21.32,-158.12,brpt,brpt,,547,,,,brpt,,Hawaii,Barbers Point
+SSC-brsk,Breskens Handelshaven,Netherlands,51.4,3.55,brsk,,,,,,,brsk,,Netherlands,Breskens Handelshaven
+SSC-buca,Bucalemu,Chile,-34.64,-72.05,"buca, buca2, buca3",buca,,,,,,buca,,Chile,Bucalemu
+SSC-buca,Bucalemu,Chile,-34.64,-72.05,"buca, buca2, buca3",buca,,,,,,buca2,,Chile,Bucalemu
+SSC-buca,Bucalemu,Chile,-34.64,-72.05,"buca, buca2, buca3",buca,,,,,,buca3,,Chile,Bucalemu
+SSC-bull,Bullen Bay,Curacao,12.19,-69.02,"bull, will",bull,,878,,,,bull,,Curaçao,Bullen Bay
+SSC-bupo,Bungus Port,Indonesia,-1.03,100.4,bupo,bupo,,,,,,bupo,,Indonesia,Bungus Port
+SSC-busa,Busan,South Korea,35.09,129.04,busa,busa,84.0,,955,2909,2830,busa,84,Korea,Busan
+SSC-buve,Buenaventura,Colombia,3.89,-77.08,"buve, buve2",buve,170.0,85,456,2046,2393,buve,170,Colombia,Buenaventura
+SSC-buve,Buenaventura,Colombia,3.89,-77.08,"buve, buve2",buve,170.0,85,456,2046,2393,buve2,170,Colombia,Buenaventura
+SSC-cabc,Carrie Bow Cay,Belize,16.8,-88.08,cabc,cabc,,,,,,cabc,,Belize,Carrie Bow Cay
+SSC-cabo,Cabo San Lucas,Mexico,22.88,-109.91,cabo,cabo,161.0,34,1355,,2851,cabo,161,Mexico,Cabo San Lucas
+SSC-cadi,Cadiz,Spain,36.5,-6.2,cadi,cadi,,,"209, 514, 985","3055, 3460, 839","2182, 2397",cadi,,Spain,Cadiz
+SSC-cagl,Cagliari,Italy,39.21,9.11,CA02,cagl,,,"104, 2089","2412, 3575, 645",2252,CA02,,Italy,Cagliari
+SSC-cala,Calais,France,50.97,1.87,"cala, cala2",cals,,,455,3539,1739,cala,,France,Calais
+SSC-cald,Caldera,Chile,-27.06,-70.82,"cald, cald2",cald,,88,"1512, 619",,,cald,,Chile,Caldera
+SSC-cald,Caldera,Chile,-27.06,-70.82,"cald, cald2",cald,,88,"1512, 619",,,cald2,,Chile,Caldera
+SSC-camp,Campbell River,Canada,50.02,-125.23,crbc,crbc,,,1323,3202,3201,crbc,,Canada,Campbell River
+SSC-camt,Lerma Campeche,Mexico,19.81,-90.59,camt,,,,,"2992, 2993",2991,camt,,Mexico,Lerma Campeche
+SSC-camu,Caja de Muertos,Puerto Rico,17.89,-66.53,camu,camu,,,,,,camu,,Puerto Rico,Caja de Muertos
+SSC-carb,Carboneras,Spain,36.97,-1.9,carb,carb,,,,,,carb,,Spain,Carboneras
+SSC-cart,Cartagena,Colombia,10.4,-75.55,cart,,207.0,265,"1848, 572",925,2282,carg,,Spain,Cartagena
+SSC-cart,Cartagena,Colombia,10.4,-75.55,cart,,207.0,265,"1848, 572",925,2282,cart,207,Colombia,Cartagena
+SSC-cartm,Cartagena,Spain,37.6,-0.97,carg,,,,1460,3451,3450,carg,,Spain,Cartagena
+SSC-cartm,Cartagena,Spain,37.6,-0.97,carg,,,,1460,3451,3450,cart,207,Colombia,Cartagena
+SSC-casc,Cascais,Portugal,38.69,-9.42,casc,,246.0,209,"2201, 52",648,2274,casc,246,Portugal,Cascais
+SSC-cast,Castletownbere,Ireland,51.65,-9.9,cast,,330.0,835,1467,,2901,cast,330,Ireland,Castletownbere
+SSC-catn,Catania,Italy,37.5,15.09,CT03,cata,,,"102, 2094",2253,2251,CT03,,Italy,Catania
+SSC-cbmd,Cambridge,United States,38.57,-76.07,"cbmd, cbmd2",cbmd,,,"1295, 481",694,"2122, 2751",cbmd,,USA,Cambridge
+SSC-cbmd,Cambridge,United States,38.57,-76.07,"cbmd, cbmd2",cbmd,,,"1295, 481",694,"2122, 2751",cbmd2,,USA,Cambridge
+SSC-cdtt,Cedros Bay,Trinidad and Tobago,10.09,-61.87,cdtt,cdtt,,,,,,cdtt,,Trinidad & Tobago,Cedros Bay
+SSC-ceib,La Ceiba Cabotaje Harbor,Honduras,15.79,-86.76,ceib,ceib,,,,,,ceib,,Honduras,La Ceiba Cabotaje Harbor
+SSC-cent,Centuri,France,42.97,9.35,"cent, cent2",cent,,,2207,3196,3176,cent,,France,Centuri
+SSC-ceut,Ceuta,Spain,35.9,-5.32,"ceut, ceut1",,249.0,207,"1316, 1416, 1485, 1517, 498","1922, 650",2213,ceut,249,Spain,Ceuta
+SSC-ceut,Ceuta,Spain,35.9,-5.32,"ceut, ceut1",,249.0,207,"1316, 1416, 1485, 1517, 498","1922, 650",2213,ceut1,,Spain,Ceuta
+SSC-cfrt,Carloforte,Italy,39.14,8.31,CF06,,,,2076,,,CF06,,Italy,Carloforte
+SSC-char,Charleston,United States,43.35,-124.32,"char, char2",char,,575,1269,3030,3029,chst,,New Zealand,Charleston
+SSC-charl,Charleston,United States,32.78,-79.93,,chsc,,261,234,"1894, 2008, 651",2384,chst,,New Zealand,Charleston
+SSC-chst,Charleston,New Zealand,-41.9,171.43,chst,,,,,,,chst,,New Zealand,Charleston
+SSC-chbe,Chateaubelair,Saint Vincent and the Grenadines,13.29,-61.24,chat,chvg,,,,,,chat,,Saint Vincent & Grenadines,Chateaubelair
+SSC-chenn,Chennai,India,13.1,80.3,chenn,chen,34.0,,205,2069,2440,chenn,34,India,Chennai
+SSC-cher,Cherbourg,France,49.65,-1.63,"cher, cher2",cher,,,467,"3182, 3183, 3535",1748,cher,,France,Cherbourg
+SSC-chij,Chichijima,Japan,27.08,142.18,chij,chij,103.0,47,1391,"2413, 808",2137,chij,103,Japan,Chichijima
+SSC-chnr,Chañaral,Chile,-26.35,-70.63,"chnr, chnr2",chnr,,,,,,chnr,,Chile,Chañaral
+SSC-chnr,Chañaral,Chile,-26.35,-70.63,"chnr, chnr2",chnr,,,,,,chnr2,,Chile,Chañaral
+SSC-chrl,Charlotteville,Trinidad and Tobago,11.32,-60.55,chrl,chrl,,,2007,,,chrl,,Trinidad & Tobago,Charlotteville
+SSC-chrp,Cherry Point,United States,48.86,-122.76,"chrp, chrp2",chrp,,,1633,,,chrp,,USA,Cherry Point
+SSC-chrp,Cherry Point,United States,48.86,-122.76,"chrp, chrp2",chrp,,,1633,,,chrp2,,USA,Cherry Point
+SSC-chrs,Christmas Island,Australia,-10.43,105.67,"chrs, ffcj",chrs,47.0,170,1010,2929,2811,chrs,47,Australia,Christmas Island
+SSC-xmas,Christmas Island,Kiribati,1.98,-157.47,xmas,xmas,146.0,11,"1371, 801",,2848,chrs,47,Australia,Christmas Island
+SSC-chtt,Chittagong,Bangladesh,22.33,91.83,chtt,chtt,36.0,124,"1573, 2196, 416, 750, 975, 991",3599,2804,chtt,36,Bangladesh,Chittagong
+SSC-cila,Cilacap,Indonesia,-7.75,109.0,"cila, cili","cila, cili",291.0,162,"1602, 2199, 272",3413,"2892, 3586",cili,291,Indonesia,Cilacap
+SSC-ciut,Ciutadella,Spain,39.99,3.83,ciut,,,,,,,ciut,,Spain,Ciutadella
+SSC-civi,Civitavecchia,Italy,42.09,11.79,CI20,ci20,,,"106, 2091",2256,2255,CI20,,Italy,Civitavecchia
+SSC-cmet,Caleta Meteoro,Chile,-52.97,-74.07,"cmet, cmet3",cmet,,,,,,cmet,,Chile,Caleta Meteoro
+SSC-cmet,Caleta Meteoro,Chile,-52.97,-74.07,"cmet, cmet3",cmet,,,,,,cmet3,,Chile,Caleta Meteoro
+SSC-cmnj,Cape May,United States,38.97,-74.96,"cmnj, cmnj2",cmnj,,746,1153,,,cmnj,,USA,Cape May
+SSC-cmnj,Cape May,United States,38.97,-74.96,"cmnj, cmnj2",cmnj,,746,1153,,,cmnj2,,USA,Cape May
+SSC-cocb,Cocos Island,Australia,-12.12,96.89,cocb,cocb,46.0,171,"1052, 1666, 983",656,2218,cocb,46,Australia,Cocos Island
+SSC-cocb,Cocos Island,Australia,-12.12,96.89,cocb,cocb,46.0,171,"1052, 1666, 983",656,2218,cocos,,Costa Rica,Cocos Island
+SSC-cocos,Cocos Island,Costa Rica,5.56,-87.05,cocos,coco,,392,,,,cocb,46,Australia,Cocos Island
+SSC-cocos,Cocos Island,Costa Rica,5.56,-87.05,cocos,coco,,392,,,,cocos,,Costa Rica,Cocos Island
+SSC-coch,Cochin,India,9.97,76.27,coch,coch,32.0,174,438,2067,2438,coch,32,India,Cochin
+SSC-cois,Corn Island,Nicaragua,12.33,-83.07,"cois, pcoi",,,,,,,cois,,Nicaragua,Corn Island
+SSC-coli,Coliumo,Chile,-36.54,-72.96,"coli, coli2",,,,,,,coli,,Chile,Coliumo
+SSC-coli,Coliumo,Chile,-36.54,-72.96,"coli, coli2",,,,,,,coli2,,Chile,Coliumo
+SSC-colo,Colombo,Sri Lanka,6.95,79.85,"colb, colo","colb, colo",33.0,115,"1755, 2194, 388, 718",3582,1994,colb,33,Sri Lanka,Colombo
+SSC-colo,Colombo,Sri Lanka,6.95,79.85,"colb, colo","colb, colo",33.0,115,"1755, 2194, 388, 718",3582,1994,colo,33,Sri Lanka,Colombo
+SSC-como,Comores,Comoros,-11.7,43.25,como,como,,,,,,como,,Comores,Comores
+SSC-conc,Concarneau,France,47.87,-3.91,"conc, conc2",conc,,,1301,3189,1751,conc,,France,Concarneau
+SSC-const,Constitucion,Chile,-35.36,-72.46,"cons2, const",cons,,,,,,cons2,,Chile,Constitucion
+SSC-const,Constitucion,Chile,-35.36,-72.46,"cons2, const",cons,,,,,,const,,Chile,Constitucion
+SSC-coqu,Coquimbo,Chile,-29.95,-71.34,"coqu, coqu2",coqu,,,977,,,coqu,,Chile,Coquimbo
+SSC-coqu,Coquimbo,Chile,-29.95,-71.34,"coqu, coqu2",coqu,,,977,,,coqu2,,Chile,Coquimbo
+SSC-cord,Cordova,United States,60.56,-145.75,"cord, cord2",cord,,583,566,2672,2671,cord,,USA,Cordova
+SSC-cord,Cordova,United States,60.56,-145.75,"cord, cord2",cord,,583,566,2672,2671,cord2,,USA,Cordova
+SSC-corie,Corinth,Greece,37.95,22.94,corn,corn,,,,,,corn,,Greece,Corinth
+SSC-corr,Corral,Chile,-39.89,-73.43,"corr, corr2",corr,,,1057,2654,2653,corr,,Chile,Corral
+SSC-corr,Corral,Chile,-39.89,-73.43,"corr, corr2",corr,,,1057,2654,2653,corr2,,Chile,Corral
+SSC-coru,La Coruña,Spain,43.37,-8.4,"acor1, cor2, coru",,243.0,830,"1808, 484, 763",618,"2195, 2399, 2400",coru,243,Spain,La Coruña
+SSC-cove,Coveñas,Colombia,9.41,-76.21,cove,cove,,,,,,cove,,Colombia,Coveñas
+SSC-cpit,Castlepoint,New Zealand,-40.9,176.23,cpit,cpit,,,,,,cpit,,New Zealand,Castlepoint
+SSC-cres,Crescent City,United States,41.75,-124.18,"cres, cres2",cres,,556,378,"2711, 3036",2693,cres,,USA,Crescent City
+SSC-cres,Crescent City,United States,41.75,-124.18,"cres, cres2",cres,,556,378,"2711, 3036",2693,cres2,,USA,Crescent City
+SSC-crnl,Coronel,Chile,-37.03,-73.15,"crnl, crnl2",crnl,,,,,,crnl,,Chile,Coronel
+SSC-crnl,Coronel,Chile,-37.03,-73.15,"crnl, crnl2",crnl,,,,,,crnl2,,Chile,Coronel
+SSC-crom,Cromer,United Kingdom,52.93,1.3,crom,,,,1632,3245,3244,crom,,UK,Cromer
+SSC-crtn,Crotone,Italy,39.08,17.14,CR08,,,,2077,3057,3056,CR08,,Italy,Crotone
+SSC-csta,Constanta,Romania,44.16,28.6,"csta, csta2",,,,379,3378,3377,csta,,Romania,Constanta
+SSC-csta,Constanta,Romania,44.16,28.6,"csta, csta2",,,,379,3378,3377,csta2,,Romania,Constanta
+SSC-cstr,Castro,Chile,-42.48,-73.76,"cstr, cstr2",cstr,,,,,,cstr,,Chile,Castro
+SSC-cstr,Castro,Chile,-42.48,-73.76,"cstr, cstr2",cstr,,,,,,cstr2,,Chile,Castro
+SSC-curri,Currimao,Philippines,18.02,120.48,curri,curi,,654,2173,,,curri,,Philippines,Currimao
+SSC-cuvie,Cape Cuvier Wharf,Australia,-24.22,113.4,cuvie,capc,,,,,,cuvie,,Australia,Cape Cuvier Wharf
+SSC-cuxh,Cuxhaven,Germany,53.87,8.72,cuxh,,284.0,825,"222, 7",2509,2510,cuxh,284,Germany,Cuxhaven
+SSC-cwfl,Clearwater Beach,United States,27.98,-82.83,"cwfl, cwfl2",cwfl,,773,1638,,,cwfl,,USA,Clearwater Beach
+SSC-cwfl,Clearwater Beach,United States,27.98,-82.83,"cwfl, cwfl2",cwfl,,773,1638,,,cwfl2,,USA,Clearwater Beach
+SSC-dakar,Dakar,Senegal,14.68,-17.42,dakar,daka,253.0,223,"1726, 1816, 1994, 1995, 1996, 476, 932","2734, 661","2202, 2782",dakar,253,Sénégal,Dakar
+SSC-darw,Darwin,Australia,-12.47,130.85,darw,darw,62.0,168,935,2930,2818,darw,62,Australia,Darwin
+SSC-davo,Davao,Philippines,7.08,125.63,davo,davo,71.0,372,537,3504,2824,davo,71,Philippines,Davao
+SSC-delf,Delfzijl,Netherlands,53.33,6.93,delf,,,,24,,,delf,,Netherlands,Delfzijl
+SSC-denh,Den Helder,Netherlands,52.96,4.75,denh,,,,23,,,denh,,Netherlands,Den Helder
+SSC-denis,Denis Island,Seychelles,-3.8,55.67,denis,deni,,,,,,denis,,Seychelles,Denis Island
+SSC-denn,Dennery,Saint Lucia,13.91,-60.89,stlu2,,,,,,,stlu2,,Saint Lucia,Dennery
+SSC-dese,Puerto Deseado,Argentina,-47.75,-65.91,dese,dese,190.0,286,185,"2050, 3567, 946",2562,dese,190,Argentina,Puerto Deseado
+SSC-dial,Dauphin Island,United States,30.2,-88.1,"dial, dial2",dial,,763,1156,"2971, 2972, 745",2113,dial,,USA,Dauphin Island
+SSC-diba,Diba,Oman,25.65,56.27,diba,diba,,,,,,diba,,Oman,Diba
+SSC-diel,Dielette,France,49.55,-1.86,"diel, diel2",,,,,,,diel,,France,Dielette
+SSC-diep,Dieppe,France,49.93,1.09,"diep, diep2",diep,,,474,"3184, 3188, 3534",1904,diep,,France,Dieppe
+SSC-djib,Djibouti,Djibouti,11.6,43.17,djib,bout,2.0,119,"1291, 2225",,1995,djib,2,Djibouti,Djibouti
+SSC-dlpr,Deal Pier,United Kingdom,51.22,1.41,dlpr,,,,,,,dlpr,,UK,Deal Pier
+SSC-dnrc,Dover,United States,39.16,-75.52,,,,,,916,,dove,,UK,Dover
+SSC-dove,Dover,United Kingdom,51.11,1.32,dove,,,,255,2013,2385,dove,,UK,Dover
+SSC-dpnc,Duck Pier,United States,36.18,-75.75,"dpnc, dpnc2",dpnc,219.0,260,1636,"1884, 1885, 668",2154,dpnc,219,USA,Duck Pier
+SSC-dumo,Dumont d'Urville,Antarctica,-66.65,140.0,dumo,,131.0,189,2231,895,1756,dumo,131,Antarctica,Dumont d'Urville
+SSC-dunk,Dunkerque,France,51.05,2.37,"dunk, dunk2",dunk,,,468,"3185, 3186, 3415",1758,dunk,,France,Dunkerque
+SSC-duqm,Duqm,Oman,19.66,57.72,duqm,duqm,,,,,,duqm,,Oman,Duqm
+SSC-durb,Durban,South Africa,-29.88,31.03,durb,durb,13.0,181,284,"3506, 3527",2798,durb,13,South-Africa,Durban
+SSC-elak,Elfin Cove,United States,58.19,-136.34,"elak, elak2",elak,,,,,,elak,,USA,Elfin Cove
+SSC-elak,Elfin Cove,United States,58.19,-136.34,"elak, elak2",elak,,,,,,elak2,,USA,Elfin Cove
+SSC-elat,Elat,Israel,29.5,34.92,elat,,,,"1022, 2148, 2149",,,elat,,Israel,Elat
+SSC-elpo,El Porvenir,Panama,9.56,-78.95,elpo,elpo,,739,,,,elpo,,Panamá,El Porvenir
+SSC-engg,Enggano,Indonesia,-5.35,102.28,engg,engg,,,,2939,2938,engg,,Indonesia,Enggano
+SSC-ense,Ensenada,Mexico,31.85,-116.63,ense,ense,,317,795,"2292, 2294",2293,ense,,Mexico,Ensenada
+SSC-epme,East Port,United States,44.9,-66.99,"epme, epme2",epme,,740,332,670,2354,epme,,USA,East Port
+SSC-epme,East Port,United States,44.9,-66.99,"epme, epme2",epme,,740,332,670,2354,epme2,,USA,East Port
+SSC-erdek,Erdek,Turkey,40.38,27.85,erdek,,,,1598,2023,2151,erdek,,Turkey,Erdek
+SSC-erdem,Erdemli,Turkey,36.57,34.25,erdem,,,,2009,2652,2651,erdem,,Turkey,Erdemli
+SSC-espe,Esperance,Australia,-33.87,121.9,espe,espe,54.0,176,"1114, 1127",2059,2109,espe,54,Australia,Esperance
+SSC-estr,Puerto Estrella,Colombia,12.36,-71.31,estr,estr,,,,,,estr,,Colombia,Puerto Estrella
+SSC-euro,Europlatform,Netherlands,52.0,3.27,euro,,,,,,,euro,,Netherlands,Europlatform
+SSC-exmt,Exmouth Marina,United Kingdom,50.62,-3.42,exmt,,,,,,,exmt,,UK,Exmouth Marina
+SSC-faja,Fajardo,Puerto Rico,18.33,-65.63,faja,faja,,783,2211,,,faja,,Puerto Rico,Fajardo
+SSC-falk,Falkenberg,Sweden,56.89,12.49,falk,,,,,,,falk,,Sweden,Falkenberg
+SSC-ferg,Cape Ferguson,Australia,-19.28,147.06,ferg,ferg,60.0,"334, 343","1492, 584, 637, 963",858,"2321, 2585",ferg,60,Australia,Cape Ferguson
+SSC-feth,Fethiye,Turkey,36.62,29.09,feth,feth,,,,,,feth,,Turkey,Fethiye
+SSC-figu,La Figueirette,France,43.48,6.93,"figu, figu2",figu,,,2232,"3194, 3541",3165,figu,,France,La Figueirette
+SSC-fish,Fishguard,United Kingdom,52.01,-4.98,fish,,,,"1731, 939",,,fish,,UK,Fishguard
+SSC-fmfl,Fort Myers,United States,26.65,-81.87,"fmfl, fmfl2",fmfl,,,1106,3521,3520,fmfl,,USA,Fort Myers
+SSC-fmfl,Fort Myers,United States,26.65,-81.87,"fmfl, fmfl2",fmfl,,,1106,3521,3520,fmfl2,,USA,Fort Myers
+SSC-fong,Fongafale,Tuvalu,-8.5,179.2,fong,fong,121.0,25,"1452, 1839",865,2167,fong,121,Tuvalu Islands,Fongafale
+SSC-form,Formentera,Spain,38.73,1.42,form,form,,,2060,,,form,,Spain,Formentera
+SSC-fors,Forsmark,Sweden,60.41,18.21,fors,,,,2103,,,fors,,Sweden,Forsmark
+SSC-fort,Fortaleza,Brazil,-3.72,-38.47,fort,fort,336.0,283,559,"1921, 3455, 673",2300,fort,336,Brasil,Fortaleza
+SSC-fosm,Fos-sur-Mer,France,43.4,4.89,"fosm, fosm2",,,,"2234, 969",3540,3163,fosm,,France,Fos-sur-Mer
+SSC-fpga,Fort Pulaski,United States,32.03,-80.9,"fpga, fpga2",fpga,289.0,752,395,2721,2720,fpga,289,USA,Fort Pulaski
+SSC-fpga,Fort Pulaski,United States,32.03,-80.9,"fpga, fpga2",fpga,289.0,752,395,2721,2720,fpga2,289,USA,Fort Pulaski
+SSC-frtr,Frontera,Mexico,18.15,-94.27,frtr,frtr,,,,,,frtr,,Mexico,Frontera
+SSC-fuev,Fuerteventura,Spain,28.49,-13.86,"fue2, fuer2",,,,2048,3135,3134,fue2,,Spain,Fuerteventura
+SSC-fuka,Fukaura,Japan,40.65,139.93,fuka,fuka,,,"121, 1317",,,fuka,,Japan,Fukaura
+SSC-furu,Furuogrund,Sweden,64.92,21.23,furu,,,,203,844,2320,furu,,Sweden,Furuogrund
+SSC-gand,Gandia,Spain,39.0,-0.15,gand,,,,2058,,,gand,,Spain,Gandia
+SSC-ganm,Gan,Maldives,-0.69,73.15,ganm,ganm,27.0,109,"1025, 1481, 1661, 1707",3412,2801,ganm,27,Maldive Islands,Gan
+SSC-garc,Diego Garcia,United Kingdom,-7.23,72.43,garc,garc,26.0,104,"1740, 1982, 2190, 947","2553, 664","2181, 3587",garc,26,UK,Diego Garcia
+SSC-gata,Gaeta,Italy,41.21,13.59,GA37,,,,2137,,,GA37,,Italy,Gaeta
+SSC-gazi,Gazimagusa,Cyprus,35.12,33.95,gazi,,,,,,,gazi,,Cyprus,Gazimagusa
+SSC-genv,Genova,Italy,44.41,8.93,GE25,genv,,,"2090, 59",678,2250,GE25,,Italy,Genova
+SSC-geor,George Town,Cayman Islands,19.3,-81.38,"cagt, geor","cagt, geor",,,"1422, 1426","1880, 3523","2140, 2731",geor,,Cayman Islands,George Town
+SSC-gera,Geraldton,Australia,-28.78,114.6,gpab,,,,"1031, 1043",,,gpab,,Australia,Geraldton
+SSC-gibr,Gibraltar,United Kingdom,36.13,-5.35,"gibr, gibr2, gibr3",gibr,248.0,289,"2055, 2117, 490, 981","2232, 3373","2231, 3462, 3463",gibr2,248,UK,Gibraltar
+SSC-gibr,Gibraltar,United Kingdom,36.13,-5.35,"gibr, gibr2, gibr3",gibr,248.0,289,"2055, 2117, 490, 981","2232, 3373","2231, 3462, 3463",gibr3,248,UK,Gibraltar
+SSC-gijo,Gijon,Spain,43.56,-5.7,gij2,,,,"1871, 507",,,gij2,,Spain,Gijon
+SSC-girn,Girne,Cyprus,35.35,33.33,girn,,,,"1911, 2022",,,girn,,Cyprus,Girne
+SSC-gist,Gisborne,New Zealand,-38.68,178.02,gist,gist,,78,1613,,,gist,,New Zealand,Gisborne
+SSC-goag,Goteborg Agnesberg,Sweden,57.79,12.01,goag,,,,,,,goag,,Sweden,Goteborg Agnesberg
+SSC-goer,Goteborg Eriksberg,Sweden,57.7,11.91,goer,,,,,,,goer,,Sweden,Goteborg Eriksberg
+SSC-gokc,Gokceada,Turkey,40.23,25.89,gokc,,,,2015,,,gokc,,Turkey,Gokceada
+SSC-gokr,Goteborg Krossholmen,Sweden,57.69,11.77,gokr,,,,,,,gokr,,Sweden,Goteborg Krossholmen
+SSC-goto,Goteborg Torshamnen,Sweden,57.68,11.79,goto,,233.0,819,"1236, 74",2079,"2328, 2738",goto,233,Sweden,Goteborg Torshamnen
+SSC-goug,Gough Island,South Africa,-40.32,-9.95,goug,goug,,,,684,,goug,,UK,Gough Island
+SSC-gptx,Galveston Pier,United States,29.31,-94.79,"gptx, gptx2","gptx, pptx",217.0,"767, 775","161, 828","1934, 2973, 676","2355, 2356",gptx,217,USA,Galveston Pier
+SSC-groo,Groote Eylandt,Australia,-13.86,136.42,groo,groo,,145,"1160, 1177",,,groo,,Australia,Groote Eylandt
+SSC-gvds,Gavdos,Greece,34.85,24.12,gvd9,gvd9,,,,"2024, 2277, 2278",2276,gvd9,,Greece,Gavdos
+SSC-gwda,Gwadar,Pakistan,25.11,62.34,gwda,gwda,295.0,,1999,,2894,gwda,295,Pakistan,Gwadar
+SSC-hade,Hadera,Israel,32.47,34.86,"hade, hade2",,80.0,,1797,2022,2163,hade,80,Israel,Hadera
+SSC-haif,Haifa,Israel,32.82,35.0,haif,haif,,,"2221, 798",2619,2618,haif,,Israel,Haifa
+SSC-hain,Haing Gyi Kyun,Myanmar,16.0,94.32,hain,,,,,,,hain,,Myanmar,Haing Gyi Kyun
+SSC-hako,Hakodate,Japan,41.78,140.72,hako,hako,88.0,364,"671, 813",799,"2312, 2755",hako,88,Japan,Hakodate
+SSC-hali,Halifax,Canada,44.67,-63.58,hali,,222.0,275,96,692,2245,hali,222,Canada,Halifax
+SSC-halm,Halmstad,Sweden,56.65,12.84,halm,,,,,,,halm,,Sweden,Halmstad
+SSC-hamb,Hambantota,Sri Lanka,6.12,81.13,hamb,,,,,,,hamb,,Sri Lanka,Hambantota
+SSC-hana,Hanasaki,Japan,43.28,145.57,hana,hana,,,"139, 1442",,,hana,,Japan,Hanasaki
+SSC-hani,Hanimadhoo,Maldives,6.77,73.17,hani,hani,,117,"1779, 2184",,,hani,,Maldive Islands,Hanimadhoo
+SSC-harl,Harlingen,Netherlands,53.18,5.41,harl,,,,25,,,harl,,Netherlands,Harlingen
+SSC-harw,Harwich,United Kingdom,51.95,1.29,harw,,,,"214, 742",,,harw,,UK,Harwich
+SSC-hasp,Hastings Pier,United Kingdom,50.85,0.57,hasp,,,,,,,hasp,,UK,Hastings Pier
+SSC-hbay,Herne Bay,United Kingdom,51.38,1.12,hbay,,,,,,,hbay,,UK,Herne Bay
+SSC-hebo,Helsingborg,Sweden,56.04,12.69,hels,,,,,,,hels,,Sweden,Helsingborg
+SSC-helg,Helgoland Binnenhafen,Germany,54.18,7.89,helg,,,,"660, 713","3545, 691",2260,helg,,Germany,Helgoland Binnenhafen
+SSC-hens,Henslung Cove,Canada,54.18,-133.1,"hens, lpbc",lpbc,,,2229,,,hens,,Canada,Henslung Cove
+SSC-herb,L'Herbaudière,France,47.03,-2.3,"herb, herb2",herb,,,,,3478,herb,,France,L'Herbaudière
+SSC-heys,Heysham,United Kingdom,54.03,-2.92,heys,,,,936,,,heys,,UK,Heysham
+SSC-hieo,ElHierro,Spain,27.78,-17.9,hie2,,,,2051,3143,3142,hie2,,Spain,ElHierro
+SSC-hink,Hinkley Point,United Kingdom,51.21,-3.13,hink,,,,1758,,,hink,,UK,Hinkley Point
+SSC-hirt,Hirtshals,Denmark,57.6,9.97,hirt,,,,89,2064,2233,hirt,,Denmark,Hirtshals
+SSC-hmda,Hamada,Japan,34.9,132.07,hmda,hmda,326.0,348,"143, 1585, 94",804,"2150, 2740",hmda,326,Japan,Hamada
+SSC-holm,Holmsund,Sweden,63.7,20.35,holm,,,,,,,holm,,Sweden,Holmsund
+SSC-honn,Honningsvåg,Norway,70.98,25.98,honn,,,801,1267,2091,2453,honn,,Norway,Honningsvåg
+SSC-horn,Hörnum,Germany,54.76,8.3,horn,,,,,"2001, 2002, 3552",2261,horn,,Germany,Hörnum
+SSC-huas,Huasco,Chile,-28.46,-71.22,"huas2, huas3",huas,,,,,,huas2,,Chile,Huasco
+SSC-huas,Huasco,Chile,-28.46,-71.22,"huas2, huas3",huas,,,,,,huas3,,Chile,Huasco
+SSC-huat,Huatulco,Mexico,15.75,-96.12,"huat, huat2",huat,,,,,,huat,,Mexico,Huatulco
+SSC-huat,Huatulco,Mexico,15.75,-96.12,"huat, huat2",huat,,,,,,huat2,,Mexico,Huatulco
+SSC-huel,Huelva5,Spain,37.13,-6.83,huel,,,,1883,"1923, 3458",2173,huel,,Spain,Huelva5
+SSC-iaix,Ile d'Aix,France,46.01,-1.17,iaix,,,,2236,3005,3004,iaix,,France,Ile d'Aix
+SSC-ibiz,Ibiza2,Spain,38.92,1.45,ibiz,,,,1932,942,2191,ibiz,,Spain,Ibiza2
+SSC-iclr,Isla Clarion,Mexico,18.53,-114.72,iclr,,,,,,,iclr,,Mexico,Isla Clarion
+SSC-iera,Ierapetra,Greece,35.0,25.74,iera,,,,,,,iera,,Greece,Ierapetra
+SSC-igne,Igneada,Turkey,41.88,28.02,igne,,,,1926,,,igne,,Turkey,Igneada
+SSC-ilfa,Ilfracombe,United Kingdom,51.21,-4.11,ilfa,,,,1214,,,ilfa,,UK,Ilfracombe
+SSC-imbi,Imbituba,Brazil,-28.23,-48.65,"imbi, imbt","imbi, imbt",351.0,718,"1916, 542",2043,2349,imbi,,Brasil,Imbituba
+SSC-immi,Immingham,United Kingdom,53.63,-0.19,immi,,,,286,,,immi,,UK,Immingham
+SSC-impr,Imperia,Italy,43.88,8.02,"IM01, im02, im02a",im02,,,"108, 2078",,,IM01,,Italy,Imperia
+SSC-impr,Imperia,Italy,43.88,8.02,"IM01, im02, im02a",im02,,,"108, 2078",,,im02a,,Italy,Imperia
+SSC-inav,Isla Naval,Colombia,10.18,-75.75,"inav, inav2",,,,,,,inav,,Colombia,Isla Naval
+SSC-inav,Isla Naval,Colombia,10.18,-75.75,"inav, inav2",,,,,,,inav2,,Colombia,Isla Naval
+SSC-inha,Inhambane,Mozambique,-23.92,35.5,inha,inha,10.0,900,"1997, 2226",2958,2795,inha,10,Moçambique,Inhambane
+SSC-iqui,Iquique,Chile,-20.2,-70.15,"iqui, iqui2",iqui,,,1963,,,iqui,,Chile,Iquique
+SSC-iqui,Iquique,Chile,-20.2,-70.15,"iqui, iqui2",iqui,,,1963,,,iqui2,,Chile,Iquique
+SSC-isab,Isabel Segunda,Puerto Rico,18.15,-65.44,isab,,,"732, 733","2209, 2210",,,isab,,Puerto Rico,Isabel Segunda
+SSC-ishig,Ishigakijima,Japan,24.33,124.15,ishig,ishi,,365,"1411, 1671",3063,"3061, 3062",ishig,,Japan,Ishigakijima
+SSC-iske,Iskenderun,Turkey,36.62,36.12,iske,,,,"2020, 697",,,iske,,Turkey,Iskenderun
+SSC-ista,Istanbul,Turkey,41.16,29.07,ista,,,,,,,ista,,Turkey,Istanbul
+SSC-itea,Itea,Greece,38.43,22.42,itea,,,,,,,itea,,Greece,Itea
+SSC-itit,Isole Tremiti,Italy,42.12,15.5,IT45,,,,2248,,,IT45,,Italy,Isole Tremiti
+SSC-jack,Jackson Bay,New Zealand,-43.97,168.62,jack,"jack, jbay",,403,1882,,,jack,,New Zealand,Jackson Bay
+SSC-jask,Jask,Iran,25.63,57.77,"jask, jask2",jask,,126,1899,2565,2564,jask,,Iran,Jask
+SSC-jers,Jersey,United Kingdom,49.18,-2.12,jers,,,,"1795, 494, 694",,,jers,,UK,Jersey
+SSC-jrmi,Jeremie,Haiti,18.64,-74.11,jrmi,jrmi,,,,,,jrmi,,Haïti,Jeremie
+SSC-juan,Juan Fernandez,Chile,-33.62,-78.83,"juan, juan2",juan,176.0,21,"1461, 1644, 1664, 904",,2856,juan,176,Chile,Juan Fernandez
+SSC-juan,Juan Fernandez,Chile,-33.62,-78.83,"juan, juan2",juan,176.0,21,"1461, 1644, 1664, 904",,2856,juan2,176,Chile,Juan Fernandez
+SSC-jute,Juten,Sweden,58.63,16.32,jute,,,,,,,jute,,Sweden,Juten
+SSC-kaci,Kaciveli,Ukraine,44.42,34.05,kaci,,,,,,,kaci,,Ukraina,Kaciveli
+SSC-kait,Kaikoura,New Zealand,-42.41,173.7,kait,kait,,,,,,kait,,New Zealand,Kaikoura
+SSC-kaka,Kalix Karlsborg,Sweden,65.79,23.3,kaka,,,,,,,kaka,,Sweden,Kalix Karlsborg
+SSC-kala,Kalamata,Greece,37.02,22.11,kala,,,,411,,,kala,,Greece,Kalamata
+SSC-kalm,Kalmar,Sweden,56.66,16.38,kalm,,,,,,,kalm,,Sweden,Kalmar
+SSC-kalt,Kalathos,Greece,36.11,28.07,kalt,,,,,,,kalt,,Greece,Kalathos
+SSC-kant,Kanton,Kiribati,-2.8,-171.72,kant,kant,145.0,13,"1329, 575",,2847,kant,145,Kiribati,Kanton
+SSC-kapi,Kapingamarangi,Micronesia,1.08,154.81,kapi,kapi,117.0,29,1473,,2841,kapi,117,Micronesia,Kapingamarangi
+SSC-kaps,Kapsali,Greece,36.14,23.0,kaps,,,,,,,kaps,,Greece,Kapsali
+SSC-kara,Karachi,Pakistan,24.81,66.98,kara,kara,30.0,147,204,,2802,kara,30,Pakistan,Karachi
+SSC-karl,Karlshamn,Sweden,56.15,14.82,karl,,,,,,,karl,,Sweden,Karlshamn
+SSC-kast,Kasteli,Greece,35.51,23.64,kast,kast,,,,,,kast,,Greece,Kasteli
+SSC-kata,Katakolo,Greece,37.64,21.32,kata,,,,1240,,,kata,,Greece,Katakolo
+SSC-kepo,King Edward Point,United Kingdom,-54.28,-36.5,"kepo, kepo1",kepo,187.0,,896,3411,2861,kepo,187,UK,King Edward Point
+SSC-kepo,King Edward Point,United Kingdom,-54.28,-36.5,"kepo, kepo1",kepo,187.0,,896,3411,2861,kepo1,187,UK,King Edward Point
+SSC-kerg,Kerguelen Island,France,-49.35,70.22,"kerg, kerg2",kerg,23.0,180,1849,"3211, 3386, 710",1780,kerg,23,France,Kerguelen Island
+SSC-kerg,Kerguelen Island,France,-49.35,70.22,"kerg, kerg2",kerg,23.0,180,1849,"3211, 3386, 710",1780,kerg2,23,France,Kerguelen Island
+SSC-keti,Keti Bandar,Pakistan,24.13,67.43,keba,,,,,,,keba,,Pakistan,Keti Bandar
+SSC-khol,Kholmsk,Russia,47.05,142.04,khol,khol,,,529,,,khol,,Russia,Kholmsk
+SSC-kiel,LT Kiel,Germany,54.5,10.27,kiel,,,,,,,kiel,,Germany,LT Kiel
+SSC-kinl,Kinlochbervie,United Kingdom,58.46,-5.05,kinl,,,,1775,3250,3249,kinl,,UK,Kinlochbervie
+SSC-klag,Klagshamn,Sweden,55.52,12.89,klag,,,,330,,,klag,,Sweden,Klagshamn
+SSC-komi,Ko Miang,Thailand,8.55,97.63,komi,komi,,118,,,,komi,,Thailand,Ko Miang
+SSC-koro,Koroni,Greece,36.8,21.96,koro,koro,,,,,,koro,,Greece,Koroni
+SSC-kors,Korsakov,Russia,46.63,142.77,kors,kors,,,,,,kors,,Russia,Korsakov
+SSC-kos1,Kos,Greece,36.9,27.29,"kos1, kos2",,,,,,,kos1,,Greece,Kos
+SSC-kota,Ko Taphao Noi,Thailand,7.82,98.42,kota,kota,42.0,148,"2230, 446",,2807,kota,42,Thailand,Ko Taphao Noi
+SSC-kril,Cape Kril'on,Russia,45.9,142.08,kril,kril,,,,,,kril,,Russia,Cape Kril'on
+SSC-krna,Kirinda,Sri Lanka,6.2,81.32,krna,krna,,,,,,krna,,Sri Lanka,Kirinda
+SSC-kshb,Kish Bank Lighthouse,Ireland,53.31,-5.92,kis1,,,,,,,kis1,,Ireland,Kish Bank Lighthouse
+SSC-kung,Kungsholmsfort,Sweden,56.11,15.59,kung,,,,70,2075,2330,kung,,Sweden,Kungsholmsfort
+SSC-kungr,Kungsvik,Sweden,59.0,11.13,kungr,,,,2113,2953,2952,kungr,,Sweden,Kungsvik
+SSC-kuri,Kuril'sk,Russia,45.23,147.88,kuri,,,,,,,kuri,,Russia,Kuril'sk
+SSC-kush,Kushiro,Japan,42.97,144.38,kush,kush,89.0,350,518,798,2311,kush,89,Japan,Kushiro
+SSC-kusm,Kushimoto,Japan,33.48,135.77,kusm,kusm,85.0,353,134,803,2314,kusm,85,Japan,Kushimoto
+SSC-kwaj,Kwajalein,Marshall Islands,8.74,167.74,"kwaj, kwaj2",kwaj,111.0,55,513,717,2301,kwaj,111,Marshall Islands,Kwajalein
+SSC-kwaj,Kwajalein,Marshall Islands,8.74,167.74,"kwaj, kwaj2",kwaj,111.0,55,513,717,2301,kwaj2,111,Marshall Islands,Kwajalein
+SSC-kwfl,Key West,United States,24.55,-81.81,"kwfl, kwfl2",kwfl,216.0,242,188,"1935, 2969, 2970, 718",2383,kwfl,216,USA,Key West
+SSC-kwfl,Key West,United States,24.55,-81.81,"kwfl, kwfl2",kwfl,216.0,242,188,"1935, 2969, 2970, 718",2383,kwfl2,216,USA,Key West
+SSC-kypa,Kyparissia,Greece,37.26,21.66,kypa,,,,,,,kypa,,Greece,Kyparissia
+SSC-lagos,Lagos,Nigeria,6.42,3.41,lagos,lagx,259.0,233,"1767, 451",3550,2906,lagos,259,Nigeria,Lagos
+SSC-lagos,Lagos,Nigeria,6.42,3.41,lagos,lagx,259.0,233,"1767, 451",3550,2906,lgos,,Portugal,Lagos
+SSC-lgos,Lagos,Portugal,37.1,-8.67,lgos,,,723,162,720,2275,lagos,259,Nigeria,Lagos
+SSC-lgos,Lagos,Portugal,37.1,-8.67,lgos,,,723,162,720,2275,lgos,,Portugal,Lagos
+SSC-lajo,La Jolla,United States,32.87,-117.26,"lajo, lajo2",lajo,159.0,554,256,"3465, 843",2364,lajo,159,USA,La Jolla
+SSC-lajo,La Jolla,United States,32.87,-117.26,"lajo, lajo2",lajo,159.0,554,256,"3465, 843",2364,lajo2,159,USA,La Jolla
+SSC-lalb,La Libertad,El Salvador,13.49,-89.32,lalb,lalb,,,,,,lalb,,El Salvador,La Libertad
+SSC-lalb,La Libertad,El Salvador,13.49,-89.32,lalb,lalb,,,,,,lali,172,Ecuador,La Libertad
+SSC-lali,La Libertad,Ecuador,-2.21,-80.9,lali,lali,172.0,91,"544, 555","2082, 3510","2444, 2445",lalb,,El Salvador,La Libertad
+SSC-lali,La Libertad,Ecuador,-2.21,-80.9,lali,lali,172.0,91,"544, 555","2082, 3510","2444, 2445",lali,172,Ecuador,La Libertad
+SSC-lamu,Lamu,Kenya,-2.27,40.9,lamu,lamu,,149,"1872, 1985, 2198",,,lamu,,Kenya,Lamu
+SSC-land,Landsort Norra,Sweden,58.74,17.87,land,,,,"2132, 68",,,land,,Sweden,Landsort Norra
+SSC-lang,Langosteira,Spain,43.35,-8.53,lang,,,,,,,lang,,Spain,Langosteira
+SSC-larn,Larnaca,Cyprus,34.92,33.64,larn,,,,2160,,,larn,,Cyprus,Larnaca
+SSC-larp,La Rochelle-Pallice,France,46.16,-1.22,"larp, larp2",larp,,,466,934,1787,larp,,France,La Rochelle-Pallice
+SSC-lasp,La Spezia,Italy,44.1,9.86,LA38,,,,2139,3436,3435,LA38,,Italy,La Spezia
+SSC-laun,La Union,El Salvador,13.31,-87.82,laun,laun,,86,"2223, 558, 740",,,laun,,El Salvador,La Union
+SSC-lcst,Le Castella,Italy,38.91,17.03,lcst,,,,,,,lcst,,Italy,Le Castella
+SSC-lebu,Lebu,Chile,-37.59,-73.66,"lebu, lebu2",lebu,,,1956,,,lebu,,Chile,Lebu
+SSC-lebu,Lebu,Chile,-37.59,-73.66,"lebu, lebu2",lebu,,,1956,,,lebu2,,Chile,Lebu
+SSC-leco,Le Conquet,France,48.36,-4.78,"leco, leco2",leco,,,1294,3179,1792,leco,,France,Le Conquet
+SSC-lecy,Le Crouesty,France,47.54,-2.9,lecy,,,,1921,3190,1793,lecy,,France,Le Crouesty
+SSC-leha,Le Havre,France,49.48,0.11,"leha, leha2",leha,,,453,"3429, 3538",1794,leha,,France,Le Havre
+SSC-leit,Leith,United Kingdom,55.99,-3.18,leit,,,,"1526, 802",3248,"3246, 3247",leit,,UK,Leith
+SSC-lemba,Lembar,Indonesia,-8.73,116.07,lemba,"lemb, lobk",,419,,,,lemba,,Indonesia,Lembar
+SSC-lena,"Lenakel, Tanna",Vanuatu,-19.53,169.27,lena,lena,,,,,,lena,,Vanuatu,"Lenakel, Tanna"
+SSC-lero,Le Robert,France,14.68,-60.94,lero,lero,,"270, 271",,,,lero,,Martinique,Le Robert
+SSC-leso,Les Sables d'Olonne,France,46.5,-1.79,"leso, leso2",leso,,,1747,2012,1791,leso,,France,Les Sables d'Olonne
+SSC-levu,Lautoka,Fiji,-17.6,177.44,levu,"laut, levu",,402,1805,723,2165,levu,,Fiji Islands,Lautoka
+SSC-lifo,Lifou,France,-20.92,167.28,lifo,lifo,,,,3203,3167,lifo,,France,Lifou
+SSC-lime,Limetree,United States,17.7,-64.75,"lime, lime2",lime,,254,,,,lime,,USA,Limetree
+SSC-lime,Limetree,United States,17.7,-64.75,"lime, lime2",lime,,254,,,,lime2,,USA,Limetree
+SSC-limn,Limon,Costa Rica,9.99,-83.02,limon,limn,,268,"2191, 552",,,limon,,Costa Rica,Limon
+SSC-lirf,Lihou Reef,Australia,-17.13,152.15,lirf,,,,,,,lirf,,Australia,Lihou Reef
+SSC-lirn,Livorno,Italy,43.55,10.3,LI11,,,,"110, 2080",,,LI11,,Italy,Livorno
+SSC-litz,"Litzlitz, Malekula",Vanuatu,-16.11,167.44,litz,litz,,,,,,litz,,Vanuatu,"Litzlitz, Malekula"
+SSC-livp,Liverpool,United Kingdom,53.45,-3.02,live,"livp, tpol",,,"15, 1774, 765",2026,"2160, 2736, 2756",live,,UK,Liverpool
+SSC-ljus,Ljusne Orrskarskajen,Sweden,61.21,17.15,ljus,,,,,,,ljus,,Sweden,Ljusne Orrskarskajen
+SSC-llan,Llandudno,United Kingdom,53.33,-3.83,llan,,,,"1504, 1854",,,llan,,UK,Llandudno
+SSC-lmpd,Lampedusa,Italy,35.5,12.6,LA23,lamp,,,2079,722,2226,LA23,,Italy,Lampedusa
+SSC-lore,Loreto,Mexico,26.02,-111.37,lton,lton,,319,1410,,,lton,,Mexico,Loreto
+SSC-losa,Los Angeles,United States,33.72,-118.27,"losa, losa2",losa,,567,"1045, 245","3280, 3513, 897",2374,losa,,USA,Los Angeles
+SSC-losa,Los Angeles,United States,33.72,-118.27,"losa, losa2",losa,,567,"1045, 245","3280, 3513, 897",2374,losa2,,USA,Los Angeles
+SSC-losu,Los Sueños,Costa Rica,9.65,-84.66,losu,losu,,,,,,losu,,Costa Rica,Los Sueños
+SSC-lott,East Cape,New Zealand,-37.55,178.16,lott,lott,,,,,,lott,,New Zealand,East Cape
+SSC-lowe,Lowestoft,United Kingdom,52.47,1.75,lowe,,,,754,2027,2343,lowe,,UK,Lowestoft
+SSC-lpaz,La Paz,Mexico,24.15,-110.3,"lpaz, lpaz2",lpaz,,671,695,"2053, 3060",2291,lpaz,,Mexico,La Paz
+SSC-luba,Lubang,Philippines,13.82,120.2,luba,luba,,655,,,,luba,,Philippines,Lubang
+SSC-luga,Luganville,Vanuatu,-15.52,167.19,luga,luga,,,,,,luga,,Vanuatu,Luganville
+SSC-lund,Lunde,Sweden,62.88,17.88,lund,,,,,,,lund,,Sweden,Lunde
+SSC-lymg,Lymington,United Kingdom,50.74,-1.51,lymg,,,,,,,lymg,,UK,Lymington
+SSC-madry,Puerto Madryn,Argentina,-42.76,-65.03,madry,madr,191.0,731,501,924,2339,madry,191,Argentina,Puerto Madryn
+SSC-maer,Marmara Ereglisi,Turkey,40.97,27.97,maer,,,,2010,2028,2175,maer,,Turkey,Marmara Ereglisi
+SSC-magi,Magueyes Island,United States,17.98,-67.05,"magi, magi2",magi,,246,759,1893,2381,magi,,USA,Magueyes Island
+SSC-magi,Magueyes Island,United States,17.98,-67.05,"magi, magi2",magi,,246,759,1893,2381,magi2,,USA,Magueyes Island
+SSC-maho,Mahon,Spain,39.89,4.27,"lmma, maho",,,,2062,,,maho,,Spain,Mahon
+SSC-mais,Marion Island,South Africa,-46.87,37.87,"mais, mais2",mais,20.0,920,,2016,1980,mais,20,South-Africa,Marion Island
+SSC-mais,Marion Island,South Africa,-46.87,37.87,"mais, mais2",mais,20.0,920,,2016,1980,mais2,,South-Africa,Marion Island
+SSC-maji,Majis,Oman,24.52,56.61,maji,maji,,,,,,maji,,Oman,Majis
+SSC-maju,Marina Jambu,Indonesia,-6.19,105.84,maju,maju,,,,,,maju,,Indonesia,Marina Jambu
+SSC-mala,Malakal,Palau,7.33,134.45,mala,mala,120.0,7,"1252, 338",2628,2627,mala,120,Palau Islands,Malakal
+SSC-male,Male,Maldives,4.19,73.53,male,male,28.0,108,"1743, 1744, 1753","2985, 3536, 729",1978,male,28,Maldive Islands,Male
+SSC-mali,Malin Head Peninsular,Ireland,55.37,-7.33,"malh, mali",mali,239.0,834,916,2065,2435,mali,239,Ireland,Malin Head Peninsular
+SSC-malo,Måløy,Norway,61.93,5.12,malo,,,802,486,,,malo,,Norway,Måløy
+SSC-malp,Malpelo,Colombia,4.0,-81.6,"malp, malp2",malp,,,,,,malp,,Colombia,Malpelo
+SSC-malp,Malpelo,Colombia,4.0,-81.6,"malp, malp2",malp,,,,,,malp2,,Colombia,Malpelo
+SSC-mani,Manila,Philippines,14.58,120.97,mani,mani,73.0,370,145,"3064, 3238, 3591, 815",1979,mani,73,Philippines,Manila
+SSC-manz,Manzanillo,Mexico,19.06,-104.3,"manz, mnza",manz,163.0,395,"1818, 737","2983, 3324, 3596, 733","2166, 2783",manz,163,Mexico,Manzanillo
+SSC-manz,Manzanillo,Mexico,19.06,-104.3,"manz, mnza",manz,163.0,395,"1818, 737","2983, 3324, 3596, 733","2166, 2783",mnza,,Mexico,Manzanillo
+SSC-manzd,Manzanillo,Cuba,20.33,-77.15,,,,,1934,,,manz,163,Mexico,Manzanillo
+SSC-manzd,Manzanillo,Cuba,20.33,-77.15,,,,,1934,,,mnza,,Mexico,Manzanillo
+SSC-mari,Marin,Spain,42.41,-8.69,mari,,,,2181,,,mari,,Spain,Marin
+SSC-marm,Marmagao,India,15.42,73.8,marm,marm,281.0,,1249,2066,2437,marm,281,India,Marmagao
+SSC-mars,Marseille,France,43.29,5.36,mars,,205.0,824,61,"3193, 735",1802,mars,205,France,Marseille
+SSC-marsh,Majuro,Marshall Islands,7.11,171.37,marsh,majb,112.0,5,"1217, 1228, 1838",2055,"2117, 2768",marsh,112,Marshall Islands,Majuro
+SSC-masi,Masirah,Oman,20.68,58.87,masi,masi,,113,1887,,,masi,,Oman,Masirah
+SSC-mata,Matarani,Peru,-17.0,-72.12,mata,mata,,94,"2188, 458",,,mata,,Perú,Matarani
+SSC-matel,Marina di Teulada,Italy,38.93,8.72,matel,,,,,,,matel,,Italy,Marina di Teulada
+SSC-maya,Mayaguez,Puerto Rico,18.22,-67.16,maya,maya,,736,,"3115, 3116",3114,maya,,Puerto Rico,Mayaguez
+SSC-mdic,Marina Di Campo,Italy,42.74,10.24,MC41,,,,2140,3438,3437,MC41,,Italy,Marina Di Campo
+SSC-meji,Mejillones,Chile,-23.1,-70.45,"meji, meji2",meji,,,,,,meji,,Chile,Mejillones
+SSC-meji,Mejillones,Chile,-23.1,-70.45,"meji, meji2",meji,,,,,,meji2,,Chile,Mejillones
+SSC-meli,Melilla,Spain,35.29,-2.93,meli,,,,2057,3105,3104,meli,,Spain,Melilla
+SSC-mera,Mera,Japan,34.92,139.82,mera,mera,86.0,352,359,801,2313,mera,86,Japan,Mera
+SSC-mess,Messina,Italy,38.2,15.56,ME13,,,,"115, 2081",3441,"3439, 3440",ME13,,Italy,Messina
+SSC-meul,Meulaboh,Indonesia,4.32,96.22,"meul, meul2",meul,,914,,2933,2932,meul,,Indonesia,Meulaboh
+SSC-meul,Meulaboh,Indonesia,4.32,96.22,"meul, meul2",meul,,914,,2933,2932,meul2,,Indonesia,Meulaboh
+SSC-mhav,Milford Haven,United Kingdom,51.71,-5.05,mhav,,,,"1700, 66",,,mhav,,UK,Milford Haven
+SSC-mill,Millport,United Kingdom,55.75,-4.91,mill,,,,755,,,mill,,UK,Millport
+SSC-mimz,Mimizan,France,44.21,-1.3,"mimz, mimz2",,,,,"3480, 3481",3479,mimz,,France,Mimizan
+SSC-mind,Mindelo,Cape Verde,16.89,-25.0,mind,,,,,,,mind,,Cabo Verde,Mindelo
+SSC-mini,Minicoy,India,8.28,73.05,mini,mini,29.0,153,1050,2068,2439,mini,29,India,Minicoy
+SSC-mlga,Malaga,Spain,36.71,-4.42,mal3,,,,"1810, 496","1924, 3459","2183, 2396",mal3,,Spain,Malaga
+SSC-mnga,Mangalia,Romania,43.8,28.6,mang,,,,,,,mang,,Romania,Mangalia
+SSC-mnkt,Manukau,New Zealand,-37.05,174.51,mnkt,mnkt,,,,,,mnkt,,New Zealand,Manukau
+SSC-momb,Mombasa,Kenya,-4.07,39.65,momb,momb,8.0,101,"2183, 370",,"2794, 3583",momb,8,Kenya,Mombasa
+SSC-mona,Mona Island,United States,18.09,-67.94,"mona, mona2",mona,,267,2122,3017,3016,mona,,USA,Mona Island
+SSC-mona,Mona Island,United States,18.09,-67.94,"mona, mona2",mona,,267,2122,3017,3016,mona2,,USA,Mona Island
+SSC-moul,Moulmein,Myanmar,16.48,97.62,moul,moul,141.0,906,747,,2845,moul,141,Myanmar,Moulmein
+SSC-mrig,Marigot,Dominica,15.55,-61.28,mrig,,,,,,,mrig,,Dominica island,Marigot
+SSC-mrms,Marmaris,Turkey,36.84,28.38,mrms,,,,,,,mrms,,Turkey,Marmaris
+SSC-mstd,Marstrand,Sweden,57.89,11.59,mard,,,,,,,mard,,Sweden,Marstrand
+SSC-mtwa,Mtwara,Tanzania,-10.27,40.2,mtwa,tanz,9.0,922,805,2567,2566,mtwa,9,Tanzania,Mtwara
+SSC-mumb,Mumbles,United Kingdom,51.57,-3.98,mumb,,,,1732,,,mumb,,UK,Mumbles
+SSC-murc,Murcia,Spain,37.6,-0.97,murc2,,,,,,,murc2,,Spain,Murcia
+SSC-musc,Muscat,Oman,23.63,58.57,"mus2, musc","mus2, musc",,110,"1716, 2185",,,musc,,Oman,Muscat
+SSC-nagas,Nagasaki,Japan,32.73,129.87,naga,naga,83.0,362,"1100, 141",805,2105,naga,83,Japan,Nagasaki
+SSC-naha,Naha,Japan,26.22,127.67,naha,naha,81.0,355,1151,807,2111,naha,81,Japan,Naha
+SSC-naho,Nahodka,Russia,42.78,132.86,naho,naho,,,,,,naho,,Russia,Nahodka
+SSC-nain,Nain,Canada,56.55,-61.68,nain,,224.0,833,1029,748,2101,nain,224,Canada,Nain
+SSC-nanc,Nancowry,India,8.05,93.55,nanc,nanc,,,2222,,,nanc,,India,Nancowry
+SSC-nans,Nansha,China,9.5,112.5,nans,nans,,,,,,nans,,China,Nansha
+SSC-napo,Napoli,Italy,40.84,14.27,NA23,napo,,,"105, 129, 1531, 1535, 1611, 2092",3471,"3468, 3469, 3470",NA23,,Italy,Napoli
+SSC-napt,Port Napier,New Zealand,-39.48,176.92,napt,napt,,668,1750,,,napt,,New Zealand,Port Napier
+SSC-naur,Nauru,Nauru,-0.52,166.91,"naur, nauu",nauu,114.0,4,"1374, 1844",750,"2134, 2773",nauu,,Nauru,Nauru
+SSC-nehu,Nehuentue,Chile,-38.74,-73.43,"nhte, nhte2, ntue, ntue2",ntue,,,,,,nhte,,Chile,Nehuentue
+SSC-nehu,Nehuentue,Chile,-38.74,-73.43,"nhte, nhte2, ntue, ntue2",ntue,,,,,,ntue,,Chile,Nehuentue
+SSC-nehu,Nehuentue,Chile,-38.74,-73.43,"nhte, nhte2, ntue, ntue2",ntue,,,,,,ntue2,,Chile,Nehuentue
+SSC-neri,Newport,United States,41.5,-71.33,,neri,290.0,253,351,761,2361,npor,,UK,Newport
+SSC-npor,Newport,United Kingdom,51.55,-2.99,npor,,,,1832,,,npor,,UK,Newport
+SSC-neve,Nevel'sk,Russia,46.68,141.86,neve,,,,250,,,neve,,Russia,Nevel'sk
+SSC-nhav,Newhaven,United Kingdom,50.78,0.06,nhav,,,,1548,,,nhav,,UK,Newhaven
+SSC-nice,Nice,France,43.7,7.29,"nice, nice2",nice,,,1468,"2014, 3542",1813,nice,,France,Nice
+SSC-niue,Niue,Niue,-19.05,-169.92,niue,niue,,,,,,niue,,Niue,Niue
+SSC-nksk,Nikol'skoe,Russia,55.2,166.02,nksk,nksk,,,,,,nksk,,Russia,Nikol'skoe
+SSC-noct,Nouakchott,Mauritania,18.1,-15.95,noct,noct,,806,2036,,,noct,,Mauritania,Nouakchott
+SSC-nome,Nome,United States,64.5,-165.43,"nome, nome2",nome,74.0,595,1800,2708,2707,nome,74,USA,Nome
+SSC-nome,Nome,United States,64.5,-165.43,"nome, nome2",nome,74.0,595,1800,2708,2707,nome2,74,USA,Nome
+SSC-noti,Noto,Italy,36.88,14.99,,,,,,758,,noto,,Japan,Noto
+SSC-noto,Noto,Japan,37.5,137.16,noto,noto,,,,,,noto,,Japan,Noto
+SSC-noua,Nouadhibou,Mauritania,20.81,-17.04,noua,,,,,,,noua,,Mauritania,Nouadhibou
+SSC-nshi,North Shields,United Kingdom,55.01,-1.44,nshi,,,,"533, 95","2427, 764",2186,nshi,,UK,North Shields
+SSC-nyal,Ny Ålesund,Norway,78.93,11.95,nyal,,345.0,823,1421,"3012, 766, 767",2139,nyal,345,Norway,Ny Ålesund
+SSC-nyna,Nynas Fiskehamn,Sweden,58.92,17.97,nyna,,,,,,,nyna,,Sweden,Nynas Fiskehamn
+SSC-ofun,Ofunato,Japan,39.0,141.75,ofun,ofun,87.0,351,"1140, 1364",800,"2131, 2765",ofun,87,Japan,Ofunato
+SSC-omae,Omaezaki,Japan,34.6,138.23,omae,omae,,,"1141, 1263",,,omae,,Japan,Omaezaki
+SSC-onsa,Onsala,Sweden,57.4,11.93,onsa,,,,,770,,onsa,,Sweden,Onsala
+SSC-oran,Oranjestad,Aruba,12.52,-70.03,oran,oran,,,,,,oran,,Aruba,Oranjestad
+SSC-orma,Ormara,Pakistan,25.2,64.68,orma,orma,,,,,,orma,,Pakistan,Ormara
+SSC-orta,Ortona,Italy,42.36,14.41,OR24,,,,"2097, 972",,,OR24,,Italy,Ortona
+SSC-oska,Oskarshamn,Sweden,57.28,16.48,oska,,,,2106,,,oska,,Sweden,Oskarshamn
+SSC-oste,Ostend,Belgium,51.23,2.92,oste,,,,413,2988,2987,oste,,Belgium,Ostend
+SSC-otat,Dunedin,New Zealand,-45.81,170.63,otat,otat,,669,"136, 1643, 252","2508, 771, 921","2337, 2742, 2746",otat,,New Zealand,Dunedin
+SSC-otro,Otranto,Italy,40.15,18.5,OT15,otra,,,"2096, 990",3444,"3442, 3443",OT15,,Italy,Otranto
+SSC-ouis,Ouistreham,France,49.28,-0.25,"ouis, ouis2",,,,,,,ouis,,France,Ouistreham
+SSC-ouve,Ouvea,France,-20.55,166.56,ouve,,,,,,,ouve,,France,Ouvea
+SSC-oxel,Oxelosund Vinterklasen,Sweden,58.66,17.12,oxel,,,,,,,oxel,,Sweden,Oxelosund Vinterklasen
+SSC-pada,Padang,Indonesia,-0.95,100.37,"pada, padn","pada, padn",45.0,107,"1686, 2193, 274","2944, 3100",2810,pada,45,Indonesia,Padang
+SSC-pago,Pago Pago,American Samoa,-14.28,-170.69,"pago, pago2, pagx","pago, pagx",144.0,56,539,631,2352,pago,144,Samoa,Pago Pago
+SSC-pago,Pago Pago,American Samoa,-14.28,-170.69,"pago, pago2, pagx","pago, pagx",144.0,56,539,631,2352,pago2,144,Samoa,Pago Pago
+SSC-pago,Pago Pago,American Samoa,-14.28,-170.69,"pago, pago2, pagx","pago, pagx",144.0,56,539,631,2352,pagx,144,Samoa,Pago Pago
+SSC-palb,Port Alberni,Canada,49.23,-124.81,palb,ptal,,,527,,,palb,,Canada,Port Alberni
+SSC-pale,Paleochora,Greece,35.22,23.68,pale,pale,,,,,,pale,,Greece,Paleochora
+SSC-pana,Pangandaran,Indonesia,-7.75,108.5,pana,pana,,,,2962,2964,pana,,Indonesia,Pangandaran
+SSC-pand,Pandangaran,Indonesia,-7.75,108.5,pand,,,,,,,pand,,Indonesia,Pandangaran
+SSC-pano,Panormos,Greece,38.36,22.25,pano,,,,,,,pano,,Greece,Panormos
+SSC-pant,Pantelleria,Italy,36.83,11.94,pant,pant,,,,,,pant,,Italy,Pantelleria
+SSC-papa,Papagayo Marina,Costa Rica,10.64,-85.65,papa,papa,,,,,,papa,,Costa Rica,Papagayo Marina
+SSC-papho,Paphos,Cyprus,34.76,32.41,papho,,,,2159,,,papho,,Cyprus,Paphos
+SSC-papo,Paposo,Chile,-25.01,-70.47,"papo, papo2",papo,,,,,,papo,,Chile,Paposo
+SSC-papo,Paposo,Chile,-25.01,-70.47,"papo, papo2",papo,,,,,,papo2,,Chile,Paposo
+SSC-para,Paralimni,Cyprus,35.04,34.04,para,para,,,2161,,,para,,Cyprus,Paralimni
+SSC-pata,Patache,Chile,-20.8,-70.19,"pata, pata2",pata,,,,,,pata,,Chile,Patache
+SSC-pata,Patache,Chile,-20.8,-70.19,"pata, pata2",pata,,,,,,pata2,,Chile,Patache
+SSC-pbil,Puerto Bilwi,Nicaragua,14.02,-83.38,pbil,,,,,,,pbil,,Nicaragua,Puerto Bilwi
+SSC-pblu,Puerto El Bluff,Nicaragua,12.0,-83.69,pblu,pblu,,,,,,pblu,,Nicaragua,Puerto El Bluff
+SSC-pedn,Puerto Eden,Chile,-49.13,-74.42,"pedn, pedn2",pedn,,,,,,pedn,,Chile,Puerto Eden
+SSC-pedn,Puerto Eden,Chile,-49.13,-74.42,"pedn, pedn2",pedn,,,,,,pedn2,,Chile,Puerto Eden
+SSC-peir,Peiraias,Greece,37.93,23.62,peir,,,,374,,,peir,,Greece,Peiraias
+SSC-peit,Porto empedocle,Italy,37.29,13.52,"PE09, PE21",,,,2083,,,PE09,,Italy,Porto empedocle
+SSC-pemba,Pemba,Mozambique,-12.97,40.48,pemba,pemb,11.0,192,"1298, 2227",2957,2796,pemba,11,Moçambique,Pemba
+SSC-penr,Penrhyn,Cook Islands,-9.0,-158.05,penr,penr,143.0,24,1450,,2846,penr,143,Cook Islands,Penrhyn
+SSC-petr,Petropavlovsk,Russia,53.02,158.65,petr,petr,93.0,,824,"2499, 813",2316,petr,93,Russia,Petropavlovsk
+SSC-pich,Pichidangui,Chile,-32.14,-71.53,"pich, pich2, pich3",pich,,,,,,pich,,Chile,Pichidangui
+SSC-pich,Pichidangui,Chile,-32.14,-71.53,"pich, pich2, pich3",pich,,,,,,pich2,,Chile,Pichidangui
+SSC-pich,Pichidangui,Chile,-32.14,-71.53,"pich, pich2, pich3",pich,,,,,,pich3,,Chile,Pichidangui
+SSC-pisa,Pisagua,Chile,-19.6,-70.21,"pisa, pisa2",pisa,,,,,,pisa,,Chile,Pisagua
+SSC-pisa,Pisagua,Chile,-19.6,-70.21,"pisa, pisa2",pisa,,,,,,pisa2,,Chile,Pisagua
+SSC-pkem,Port Kembla,Australia,-34.47,150.91,pkem,pkem,,342,"831, 850",2060,2179,pkem,,Australia,Port Kembla
+SSC-plat,Mar Del Plata,Argentina,-38.05,-57.55,"plat, plat2",plat,192.0,729,"177, 1852, 819, 857","2051, 937","2369, 2758",plat,192,Argentina,Mar Del Plata
+SSC-plma,Palmeira,Cape Verde,16.76,-22.98,palm1,palm,329.0,235,1914,"3597, 851",1987,palm1,329,Cabo Verde,Palmeira
+SSC-plmy,Palmyra Island,United States,5.89,-162.09,plmy,plmy,,43,532,,,plmy,,USA,Palmyra Island
+SSC-plnu,Palinuro,Italy,40.03,15.28,PL14,,,,2082,3581,3580,PL14,,Italy,Palinuro
+SSC-plom,Plomari,Greece,38.97,26.37,plom,,,,,,,plom,,Greece,Plomari
+SSC-plrm,Palermo,Italy,38.12,13.37,PA07,pa07,,,"107, 2093",,,PA07,,Italy,Palermo
+SSC-plup,Pulau Perhentian,Malaysia,5.93,102.7,ms004,pula,,,,,,ms004,,Malaysia,Pulau Perhentian
+SSC-pluz,Puerto de la Luz,Spain,28.13,-15.41,"lasp, pluz",lasp,251.0,217,"1311, 1802, 565, 590",941,"2197, 2754, 2779",pluz,251,Spain,Puerto de la Luz
+SSC-plym,Plymouth,United Kingdom,50.37,-4.19,plym,,,,982,3259,3258,plym,,UK,Plymouth
+SSC-pmel,Puerto Melinka,Chile,-43.9,-73.75,"pmel, pmel2",pmel,,,,,,pmel,,Chile,Puerto Melinka
+SSC-pmel,Puerto Melinka,Chile,-43.9,-73.75,"pmel, pmel2",pmel,,,,,,pmel2,,Chile,Puerto Melinka
+SSC-pmon,Puerto Montt,Chile,-41.48,-72.97,"pmon, pmon2",pmon,178.0,684,472,,2858,pmon,178,Chile,Puerto Montt
+SSC-pmon,Puerto Montt,Chile,-41.48,-72.97,"pmon, pmon2",pmon,178.0,684,472,,2858,pmon2,178,Chile,Puerto Montt
+SSC-pmur,PtMurat,Australia,-21.82,114.19,pmur,pmur,,,,,,pmur,,Australia,PtMurat
+SSC-pnfl,Pensacola,United States,30.4,-87.21,"pnfl, pnfl2",pnfl,288.0,762,246,1887,2379,pnfl,288,USA,Pensacola
+SSC-pnfl,Pensacola,United States,30.4,-87.21,"pnfl, pnfl2",pnfl,288.0,762,246,1887,2379,pnfl2,288,USA,Pensacola
+SSC-pntn,Pointe Noire,Republic of the Congo,-4.78,11.83,pntn,ptno,261.0,234,"2038, 938",,2883,pntn,261,Congo,Pointe Noire
+SSC-ponz,Ponza,Italy,40.9,12.97,PO40,po40,,,2141,,,PO40,,Italy,Ponza
+SSC-porl,Portland,Australia,-38.34,141.61,porl,porl,55.0,129,"1547, 1556",2061,2148,porl,55,Australia,Portland
+SSC-porl,Portland,Australia,-38.34,141.61,porl,porl,55.0,129,"1547, 1556",2061,2148,ptme,,USA,Portland
+SSC-ptme,Portland,United States,43.66,-70.25,ptme,ptme,,252,183,,,porl,55,Australia,Portland
+SSC-ptme,Portland,United States,43.66,-70.25,ptme,ptme,,252,183,,,ptme,,USA,Portland
+SSC-poro,Poronajsk,Russia,49.22,143.09,poro,poro,,,,,,poro,,Russia,Poronajsk
+SSC-porp,Portpatrick,United Kingdom,54.84,-5.12,porp,,,,1215,,,porp,,UK,Portpatrick
+SSC-portf,Port Hardy,Canada,50.72,-127.48,phbc,phbc,,,1071,3207,3206,phbc,,Canada,Port Hardy
+SSC-posa,Porto Santo,Portugal,33.06,-16.31,posa,,,,,,,posa,,Portugal,Porto Santo
+SSC-posi,Pos'et,Russia,42.65,130.8,posi,posi,,,626,,,posi,,Russia,Pos'et
+SSC-poto,Puerto Potosi,Nicaragua,13.01,-87.5,pots,pots,,,,,,pots,,Nicaragua,Puerto Potosi
+SSC-ppcp,Portopalo di Capo Passero,Italy,36.67,15.12,ppcp,ppcp,,,,,,ppcp,,Italy,Portopalo di Capo Passero
+SSC-prai,Praia,Cape Verde,14.92,-23.5,prai,,,222,"1626, 1865",,,prai,,Cabo Verde,Praia
+SSC-prba,Puerto Barrios,Guatemala,15.69,-88.62,prba,prba,,,1080,,,prba,,Guatemala,Puerto Barrios
+SSC-prec,Le Prêcheur,France,14.81,-61.23,prec,prec,,,,,,prec,,Martinique,Le Prêcheur
+SSC-preo,Preobrazheniye,Russia,42.91,133.92,preo,preo,,,465,,,preo,,Russia,Preobrazheniye
+SSC-prev,Preveza,Greece,38.96,20.76,prev,,,,410,,,prev,,Greece,Preveza
+SSC-prig,Prigi,Indonesia,-8.28,111.73,"prgi, prig","prgi, prig",,125,2197,,,prig,,Indonesia,Prigi
+SSC-prin,Prince Rupert,Canada,54.32,-130.32,"prin, prin2",,155.0,540,167,2020,2248,prin,155,Canada,Prince Rupert
+SSC-prin,Prince Rupert,Canada,54.32,-130.32,"prin, prin2",,155.0,540,167,2020,2248,prin2,155,Canada,Prince Rupert
+SSC-prte,Port Elizabeth,South Africa,-33.97,25.63,prte,prte,76.0,184,820,"3508, 3509",2827,prte,76,South-Africa,Port Elizabeth
+SSC-prus,Portrush,United Kingdom,55.21,-6.66,prus,,,,1867,,,prus,,UK,Portrush
+SSC-psdn,Puerto Sandino,Nicaragua,12.2,-86.76,"psan, psdn",psan,,,,,,psan,,Nicaragua,Puerto Sandino
+SSC-psdn,Puerto Sandino,Nicaragua,12.2,-86.76,"psan, psdn",psan,,,,,,psdn,,Nicaragua,Puerto Sandino
+SSC-pslu,Port San Luis,United States,35.17,-120.75,"pslu, pslu2",pslu,,565,508,,,pslu,,USA,Port San Luis
+SSC-pslu,Port San Luis,United States,35.17,-120.75,"pslu, pslu2",pslu,,565,508,,,pslu2,,USA,Port San Luis
+SSC-ptan,Puerto Angel,Mexico,15.67,-96.49,"ptan, ptan2",ptan,164.0,672,1015,2960,2852,ptan,,Mexico,Puerto Angel
+SSC-ptan,Puerto Angel,Mexico,15.67,-96.49,"ptan, ptan2",ptan,164.0,672,1015,2960,2852,ptan2,,Mexico,Puerto Angel
+SSC-ptar,Punta Arenas,Chile,-53.12,-70.86,"ptar, ptar2",ptar,,,473,810,2283,ptar,,Chile,Punta Arenas
+SSC-ptar,Punta Arenas,Chile,-53.12,-70.86,"ptar, ptar2",ptar,,,473,810,2283,ptar2,,Chile,Punta Arenas
+SSC-ptbl,Port Blair,India,11.68,92.77,ptbl,ptbl,38.0,908,206,"2070, 2665, 2732",2441,ptbl,38,India,Port Blair
+SSC-ptca,Punta Cana,Dominican Republic,18.5,-68.38,ptca,pcan,,776,,3558,3557,ptca,,Dominican Republic,Punta Cana
+SSC-ptch,Punta de Choros,Chile,-29.25,-71.47,"ptch, ptch2",ptch,,,,,,ptch,,Chile,Punta de Choros
+SSC-ptco,Puerto Cortes,Honduras,15.83,-87.95,pcor,pcor,,780,557,,,pcor,,Honduras,Puerto Cortes
+SSC-ptfe,Port Ferréol,France,43.36,6.72,"ptfe, ptfe2",ptfe,,,2233,,3164,ptfe,,France,Port Ferréol
+SSC-ptga,Point Galeota,Trinidad and Tobago,10.14,-60.99,"gale, ptga",ptga,,,2008,,,ptga,,Trinidad & Tobago,Point Galeota
+SSC-pthe,Port Hedland,Australia,-20.32,118.57,phcp,,51.0,169,"189, 966",3588,2813,phcp,,Australia,Port Hedland
+SSC-ptis,Port Isaac,United Kingdom,50.59,-4.83,ptis,,,,,,,ptis,,UK,Port Isaac
+SSC-ptln,Port-La-Nouvelle,France,43.01,3.04,"ptln, ptln2",,,,,,3383,ptln,,France,Port-La-Nouvelle
+SSC-ptma,Portomaso,Malta,35.92,14.49,ptma,,,,,,,ptma,,Malta,Portomaso
+SSC-ptmd,"Portsmouth, Dominica",Dominica,15.56,-61.47,"ptmd, ptmd2",,,,,,,ptmd,,Dominica island,"Portsmouth, Dominica"
+SSC-ptmd,"Portsmouth, Dominica",Dominica,15.56,-61.47,"ptmd, ptmd2",,,,,,,ptmd2,,Dominica island,"Portsmouth, Dominica"
+SSC-ptmt,Portsmouth,United Kingdom,50.8,-1.11,ptmt,,,,350,2011,2342,ptmt,,UK,Portsmouth
+SSC-ptos,Porto de Santana,Brazil,-0.05,-51.17,ptos,,,"716, 717",1975,"2997, 3454","2868, 2996",ptos,,Brasil,Porto de Santana
+SSC-ptpl,Puerto Plata,Dominican Republic,19.8,-70.7,ptpl,ppla,,777,577,3556,3555,ptpl,,Dominican Republic,Puerto Plata
+SSC-ptro,Port Royal,Jamaica,17.93,-76.85,ptro,ptro,210.0,782,"2003, 744","2719, 3018",2718,ptro,210,Jamaica,Port Royal
+SSC-ptsc,Port St. Charles,Barbados,13.26,-59.64,ptsc,ptsc,,,888,,,ptsc,,Barbados,Port St. Charles
+SSC-ptsp,Port of Spain,Trinidad and Tobago,10.65,-61.52,ptsp,ptsp,203.0,248,415,3512,2870,ptsp,203,Trinidad & Tobago,Port of Spain
+SSC-ptts,Porto Torres,Italy,40.84,8.4,PT17,,,,2084,,,PT17,,Italy,Porto Torres
+SSC-pual,Puerto Aldea,Chile,-30.29,-71.61,"ptal, ptal2",,,,,,,ptal,,Chile,Puerto Aldea
+SSC-pual,Puerto Aldea,Chile,-30.29,-71.61,"ptal, ptal2",,,,,,,ptal2,,Chile,Puerto Aldea
+SSC-puert,Puerto Vallarta,Mexico,20.62,-105.25,"puer2, puert",,,393,1360,1883,2130,puert,,Mexico,Puerto Vallarta
+SSC-pulp,Pulau Perak,Malaysia,5.71,98.92,ms003,,,,,,,ms003,,Malaysia,Pulau Perak
+SSC-pumo,Puerto Morelos,Mexico,20.87,-86.87,"pumo, pumo2","pum2, pumo",,860,,"3265, 3544",3543,pumo2,,Mexico,Puerto Morelos
+SSC-puyt,Puysegur Welcome Bay,New Zealand,-46.08,166.59,puyt,puyt,,,,,,puyt,,New Zealand,Puysegur Welcome Bay
+SSC-pwil,Puerto Williams,Chile,-54.93,-67.61,"pwil, pwil2",pwil,,287,1122,,,pwil,,Chile,Puerto Williams
+SSC-pwil,Puerto Williams,Chile,-54.93,-67.61,"pwil, pwil2",pwil,,287,1122,,,pwil2,,Chile,Puerto Williams
+SSC-qing,Qinglan,China,19.57,110.82,qing,qing,,,,,,qing,,China,Qinglan
+SSC-quar,Quarry Bay,Hong Kong,22.28,114.22,quar,quar,77.0,329,"1674, 1693, 1891, 333","2089, 3214","2451, 2747, 2784",quar,77,Hong Kong - China,Quarry Bay
+SSC-quel,Queule,Chile,-39.4,-73.21,"quel, quel2",quel,,,,,,quel,,Chile,Queule
+SSC-quel,Queule,Chile,-39.4,-73.21,"quel, quel2",quel,,,,,,quel2,,Chile,Queule
+SSC-quepo,Quepos,Costa Rica,9.4,-84.17,quepo,quep,167.0,87,"2189, 844",,2854,quepo,167,Costa Rica,Quepos
+SSC-quin,Qui Nhon,Vietnam,13.78,109.25,quin,quin,75.0,381,1449,,2826,quin,75,Viet Nam,Qui Nhon
+SSC-quir,Quiriquina,Chile,-36.64,-73.06,"quir, quir2",quir,,,,,,quir,,Chile,Quiriquina
+SSC-quir,Quiriquina,Chile,-36.64,-73.06,"quir, quir2",quir,,,,,,quir2,,Chile,Quiriquina
+SSC-qura,Qurayat,Oman,23.26,58.93,qura,qura,,,,,,qura,,Oman,Qurayat
+SSC-raro,Rarotonga,Cook Islands,-21.2,-159.78,"raro, raro2","rarb, raro",139.0,23,"1453, 1843",655,"2144, 2775",raro,139,Cook Islands,Rarotonga
+SSC-rata,Ratan,Sweden,63.99,20.9,rata,,,,88,2073,2331,rata,,Sweden,Ratan
+SSC-rbct,Raoul Island Boat Cove,New Zealand,-29.28,-177.89,rbct,rbct,,,,,,rbct,,New Zealand,Raoul Island Boat Cove
+SSC-rcit,Reggio Calabria,Italy,38.12,15.65,RC09,,,,"2142, 670",3150,"3148, 3149",RC09,,Italy,Reggio Calabria
+SSC-reyk,Reykjavik,Iceland,64.15,-21.93,reyk,reyk,229.0,288,638,828,1984,reyk,229,Iceland,Reykjavik
+SSC-rfrt,Raoul Island Fishing Rock,New Zealand,-29.25,-177.9,rfrt,rfrt,,,,,,rfrt,,New Zealand,Raoul Island Fishing Rock
+SSC-ring,Ringhals,Sweden,57.25,12.11,ring,,,,2111,2951,2950,ring,,Sweden,Ringhals
+SSC-rorv,Rørvik,Norway,64.87,11.25,rorv,,234.0,803,1241,3561,2879,rorv,234,Norway,Rørvik
+SSC-rosc,Roscoff,France,48.72,-3.97,"rosc, rosc2",rosc,,,1347,1933,1865,rosc,,France,Roscoff
+SSC-rose,Roseau,Dominica,15.31,-61.39,rose,rose,,786,,,,rose,,Dominica island,Roseau
+SSC-ross,Rosslyn Bay,Australia,-23.16,150.79,ross,ross,,330,1760,2980,2979,ross,,Australia,Rosslyn Bay
+SSC-rote,Rote,Indonesia,-10.71,123.06,rote,rote,,,,2961,2963,rote,,Indonesia,Rote
+SSC-roth,Rothera,United Kingdom,-67.57,-68.13,rothe,roth,342.0,832,1931,2007,1991,rothe,342,Antarctica,Rothera
+SSC-rous,Ile Rousse,France,42.64,8.94,"rous, rous2",,,,,,3175,rous,,France,Ile Rousse
+SSC-rtas,Roatan Island Punta Gorda Harbor,Honduras,16.35,-86.54,rtas,rtas,,,,,,rtas,,Honduras,Roatan Island Punta Gorda Harbor
+SSC-rudn,Rudnaya Pristan,Russia,44.35,135.8,rudn,rudn,,,452,,,rudn,,Russia,Rudnaya Pristan
+SSC-saba,Sabang,Indonesia,5.83,95.33,"sab2, saba","sab2, saba",347.0,123,2195,,2904,saba,347,Indonesia,Sabang
+SSC-sade,Sadeng,Indonesia,-8.19,110.8,"sade, sadp",sadp,,417,,2943,2942,sade,,Indonesia,Sadeng
+SSC-sado,Sado,Japan,38.32,138.52,sado,sado,,,,,,sado,,Japan,Sado
+SSC-sagr,Sagres,Portugal,37.01,-8.93,sagr,sagr,,,,,,sagr,,Portugal,Sagres
+SSC-sagu,Sagunto,Spain,39.63,-0.21,sagu,,,,2059,,,sagu,,Spain,Sagunto
+SSC-said,Saidia Marina,Morocco,35.11,-2.29,said,said,,,,,,said,,Morocco,Saidia Marina
+SSC-saig,Saigo,Japan,36.2,133.33,saig,saig,,,1095,,,saig,,Japan,Saigo
+SSC-sain,Saint-Nazaire,France,47.26,-2.2,"sain, sain2",,,,457,3424,1846,sain,,France,Saint-Nazaire
+SSC-saip,Saipan,United States,15.23,145.74,saip,saip,118.0,28,1474,1873,2145,saip,118,USA,Saipan
+SSC-sala,Salalah,Oman,16.94,54.01,sala,sala,4.0,114,1754,,2791,sala,4,Oman,Salalah
+SSC-salrn,Salerno,Italy,40.68,14.75,SA16,,,,2086,,,SA16,,Italy,Salerno
+SSC-salv,Salvador,Brazil,-12.97,-38.52,"salv, salv2",salv,334.0,708,578,"2034, 2657, 3084",2345,Salv2,334,Brasil,Salvador
+SSC-sama,Santa Marta,Colombia,11.24,-74.22,sama,sama,,738,,3071,,sama,,Colombia,Santa Marta
+SSC-sams,Samsun,Turkey,41.28,36.33,sams,,,,989,,,sams,,Turkey,Samsun
+SSC-sana,San Andres,Colombia,12.57,-81.7,sana,sana,,737,2116,,,sana,,Colombia,San Andres
+SSC-sanak,San Antonio,Argentina,-40.8,-64.87,,,,,178,,,sano,,Chile,San Antonio
+SSC-sanak,San Antonio,Argentina,-40.8,-64.87,,,,,178,,,sano2,,Chile,San Antonio
+SSC-sand,San Diego,United States,32.71,-117.17,sand,sand,,569,158,"1889, 1890",2149,sand,,USA,San Diego
+SSC-sanf,San Felix,Chile,-26.26,-80.12,"sanf, sanf3",sanf,177.0,35,1751,,2857,sanf,177,Chile,San Felix
+SSC-sanf,San Felix,Chile,-26.26,-80.12,"sanf, sanf3",sanf,177.0,35,1751,,2857,sanf3,,Chile,San Felix
+SSC-sanj,San Juan,United States,18.46,-66.12,"sanj, sanj2",sanj,206.0,245,1001,"1900, 2662, 3406",2098,sanj,206,USA,San Juan
+SSC-sanj,San Juan,United States,18.46,-66.12,"sanj, sanj2",sanj,206.0,245,1001,"1900, 2662, 3406",2098,sanj2,206,USA,San Juan
+SSC-sanju,San Juan,Peru,-15.37,-75.2,,,,96,"2187, 923",,,sanj,206,USA,San Juan
+SSC-sanju,San Juan,Peru,-15.37,-75.2,,,,96,"2187, 923",,,sanj2,206,USA,San Juan
+SSC-saot,Sao Tome,Sao Tome and Principe,0.35,6.74,saot,,260.0,225,"1665, 2245",1932,1864,saot,260,São Tomé & Príncipe,Sao Tome
+SSC-sapz,Sapzurro,Colombia,8.66,-77.37,"sapz, sapz2",sapz,,,,,,sapz,,Colombia,Sapzurro
+SSC-sapz,Sapzurro,Colombia,8.66,-77.37,"sapz, sapz2",sapz,,,,,,sapz2,,Colombia,Sapzurro
+SSC-sass,Sassnitz,Germany,54.51,13.64,sass,,,,397,833,2223,sass,,Germany,Sassnitz
+SSC-saum,Saumlaki,Indonesia,-7.98,131.29,saum,saum,,420,,,,saum,,Indonesia,Saumlaki
+SSC-sbea,South Beach,United States,44.63,-124.04,"sbea, sbea2",sbea,157.0,592,1196,"3524, 754",2362,sbea,157,USA,South Beach
+SSC-sbea,South Beach,United States,44.63,-124.04,"sbea, sbea2",sbea,157.0,592,1196,"3524, 754",2362,sbea2,157,USA,South Beach
+SSC-scar,Scarborough,Trinidad and Tobago,11.17,-60.73,scar,scar,,,1979,,,scar,,Trinidad & Tobago,Scarborough
+SSC-scarl,Scarborough,United Kingdom,54.28,-0.38,,,,,946,,,scar,,Trinidad & Tobago,Scarborough
+SSC-sche,Scheveningen,Netherlands,52.1,4.26,sche,,,,,,,sche,,Netherlands,Scheveningen
+SSC-scia,Sciacca,Italy,37.5,13.08,SC43,,,,"2047, 2224",,,SC43,,Italy,Sciacca
+SSC-sdom,Santo Domingo/p.San Andres,Dominican Republic,18.42,-69.63,sdom,sdrd,,,,,,sdom,,Dominican Republic,Santo Domingo/p.San Andres
+SSC-sdpr,Sandown Pier,United Kingdom,50.65,-1.15,sdpr,,,,,,,sdpr,,UK,Sandown Pier
+SSC-sebe,Sebesi Island,Indonesia,-5.94,105.51,sebe,sebe,,,,,,sebe,,Indonesia,Sebesi Island
+SSC-sebla,Seblat,Indonesia,-3.22,101.6,sebla,sebl,,,,2937,2936,sebla,,Indonesia,Seblat
+SSC-sema,Semarang,Indonesia,-6.95,110.42,sema,sema,,,281,,,sema,,Indonesia,Semarang
+SSC-sete,Sète,France,43.4,3.7,"sete, sete2",sete,,,958,1905,1847,sete,,France,Sète
+SSC-setu,Setubal,Portugal,38.49,-8.93,setu,setu,,,1425,,,setu,,Portugal,Setubal
+SSC-seve,Severo Kurilsk,Russia,50.68,156.14,"seve, seve2",seve,,,,,,seve,,Russia,Severo Kurilsk
+SSC-sevl,Sevilla,Spain,37.32,-6.01,sev2,,,,,,,sev2,,Spain,Sevilla
+SSC-sewa,Seward,United States,60.12,-149.43,"sewa, sewa2",sewa,150.0,560,266,,2850,sewa,150,USA,Seward
+SSC-sewa,Seward,United States,60.12,-149.43,"sewa, sewa2",sewa,150.0,560,266,,2850,sewa2,150,USA,Seward
+SSC-shee,Sheerness,United Kingdom,51.45,0.74,shee,,,,"3, 334","3263, 841","2187, 2748, 3262",shee,,UK,Sheerness
+SSC-shek,Shek Pik,Hong Kong,22.22,113.89,shek,shek,,,1902,"2090, 3570",2452,shek,,Hong Kong - China,Shek Pik
+SSC-shen,Shenzhen,China,22.47,113.88,shen,shen,,,,,,shen,,China,Shenzhen
+SSC-sian,Sian Ka'an,Mexico,19.31,-87.45,"sian, sian2",sian,,,,,,sian,,Mexico,Sian Ka'an
+SSC-sibo,Sibolga,Indonesia,1.73,98.8,"sib2, sibo","sib2, sibo",,122,"1752, 356",,,sib2,,Indonesia,Sibolga
+SSC-sibo,Sibolga,Indonesia,1.73,98.8,"sib2, sibo","sib2, sibo",,122,"1752, 356",,,sibo,,Indonesia,Sibolga
+SSC-sile,Sile,Turkey,41.18,29.61,sile,,,,2016,,,sile,,Turkey,Sile
+SSC-simp,Simpevarp,Sweden,57.41,16.68,simp,,,,,,,simp,,Sweden,Simpevarp
+SSC-simr,Simrishamn,Sweden,55.56,14.36,simr,,,,2107,,,simr,,Sweden,Simrishamn
+SSC-sino,Sinop,Turkey,42.02,35.15,sino,,,,2017,,,sino,,Turkey,Sinop
+SSC-sisa,Sisal,Mexico,21.16,-90.05,sisa,,,,,,,sisa,,Mexico,Sisal
+SSC-sitk,Sitka,United States,57.05,-135.34,"sitk, sitk2",sitk,154.0,559,426,"2683, 2684",2682,sitk,154,USA,Sitka
+SSC-sitk,Sitka,United States,57.05,-135.34,"sitk, sitk2",sitk,154.0,559,426,"2683, 2684",2682,sitk2,154,USA,Sitka
+SSC-sitt,Sittwe,Myanmar,20.15,92.9,sitt,sitt,37.0,907,421,,2805,sitt,37,Myanmar,Sittwe
+SSC-sjds,Puerto San Juan del Sur,Nicaragua,11.25,-85.88,"psjs, sjds",psds,,,,,,psjs,,Nicaragua,Puerto San Juan del Sur
+SSC-sjds,Puerto San Juan del Sur,Nicaragua,11.25,-85.88,"psjs, sjds",psds,,,,,,sjds,,Nicaragua,Puerto San Juan del Sur
+SSC-skan,Skanor,Sweden,55.42,12.83,skan,,,,2108,2076,2329,skan,,Sweden,Skanor
+SSC-slds,St. Louis du Sud,Haiti,18.23,-73.62,slds,slds,,,,,,slds,,Haïti,St. Louis du Sud
+SSC-smog,Smogen,Sweden,58.35,11.22,smog,,,818,"179, 97",2080,"2326, 2741",smog,,Sweden,Smogen
+SSC-smrn,Stromoren,Sweden,65.55,22.24,stro,,,,,,,stro,,Sweden,Stromoren
+SSC-sobr,Sobra,Croatia,42.79,17.62,sobr,,,,,,,sobr,,Croatia,Sobra
+SSC-sole,Solenzara,France,41.84,9.37,"sole, sole2",,,,2208,3210,3177,sole,,France,Solenzara
+SSC-solo,Honiara,Solomon Islands,-9.43,159.96,solo,"honb, honi",66.0,9,"1373, 1667, 1861, 885",2054,"2133, 2772",solo,66,Solomon Islands,Honiara
+SSC-sona,Port Sonara,Cameroon,4.01,9.13,sona,sona,350.0,816,2037,,2905,sona,350,Cameroon,Port Sonara
+SSC-sosu,Sosunovo,Russia,46.53,138.33,sosu,sosu,,,,,,sosu,,Russia,Sosunovo
+SSC-souf,Soufriere,Saint Lucia,13.85,-61.06,stlu3,,,,,,,stlu3,,Saint Lucia,Soufriere
+SSC-sove,Sovetskaja Gavan',Russia,48.97,140.29,sove,sove,,,553,,,sove,,Russia,Sovetskaja Gavan'
+SSC-spik,Spikarna,Sweden,62.36,17.53,spik,,,,,,,spik,,Sweden,Spikarna
+SSC-sprg,Spring Bay,Australia,-42.55,147.93,sprg,sprg,56.0,335,"1216, 1220",2058,2116,sprg,56,Australia,Spring Bay
+SSC-sscr,Second Severn Crossing,United Kingdom,51.57,-2.7,sscr,,,,,,,sscr,,UK,Second Severn Crossing
+SSC-stan,Stanley,United Kingdom,-51.75,-57.93,stan,stan,305.0,290,"1082, 1796",1870,2162,stan,305,UK,Stanley
+SSC-stans,Stanley,Australia,-40.77,145.3,,,,,1144,,,stan,305,UK,Stanley
+SSC-star,Starodubskoe,Russia,47.41,142.82,star,star,,,,,,star,,Russia,Starodubskoe
+SSC-stari,Stari Grad,Croatia,43.18,16.58,stari,,,,,,,stari,,Croatia,Stari Grad
+SSC-stdr,Santander,Spain,43.46,-3.79,san2,,,,"1051, 1807, 485",646,"2196, 2401, 2402",san2,,Spain,Santander
+SSC-stens,Stenungsund,Sweden,58.09,11.83,sten,,,,2112,,,sten,,Sweden,Stenungsund
+SSC-sthl,Saint Helena,Saint Helena,-15.92,-5.72,"sthl, sthl2",sthl,264.0,292,1845,2576,1986,sthl,264,Saint-Helena,Saint Helena
+SSC-sthm,Stockholm,Sweden,59.32,18.08,sthm,,341.0,826,"2131, 78",2084,2332,sthm,341,Sweden,Stockholm
+SSC-stjo,St. Johns,Canada,47.57,-52.72,stjo,,223.0,276,393,"3434, 847",1989,stjo,223,Canada,St. Johns
+SSC-stlu,Ganter's Bay,Saint Lucia,14.02,-61.0,stlu,stlu,,,,,,stlu,,Saint Lucia,Ganter's Bay
+SSC-stma,Saint-Malo,France,48.64,-2.03,"stma, stma2",stma,,,454,"1936, 3181","1866, 3419",stma,,France,Saint-Malo
+SSC-stmb,Strombolicchio,Italy,38.82,15.25,ST44,,,,2247,,,ST44,,Italy,Strombolicchio
+SSC-stmr,St Marys,United Kingdom,49.92,-6.32,stmr,,,,1855,3257,3256,stmr,,UK,St Marys
+SSC-stmt,Saint Martin Island,France,18.08,-63.09,stmt,stmt,,,,,,stmt,,France,Saint Martin Island
+SSC-stor,Stornoway,United Kingdom,58.2,-6.38,"stor, stor2",,238.0,295,314,1908,2189,stor,238,UK,Stornoway
+SSC-stpa,Saint-Paul Island,France,-38.71,77.54,stpa,,24.0,179,1863,3093,1837,stpa,24,France,Saint-Paul Island
+SSC-stqy,Saint-Quay-Portrieux,France,48.65,-2.82,"stqy, stqy2",,,,,,,stqy,,France,Saint-Quay-Portrieux
+SSC-sumt,Christchurch,New Zealand,-43.57,172.77,sumt,sumt,,667,"247, 259",922,"2335, 3222",sumt,,New Zealand,Christchurch
+SSC-sura,Surabaya,Indonesia,-7.22,112.73,sura,sura,292.0,160,"1599, 280",,2893,sura,,Indonesia,Surabaya
+SSC-suro,Sur,Oman,22.57,59.52,suro,suro,,,,,,suro,,Oman,Sur
+SSC-swpr,Swanage Pier,United Kingdom,50.61,-1.95,swpr,,,,,,,swpr,,UK,Swanage Pier
+SSC-syow,Syowa,Antarctica,-69.01,39.57,syow,syow,95.0,127,1396,850,2000,syow,95,Antarctica,Syowa
+SSC-syro,Syros,Greece,37.44,24.94,syro,syro,,,1234,,,syro,,Greece,Syros
+SSC-tako,Takoradi,Ghana,4.88,-1.75,"tako, tkdi","tako, tkdi",335.0,231,331,"2037, 3514",2346,tako,335,Ghana,Takoradi
+SSC-tako,Takoradi,Ghana,4.88,-1.75,"tako, tkdi","tako, tkdi",335.0,231,331,"2037, 3514",2346,tkdi,335,Ghana,Takoradi
+SSC-tala,Talara,Peru,-4.58,-81.28,tala,tala,,92,"2186, 475",,,tala,,Perú,Talara
+SSC-talc,Talcahuano,Chile,-36.7,-73.11,"talc, talc2",talc,,,571,"3013, 657",2606,talc,,Chile,Talcahuano
+SSC-talc,Talcahuano,Chile,-36.7,-73.11,"talc, talc2",talc,,,571,"3013, 657",2606,talc2,,Chile,Talcahuano
+SSC-talt,Taltal,Chile,-25.41,-70.49,"talt, talt2, talt3",talt,,,,,,talt,,Chile,Taltal
+SSC-talt,Taltal,Chile,-25.41,-70.49,"talt, talt2, talt3",talt,,,,,,talt2,,Chile,Taltal
+SSC-talt,Taltal,Chile,-25.41,-70.49,"talt, talt2, talt3",talt,,,,,,talt3,,Chile,Taltal
+SSC-tanjo,Tanjong Pagar,Singapore,1.26,103.85,tanjo,tanp,44.0,"327, 337, 699","1183, 1534, 1746, 248, 724",765,"2121, 2785, 2786, 2809",tanjo,44,Singapore,Tanjong Pagar
+SSC-tare,Tarekukure Wharf,Solomon Islands,-6.69,156.41,tare,tare,,,,,,tare,,Solomon Islands,Tarekukure Wharf
+SSC-tari,Tarifa,Spain,36.01,-5.6,tari,,,,"2054, 488",3422,"3420, 3421",tari,,Spain,Tarifa
+SSC-tarr,Tarragona,Spain,41.08,1.21,tarr,,,,2182,,,tarr,,Spain,Tarragona
+SSC-tasu,Tasucu,Turkey,36.28,33.84,tasu,,,,2018,,,tasu,,Turkey,Tasucu
+SSC-taut,Port of Tauranga,New Zealand,-37.64,176.18,taut,taut,,73,"1590, 978",,,taut,,New Zealand,Port of Tauranga
+SSC-tdcu,Tristan da Cunha,United Kingdom,-37.05,-12.3,tdcu,tdca,266.0,722,2164,,1990,tdcu,266,UK,Tristan da Cunha
+SSC-tela,Tela Harbor,Honduras,15.78,-87.45,tela,tela,,,,,,tela,,Honduras,Tela Harbor
+SSC-telc,Telchac,Mexico,21.34,-89.31,telc,telc,,862,2178,,,telc,,Mexico,Telchac
+SSC-telu,Telukdalam,Indonesia,0.55,97.82,telu,teda,,913,,2935,2934,telu,,Indonesia,Telukdalam
+SSC-tema,Tema,Ghana,5.62,0.0,tema,,,,1049,,,tema,,Ghana,Tema
+SSC-tgud,Tangudden GBG Hamn,Sweden,57.68,11.87,tang,,,,,,,tang,,Sweden,Tangudden GBG Hamn
+SSC-thes,Thessaloniki,Greece,40.63,22.93,thes,,,,373,"2574, 2575",2573,thes,,Greece,Thessaloniki
+SSC-thev,Thevenard,Australia,-32.15,133.64,thev,thev,308.0,128,"1169, 386",649,2733,thev,308,Australia,Thevenard
+SSC-thio,Thio,New Caledonia,-21.61,166.24,thio,thio,,,1538,3564,3563,thio,,France,Thio
+SSC-tjls,Tanjung Lesung,Indonesia,-6.48,105.66,tjls,tanj,,416,,2941,2940,tjls,,Indonesia,Tanjung Lesung
+SSC-tnbl,Tanahbala,Indonesia,-0.53,98.5,tnbl,tana,,,,,,tnbl,,Indonesia,Tanahbala
+SSC-tnpr,Teignmouth Pier,United Kingdom,50.54,-3.49,tnpr,,,,,,,tnpr,,UK,Teignmouth Pier
+SSC-tobe,Tobermory,United Kingdom,56.62,-6.06,tobe,,,,1491,,,tobe,,UK,Tobermory
+SSC-tofi,Tofino,Canada,49.15,-125.91,"tfbc, tofi",tfbc,156.0,542,165,"2038, 866",2249,tfbc,156,Canada,Tofino
+SSC-tofi,Tofino,Canada,49.15,-125.91,"tfbc, tofi",tfbc,156.0,542,165,"2038, 866",2249,tofi,156,Canada,Tofino
+SSC-tort,Tortola,British Virgin Islands,18.42,-64.61,tort,tort,,,,,,tort,,British Virgin Islands,Tortola
+SSC-toul,Toulon,France,43.12,5.91,"toul, toul2",toul,,,980,,1852,toul,,France,Toulon
+SSC-toya,Toyama,Japan,36.76,137.23,toya,toya,325.0,349,1389,802,2136,toya,325,Japan,Toyama
+SSC-trab,Trabzon,Turkey,41.0,39.72,trab,,,,"1927, 800",859,2219,trab,,Turkey,Trabzon
+SSC-treg,Tregde,Norway,58.0,7.57,treg,,321.0,804,302,2036,2262,treg,321,Norway,Tregde
+SSC-trnt,Taranto,Italy,40.48,17.22,TA18,,,,"103, 2095",,,TA18,,Italy,Taranto
+SSC-trnz,Terneuzen,Netherlands,51.34,3.82,trnz,,,,,,,trnz,,Netherlands,Terneuzen
+SSC-trst,Trieste,Italy,45.65,13.76,TR22,,340.0,829,"154, 2099",2042,"2254, 3447",TR22,,Italy,Trieste
+SSC-tuca,Grand Turk Island,Turks and Caicos Islands,21.43,-71.15,"tcgt, tuca","tcgt, tuca",,,,,,tuca,,Turks & Caicos Islands,Grand Turk Island
+SSC-tumc,Tumaco,Colombia,1.82,-78.73,"tumc, tumc2",tumc,171.0,303,639,2047,2394,tumc,,Colombia,Tumaco
+SSC-tumc,Tumaco,Colombia,1.82,-78.73,"tumc, tumc2",tumc,171.0,303,639,2047,2394,tumc2,171,Colombia,Tumaco
+SSC-tuxp,Tuxpan,Mexico,20.97,-97.4,"tuxp, tuxp2",tuxp,,,918,,,tuxp,,Mexico,Tuxpan
+SSC-tuxp,Tuxpan,Mexico,20.97,-97.4,"tuxp, tuxp2",tuxp,,,918,,,tuxp2,,Mexico,Tuxpan
+SSC-udde,Uddevalla,Sweden,58.35,11.89,udde,,,,,,,udde,,Sweden,Uddevalla
+SSC-ugle,Uglegorsk,Russia,49.08,142.07,ugle,ugle,,,1040,,,ugle,,Russia,Uglegorsk
+SSC-ulla,Ullapool,United Kingdom,57.9,-5.16,ulla,,,,1112,3252,3251,ulla,,UK,Ullapool
+SSC-ushu,Ushuaia,Argentina,-54.82,-68.22,ushu,ushu,181.0,600,"1271, 1850, 874",2506,"2225, 2759",ushu,181,Argentina,Ushuaia
+SSC-util,Utila Island,Honduras,16.1,-86.89,util,,,,,,,util,,Honduras,Utila Island
+SSC-vale,Valencia,Spain,39.44,-0.31,vale,vale,,,1813,872,2190,vale,,Spain,Valencia
+SSC-valp,Valparaiso,Chile,-33.03,-71.63,"sho2, valp, valp2, valp3",valp,175.0,81,"1553, 1648, 499","3101, 873",2156,valp,175,Chile,Valparaiso
+SSC-valp,Valparaiso,Chile,-33.03,-71.63,"sho2, valp, valp2, valp3",valp,175.0,81,"1553, 1648, 499","3101, 873",2156,valp2,175,Chile,Valparaiso
+SSC-valp,Valparaiso,Chile,-33.03,-71.63,"sho2, valp, valp2, valp3",valp,175.0,81,"1553, 1648, 499","3101, 873",2156,valp3,,Chile,Valparaiso
+SSC-vanu,Port Vila,Vanuatu,-17.76,168.31,vanu,"porv, vanu",348.0,46,"1464, 1841","3369, 874",2169,vanu,348,Vanuatu,Port Vila
+SSC-vard,Vardø,Norway,70.33,31.1,vard,,323.0,805,"46, 524","3565, 875",2264,vard,323,Norway,Vardø
+SSC-vati,"Vatia, Viti Levu",Fiji,-17.4,177.76,vati,vati,,,,,,vati,,Fiji Islands,"Vatia, Viti Levu"
+SSC-vela,Vela Luka,Croatia,42.96,16.72,vela,,,,,,,vela,,Croatia,Vela Luka
+SSC-veni,Venice,Italy,45.42,12.43,VE19,,,,"168, 2100, 218, 39, 87","2271, 3154, 876","2221, 2273, 2737, 2739",VE19,,Italy,Venice
+SSC-vern,Vernadsky - Faraday,Antarctica,-65.25,-64.27,"ver1, vern",vern,188.0,700,913,2659,2658,ver1,188,Antarctica,Vernadsky - Faraday
+SSC-vern,Vernadsky - Faraday,Antarctica,-65.25,-64.27,"ver1, vern",vern,188.0,700,913,2659,2658,vern,188,Antarctica,Vernadsky - Faraday
+SSC-vibc,Victoria Harbor,Canada,48.42,-123.37,vibc,vibc,,,,,,vibc,,Canada,Victoria Harbor
+SSC-vieq,Vieques,United States,18.09,-65.47,"vieq, vieq2","vieq, viqu",,,,,,vieq,,USA,Vieques
+SSC-vieq,Vieques,United States,18.09,-65.47,"vieq, vieq2","vieq, viqu",,,,,,vieq2,,USA,Vieques
+SSC-vies,Vieste,Italy,41.89,16.18,VI12,,,,2087,,,VI12,,Italy,Vieste
+SSC-vifo,Vieux Fort,Saint Lucia,13.72,-60.95,stlu4,,,,,,,stlu4,,Saint Lucia,Vieux Fort
+SSC-vigo,Vigo,Spain,42.24,-8.73,vig2,,,208,"1898, 483",1928,"2194, 2398",vig2,,Spain,Vigo
+SSC-vikew,Viken,Sweden,56.14,12.58,vikew,,,,2110,,,vikew,,Sweden,Viken
+SSC-vilg,Villagarcia,Spain,42.6,-8.77,vil2,,,,1897,,,vil2,,Spain,Villagarcia
+SSC-ving,Vinga2,Sweden,57.63,11.61,vin2,,,,,,,vin2,,Sweden,Vinga2
+SSC-visb,Visby,Sweden,57.64,18.28,visb,,,,2105,"3566, 879",2323,visb,,Sweden,Visby
+SSC-vlad,Vladivostok,Russia,43.13,131.92,vlad,vlad,,,290,2630,2629,vlad,,Russia,Vladivostok
+SSC-vlis,Vlissingen,Netherlands,51.44,3.6,vlis,,,,20,2240,2239,vlis,,Netherlands,Vlissingen
+SSC-vlrn,Vlakte v/d Raan,Netherlands,51.5,3.24,vlrn,,,,,,,vlrn,,Netherlands,Vlakte v/d Raan
+SSC-vodo,Vodopadnaya,Russia,51.73,157.99,vodo,vodo,,,,,,vodo,,Russia,Vodopadnaya
+SSC-vung,Vung Tau,Vietnam,10.34,107.07,vung,vtau,,383,1495,,,vung,,Viet Nam,Vung Tau
+SSC-vvik,Vastervik,Sweden,57.75,16.68,vvik,,,,,,,vvik,,Sweden,Vastervik
+SSC-waik,Waikelo,Indonesia,-9.39,119.22,waik,waik,346.0,418,,2931,2903,waik,346,Indonesia,Waikelo
+SSC-waka,Wakkanai,Japan,45.42,141.68,waka,waka,324.0,360,1103,796,2106,waka,324,Japan,Wakkanai
+SSC-wall,Mata-Utu (Wallis island),France,-13.17,-176.1,wall,wall,,,383,,3472,wall,,France,Mata-Utu (Wallis island)
+SSC-walvi,Walvis Bay,Namibia,-22.95,14.5,walvi,walv,314.0,220,914,,2899,walvi,314,Namibia,Walvis Bay
+SSC-warn,Warnemünde,Germany,54.17,12.1,warn,,,,"11, 53",880,2222,warn,,Germany,Warnemünde
+SSC-wbhb,West Bay Harbour,United Kingdom,50.71,-2.76,wbhb,,,,,,,wbhb,,UK,West Bay Harbour
+SSC-weym,Weymouth,United Kingdom,50.61,-2.45,weym,,,,"1773, 251",3261,3260,weym,,UK,Weymouth
+SSC-whit,Whitby,United Kingdom,54.49,-0.61,whit,,,,1505,,,whit,,UK,Whitby
+SSC-willm,Willemstad,Curacao,12.1,-68.94,,,,778,,,,will,,Curaçao,Willemstad
+SSC-wint,Winter Harbour,Canada,50.51,-128.03,"whbc, wint",,,,1799,697,2164,whbc,,Canada,Winter Harbour
+SSC-wint,Winter Harbour,Canada,50.51,-128.03,"whbc, wint",,,,1799,697,2164,wint,,Canada,Winter Harbour
+SSC-work,Workington,United Kingdom,54.65,-3.57,work,,,,1794,,,work,,UK,Workington
+SSC-wuda,Khawr Wudam,Oman,23.82,57.52,wuda,wuda,,,,,,wuda,,Oman,Khawr Wudam
+SSC-yaku,Yakutat,United States,59.55,-139.74,"yaku, yaku2",yaku,,570,445,,,yaku,,USA,Yakutat
+SSC-yaku,Yakutat,United States,59.55,-139.74,"yaku, yaku2",yaku,,570,445,,,yaku2,,USA,Yakutat
+SSC-yalo,Yalova,Turkey,40.66,29.28,yalo,,,,2019,,,yalo,,Turkey,Yalova
+SSC-yapi,Yap Island,Micronesia,9.51,138.12,yapi,yapi,119.0,8,"1251, 678",,2842,yapi,119,Micronesia,Yap Island
+SSC-zanz,Zanzibar,Tanzania,-6.15,39.18,zanz,zanz,297.0,151,1600,2615,2614,zanz,297,Tanzania,Zanzibar
+SSC-zhap,Zhapo,China,21.58,111.83,zhap,zhap,78.0,635,933,,2828,zhap,78,China,Zhapo
+SSC-zygi,Zygi,Cyprus,34.73,33.34,"zygi, zygi1",zygi,,,2162,,,zygi,,Cyprus,Zygi
+SSC-zygi,Zygi,Cyprus,34.73,33.34,"zygi, zygi1",zygi,,,2162,,,zygi1,,Cyprus,Zygi

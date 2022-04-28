@@ -1,0 +1,987 @@
+,PLATFORM_NAME,PLATFORM_CODE,INSTITUTION,INSTITUTION_EDMO_CODE,latitude (degrees_north),longitude (degrees_east)
+0,Aarhus,Aarhus,DMI,469,56.15,10.2167
+144,Althagen,Althagen,BSH,1850,54.3769,12.4194
+240,Ark\u00f6 mobi,Arko,SMHI,545,58.4843,16.9607
+264,Assens,Assens,DMI,469,55.2667,9.8833
+408,Bagenkop,Bagenkop,DMI,469,54.7528,10.6778
+551,Ballen,Ballen,DMI,469,55.8167,10.6444
+693,Bandholm,Bandholm,DMI,469,54.8333,11.4833
+837,Barh\u00f6f,Barhoeft,BSH,1850,54.4397,13.0328
+933,Barseb\u00e4c,Barseback,SMHI,545,55.7564,12.9033
+957,Bogense,Bogense,DMI,469,55.5667,10.0833
+1101,B\u00f6na,Bonan,SMHI,545,60.7315,17.3258
+1125,Brofjorden,Brofjorden,SMHI,545,58.336,11.4046
+1149,Darlowo,Darlowo,IMWM,193,54.4392,16.3802
+1173,Daugavgriva,Daugavgriva,LEGMA,892,57.05,24.0167
+1197,Degerby / F\u00f6gl,Degerby,FMI,1725,60.0319,20.3848
+1221,Drag\u00f6,Dragor,DMI,469,55.6,12.6833
+1365,Drogden,Drogden,DMI,469,55.5358,12.7117
+1507,E4 Bron S\u00f6dert\u00e4l,E4BronSodertalje,SMHI,545,59.1848,17.6428
+1531,Eckernf\u00f6rd,Eckernfoerde,BSH,1850,54.4747,9.8361
+1675,Eisma,Eisma,MSI,713,59.568,26.305
+1699,F\u00e5bor,Faaborg,DMI,469,55.1,10.25
+1841,Falkenberg,Falkenberg,SMHI,545,56.892,12.4895
+1864,Flensburg,Flensburg,BSH,1850,54.795,9.4331
+2008,Forsmark,Forsmark,SMHI,545,60.4086,18.2108
+2032,Fredericia,Fredericia,DMI,469,55.5667,9.75
+2176,Frederikshavn,Frederikshavn,DMI,469,57.4333,10.5667
+2319,Furu\u00f6grun,Furuogrund,SMHI,545,64.9158,21.2306
+2343,Fynshav,Fynshav,DMI,469,55.0,9.9833
+2486,Gdansk,Gdansk,IMWM,193,54.3997,18.6981
+2510,Gedser,Gedser,DMI,469,54.5667,11.9333
+2646,G\u00f6teborg-Agnesber,GoteborgAgnesberg,SMHI,545,57.7897,12.01
+4086,G\u00f6teborg-Eriksber,GoteborgEriksberg,SMHI,545,57.6967,11.9089
+5526,G\u00f6teborg-L\u00e4rjeho,GoteborgLarjeholm,SMHI,545,57.7658,12.0056
+6015,G\u00f6teborg-Tingstadstunnel,GoteborgTingstadstunneln,SMHI,545,57.7231,11.9869
+7455,G\u00f6teborg-Torshamne,GoteborgTorshamnen,SMHI,545,57.6847,11.7906
+7479,Greifswald,Greifswald,BSH,1850,54.0928,13.4461
+7623,Gren\ufffd,Grena,DMI,469,56.4111,10.9306
+7763,Halmstad,Halmstad,SMHI,545,56.6488,12.8358
+7787,Hamina Pit\u00e4j\u00e4nsaari / Fredriksha,Hamina,FMI,1725,60.5628,27.1792
+7811,Hanko Pikku Kolalahti / Hang\ufffd,Hanko,FMI,1725,59.8229,22.9766
+7835,Heiligenhafen,Heiligenhafen,BSH,1850,54.3731,11.0056
+7979,Helsingborg,Helsingborg,SMHI,545,56.0412,12.6845
+8003,Helsinki Kaivopuisto / Helsingfors,Helsinki,FMI,1725,60.1536,24.9562
+8027,Heltermaa,Heltermaa,MSI,713,58.8664,23.0466
+8051,Hesnaes,Hesnaes,DMI,469,54.8167,12.1333
+8195,Hobro,Hobro,DMI,469,56.6333,9.8
+8337,Holbaek,Holbaek,DMI,469,55.7167,11.7167
+8476,Holmsund,Holmsund,SMHI,545,63.6555,20.341
+8500,Hornbaek,Hornbaek,DMI,469,56.1,12.4667
+8643,Hov,Hov,DMI,469,55.9167,10.2667
+8784,Juelsminde,Juelsminde,DMI,469,55.7167,10.0167
+8924,Juten,Juten,SMHI,545,58.6342,16.3248
+8948,Kalix Karlsborg,KalixKarlsborg,SMHI,545,65.7888,23.3033
+8972,Kalix Stor\u00f6,KalixStoron,SMHI,545,65.6969,23.0961
+8996,Kalkgrund,Kalkgrund,BSH,1850,54.8247,9.8881
+9092,Kalmar,Kalmar,SMHI,545,56.6713,16.3888
+9116,Kalvehave,Kalvehave,DMI,469,55.0,12.1667
+9260,Kappeln,Kappeln,BSH,1850,54.6644,9.9381
+9356,Karlshamn,Karlshamn,SMHI,545,56.1542,14.8212
+9380,Karrebaeksminde,Karrebaeksminde,DMI,469,55.1833,11.65
+9523,Kaskinen \u00c5dsk\u00e4r / Kas,Kaskinen,FMI,1725,62.344,21.2148
+9547,Kelnase,Kelnase,MSI,713,59.638,25.015
+9571,Kemi Ajos / Kemi,Kemi,FMI,1725,65.6729,24.5153
+9595,Kiel-Holtenau,KielHoltenau,BSH,1850,54.3722,10.1569
+9739,Kiel TG,KielTG,BSH,1850,54.5003,10.275
+9883,Klagshamn,Klagshamn,SMHI,545,55.5222,12.8936
+9907,K\u00f6benhav,Kobenhavn,DMI,469,55.7,12.6
+9950,K\u00f6g,Koege,DMI,469,55.45,12.2
+10090,Kolka,Kolka,LEGMA,892,57.7333,22.5833
+10114,Kors\u00f6,Korsor,DMI,469,55.3333,11.1333
+10256,Koserow,Koserow,BSH,1850,54.0603,14.0008
+10307,Kristineberg,Kristineberg1,SMHI,545,58.25,11.45
+10595,Kronstadt,Kronstadt,NWAHEM,911,59.9667,29.75
+10619,Kuivastu,Kuivastu,MSI,713,58.5742,23.3935
+10643,Kungsholmsfort,Kungsholmsfort,SMHI,545,56.1053,15.5894
+10667,Kungsvik,Kungsvik,SMHI,545,58.9967,11.1272
+10691,Landsort Norra,LandsortNorra,SMHI,545,58.7689,17.8589
+10715,Langballigau,Langballigau,BSH,1850,54.8233,9.6542
+10859,Leppneeme,Leppneeme,MSI,713,59.5531,24.8662
+10883,Ljusne Orrsk\u00e4rskaje,LjusneOrrskarskajen,SMHI,545,61.2067,17.1452
+10907,L\u00fcbec,Luebeck,BSH,1850,53.8931,10.7031
+11051,Lunde,Lunde,SMHI,545,62.8806,17.8764
+11075,Malm\u00f6 Ham,MalmoHamn,SMHI,545,55.6257,12.9845
+11099,Marstrand,Marstrand,SMHI,545,57.888,11.5732
+11123,Munalaiu,Munalaiu,MSI,713,58.228,24.1185
+11147,Neustadt,Neustadt,BSH,1850,54.0967,10.8128
+11291,Nyn\u00e4s Fiskeham,NynasFiskehamn,SMHI,545,58.9006,17.9536
+11315,\u00d6lands norra udd,OlandsNorraUdde,SMHI,545,57.3661,17.0972
+11339,Onsala,Onsala,SMHI,545,57.392,11.919
+11363,Oskarshamn,Oskarshamn,SMHI,545,57.275,16.4781
+11387,Oulu Toppila / Ule\u00e5bor,Oulu,FMI,1725,65.0403,25.4182
+11411,Oxel\u00f6sund Vinterklase,OxelosundVinterklasen,SMHI,545,58.6617,17.1248
+11435,Paldiski,Paldiski,MSI,713,59.3349,24.0796
+11459,P\u00e4rn,Parnu,MSI,713,58.3889,24.4868
+11483,Pietarsaari Lepp\u00e4luoto / Jakobsta,Pietarsaari,FMI,1725,63.7086,22.6896
+11507,Pori M\u00e4ntyluoto Kallo / Bj\u00f6rnebo,Pori,FMI,1725,61.5944,21.4634
+11531,Porvoo Em\u00e4salo Vaarlahti / Borg,Porvoo,FMI,1725,60.2058,25.6251
+11555,Raahe Lapaluoto / Brahestad,Raahe,FMI,1725,64.6659,24.4071
+11579,Randers,Randers,DMI,469,56.45,10.05
+11721,Ratan,Ratan,SMHI,545,63.9861,20.895
+11745,Rauma Ulko-Pet\u00e4j\u00e4s / Rau,Rauma,FMI,1725,61.1335,21.4258
+11769,Ringhals,Ringhals,SMHI,545,57.2497,12.1125
+11793,R\u00f6db,Rodby,DMI,469,54.65,11.35
+11936,R\u00f6dvi,Rodvig,DMI,469,55.2542,12.3728
+12080,Rohukula,Rohukula,MSI,713,58.9049,23.4248
+12104,R\u00f6nn,Ronne,DMI,469,55.1,14.6833
+12248,Roskilde,Roskilde,DMI,469,55.65,12.0833
+12390,Rostock,Rostock,BSH,1850,54.0831,12.155
+12534,Sassnitz,Sassnitz,BSH,1850,54.5108,13.6431
+12678,Schleim\u00fcnd,Schleimuende,BSH,1850,54.6733,10.0367
+12822,Schleswig,Schleswig,BSH,1850,54.5114,9.5692
+12918,Sillam\u00e4,Sillamae,MSI,713,59.4227,27.7401
+12942,Simpevarp,Simpevarp,SMHI,545,57.4092,16.6759
+12966,Simrishamn,Simrishamn,SMHI,545,55.5575,14.3578
+12990,Sjaellands Odde,SjaellandsOdde,DMI,469,55.975,11.3722
+13132,Skagsudde2,Skagsudde2,SMHI,545,63.1881,19.0161
+13156,Skan\u00f6,Skanor,SMHI,545,55.4167,12.8294
+13180,Slipshavn,Slipshavn,DMI,469,55.2833,10.8333
+13324,Sm\u00f6ge,Smogen,SMHI,545,58.3536,11.2178
+13348,S\u00f6nderbor,Sonderborg,DMI,469,54.9167,9.7833
+13492,S\u00f6r,Soru,MSI,713,58.6938,22.5229
+13516,Spikarna,Spikarna,SMHI,545,62.3633,17.5311
+13540,S:t Petersburg,StPetersburg,NWAHEM,911,59.9333,30.2667
+13564,Stenungsund,Stenungsund,SMHI,545,58.0933,11.8325
+13588,Stockholm,Stockholm,SMHI,545,59.3242,18.0817
+13612,Stralsund,Stralsund,BSH,1850,54.3153,13.0986
+13756,Str\u00f6m\u00f6r,Stromoren,SMHI,545,65.5497,22.2383
+13780,Tallinn,Tallinn,MSI,713,59.4444,24.7637
+13797,Tallinnamadal,Tallinnamadal,MSI,713,59.7119,24.7314
+13821,T\u00e5ngudden GBG Ham,TanguddenGBGHamn,SMHI,545,57.6819,11.8721
+13845,Tejn,Tejn,DMI,469,55.25,14.8333
+13891,Timmendorf Poel,TimmendorfPoel,BSH,1850,53.9919,11.3756
+14035,Travem\u00fcnd,Travemuende,BSH,1850,53.9581,10.8722
+14179,Triigi,Triigi,MSI,713,58.5914,22.7173
+14203,Turku Ruissalo Saaronniemi / \u00c5b,Turku,FMI,1725,60.4283,22.1005
+14227,Udbyhoej,Udbyhoej,DMI,469,56.6,10.3
+14371,Uddevalla mobil,Uddevalla,SMHI,545,58.3475,11.8948
+14395,Ueckerm\u00fcnd,Ueckermuende,BSH,1850,53.7503,14.0664
+14539,Ustka,Ustka,IMWM,193,54.588,16.8538
+14563,Vaasa Vaskiluoto / Vasa,Vaasa,FMI,1725,63.0815,21.5712
+14587,Varberg2,Varberg2,SMHI,545,57.1096,12.2415
+14611,V\u00e4stervi,Vastervik,SMHI,545,57.7482,16.6747
+14635,Vedbaek,Vedbaek,DMI,469,55.85,12.5667
+14775,Viken,Viken,SMHI,545,56.1422,12.5792
+14799,Vinga2,Vinga2,SMHI,545,57.6317,11.6076
+14823,Virtsu,Virtsu,MSI,713,58.5761,23.5081
+14847,Visby,Visby,SMHI,545,57.6392,18.2844
+14871,Warnem\u00fcnd,Warnemuende,BSH,1850,54.1697,12.1033
+15015,Wismar,Wismar,BSH,1850,53.8989,11.4581
+15159,Wittower F\u00e4hr,WittowerFaehre,BSH,1850,54.5575,13.245
+15303,Wladyslawowo,Wladyslawowo,IMWM,193,54.7968,18.4187
+15327,Wolgast,Wolgast,BSH,1850,54.0417,13.7703
+15471,Ystad2,Ystad2,SMHI,545,55.4227,13.8255
+15495,Amasra,amas,General Command of Mapping (Turkey),1014,41.744358,32.39175
+18375,Igneada,igne,General Command of Mapping (Turkey),1014,41.888763,28.02372
+21255,Istanbul,ista,General Command of Mapping (Turkey),1014,41.15984,29.074131
+24135,Sile,sile,General Command of Mapping (Turkey),1014,41.179832,29.603949
+27015,Sinop,sino,General Command of Mapping (Turkey),1014,42.016666,35.15
+29895,Trabzon,trab,General Command of Mapping (Turkey),1014,41.00195,39.744484
+32775,Varna,Varna,Institute of Oceanology  Bulgarian Academy of Sciences (IO-BAS),1843,43.192,27.911
+34089,Aiguillon-Sur-Mer,AiguillonSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.335,-1.31639
+34377,Ajaccio,AjaccioTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,41.9227,8.7629
+35817,Anglet Convergent,AngletConvergentTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.52696,-1.51364
+36105,Arcachon-Eyrac,ArcachonEyracTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.665,-1.1635
+37545,Audierne,AudierneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.02155,-4.53758
+38985,Balise A,BaliseARouenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.43183,0.11067
+39259,Boucau-Bayonne,BayonneBoucauTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.5273,-1.5154
+40699,Pont-Blanc Bayonne,BayonnePontBlancTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.48183,-1.47315
+40987,Quai de Lesseps Bayonne,BayonneQuaiDeLessepsTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.49758,-1.47941
+41275,Bordeaux,BordeauxTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.86,-0.5528
+42713,Boulogne-Sur-Mer,BoulogneSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,50.7275,1.5774
+44131,Bourcefranc le Chapus,BourcefrancLeChapusTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.85341,-1.17782
+44419,Brest,BrestTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.3829,-4.4951
+45859,Calais,CalaisTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,50.9695,1.8677
+47299,Centuri,CenturiTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.96578,9.34983
+48739,Cherbourg,CherbourgTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.6513,-1.6355
+50179,Ciboure,CiboureTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.38916,-1.66271
+50440,Concarneau,ConcarneauTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.8738,-3.9076
+51880,Cordemais,CordemaisTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.27722,-1.8898
+52157,Deshaies,DeshaiesTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,16.30529,-61.79591
+53592,Dielette,DieletteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.5525,-1.86083
+55032,Dieppe,DieppeTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.93,1.085
+56472,Dunkerque,DunkerqueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,51.0482,2.3665
+57912,Fatouville,FatouvilleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.43179,0.31596
+58187,Fort-De-France,FortDeFranceTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,14.601,-61.063
+59621,Fos-sur-Mer,FosSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.40494,4.89294
+61005,Galets,GaletsTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.92,55.3
+62439,Havre GPM Rouen,HavreGPMRouenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.48378,0.11458
+62717,Herbaudiere,HerbaudiereTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.02494,-2.29831
+64157,Hienghene,HiengheneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.69199,164.94312
+65387,Honfleur,HonfleurTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.42833,0.23294
+65669,Ile D Aix,IleDAixTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.00736,-1.17434
+67109,Ile Rousse,IleRousseTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.6396,8.93524
+68549,Kerguelen,KerguelenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-49.35212,70.2191
+69989,La Cotiniere,LaCotiniereTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.9136,-1.32781
+70277,La Figueirette,LaFigueiretteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.48353,6.93377
+71717,La Rochelle,LaRochelleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.1487,-1.2259
+73157,Le Conquet,LeConquetTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.3593,-4.7809
+74597,Le Crouesty,LeCrouestyTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.5429,-2.8954
+76037,Le Havre,LeHavreTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.4816,0.1056
+77477,Le Pellerin,LePellerinTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.20538,-1.76513
+77754,Leava,LeavaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-14.29602,-178.16023
+79194,Sables D Olonne,LesSablesDOlonneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.4975,-1.7938
+80634,Lifou,LifouTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.91847,167.27869
+82073,Makemo,MakemoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-16.627,-143.56921
+82793,Mare,MareTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.5478,167.8771
+84233,Marseille,MarseilleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.2785,5.3537
+85673,Mata Utu,MataUtuTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-13.28466,-176.1685
+87113,Mayotte,MayotteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-12.78333,45.2583
+88553,Mimizan,MimizanTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.21068,-1.29512
+89993,Monaco,MonacoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.733,7.4237
+91433,Montoir-de-Bretagne,MontoirDeBretagneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.30555,-2.10837
+91710,Nantes Salorges,NantesSalorgesTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.20422,-1.57425
+91986,Nantes Usine Brulee,NantesUsineBruleeTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.19345,-1.63367
+92263,Nice,NiceTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.6956,7.2855
+93703,Noumea-Numbo,NoumeaNumboTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-22.2421,166.4162
+95130,Nuku Hiva,NukuHivaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-8.9149,-140.09596
+96560,Ouinne,OuinneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.98288,166.68327
+97718,Ouistreham,OuistrehamTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.27936,-0.24903
+99158,Ouvea,OuveaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.54982,166.56187
+100598,Paimboeuf,PaimboeufTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.28658,-2.00042
+100871,Pointe-A-Pitre,PointeAPitreTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,16.23,-61.53
+102305,Pont du Brault,PontDuBraultTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.31684,-1.08258
+102593,Port Bloc,PortBlocTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.5684,-1.0616
+104033,Port-Camargue,PortCamargueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.52032,4.1264
+104321,Port Ferreol,PortFerreolTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.35907,6.71761
+105761,Port-La-Nouvelle,PortLaNouvelleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.01471,3.0641
+107201,Port-Tudy,PortTudyTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.6443,-3.44599
+108641,Port-Vendres,PortVendresTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.5201,3.1073
+110081,Richard,RichardTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.45367,-0.92305
+111520,Rikitea Wharf,RikiteaWharfTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-23.1178,-134.969
+112940,Rochefort,RochefortTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.94634,-0.95348
+113228,Roscoff,RoscoffTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.7184,-3.9659
+114668,Royan,RoyanTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.62058,-1.02781
+114956,Saint-Malo,SaintMaloTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.6411,-2.0276
+116396,Saint-Nazaire,SaintNazaireTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.27,-2.2
+117836,Saint-Pierre-et-Miquelon,SaintPierreEtMiquelonTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.77883,-56.16831
+119270,Saint-Quay-Portrieux,SaintQuayPortrieuxTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.6475,-2.81806
+120710,Sete,SeteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.4,3.7017
+122150,Saint-Jean-De-Lu,SocoaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.3984,-1.6731
+123590,Solenzara,SolenzaraTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,41.85686,9.40383
+125030,Thio,ThioTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.61381,166.24153
+126470,Toulon,ToulonTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.1228,5.9146
+127910,Tubuai,TubuaiTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-23.34177,-149.47554
+129350,Urt,UrtTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.50253,-1.29952
+129638,Vairao,VairaoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-17.8059,-149.295
+129922,Villefranque,VillefranqueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.43798,-1.46024
+130210,Aberdeen,Aberdeen,National Oceanography Centre (United_Kingdom),2424,57.15,-2.08333
+130306,Alboran ALBO1 TG tide gauge,AlboranTG,Instituto Geogr\u00e1fico Nacional (Spain),995,35.9388,-3.0343
+131072,Alboran ALBO1 TG tide gauge,AlboranTG,Instituto Geogr\u00e1fico Nacional (Spain),995,35.9388,-3.0343
+131746,Alcudia tide gauge,AlcudiaTG,Puertos del Estado (Spain),2751,39.8347,3.13917
+133186,Algeciras tide gauge,AlgecirasTG,Puertos del Estado (Spain),2751,36.1769,-5.39833
+134626,Alicante ALAC2 TG tide gauge,Alicante2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,38.33889,-0.48139
+136066,Alicante ALAC1 TG tide gauge,AlicanteTG,Instituto Geogr\u00e1fico Nacional (Spain),995,38.33829,-0.47786
+137506,Almeria 2 tide gauge,Almeria2TG,Puertos del Estado (Spain),2751,36.8319,-2.4809
+138945,Almer\u00eda ALME2 TG tide gauge,Almeria3TG,Instituto Geogr\u00e1fico Nacional (Spain),995,36.83223,-2.48495
+140385,Almeria 2 tide gauge,AlmeriaTG,Puertos del Estado (Spain),2751,36.83,-2.478
+141824,Aranmore,Aranmore,Marine Institute (Ireland),396,54.9896,-8.49562
+142112,Arklow Harbour,ArklowHarbour,Office of Public Works (Ireland),5133,52.792,-6.1452
+142208,Lanzarote-Arrecife tide g,ArrecifeTG,Puertos del Estado (Spain),2751,28.967,-13.53
+143648,Avil\u00e9s tide gauge,AvilesTG,Autoridad Portuaria de Avil\u00e9s (Spain),5405,43.59138,-5.92993
+143744,Ballyglass,Ballyglass,Marine Institute (Ireland),396,54.253,-9.89
+144031,Bangor,Bangor,National Oceanography Centre (United_Kingdom),2424,54.665,-5.6692
+144127,Barcelona 2 tide gauge,BarcelonaTG,Puertos del Estado (Spain),2751,41.342,2.163
+145565,Barmouth,Barmouth,National Oceanography Centre (United_Kingdom),2424,52.7167,-4.03333
+145661,Bilbao 3 tide gauge ,BilbaoTG,Puertos del Estado (Spain),2751,43.357,-3.05
+147101,Bonanza 2 tide gauge,BonanzaTG,Puertos del Estado (Spain),2751,36.8,-6.34
+148539,Bournemouth,Bournemouth,National Oceanography Centre (United_Kingdom),2424,50.7136,-1.8747
+148635,Carboneras tide gauge,CarbonerasTG,Puertos del Estado (Spain),2751,36.9743,-1.8996
+150075,Cartagena MURC2 TG tide gauge,CartagenaTG,Instituto Geogr\u00e1fico Nacional (Spain),995,37.59668,-0.97383
+151515,Cascais,CascaisTG,Dire\u00e7\u00e3o-Geral do Territ\u00f3rio (Portugal),4609,38.6833,-9.4167
+151995,Castletownbere,Castletownbere,Marine Institute (Ireland),396,51.6496,-9.9034
+152279,A Coru\u00f1a ACOR1 TG tide gauge ,Coruna2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,43.3644,-8.3989
+153719,A Coru\u00f1a 2 tide gauge,CorunaTG,Puertos del Estado (Spain),2751,43.357,-8.389
+155159,Cromer,Cromer,National Oceanography Centre (United_Kingdom),2424,52.9333,1.3
+155255,Dingle Harbour,Dingle,Marine Institute (Ireland),396,52.1392,-10.2773
+155543,Dover,Dover,National Oceanography Centre (United_Kingdom),2424,51.1167,1.31667
+155639,Dublin Port,DublinPort,Marine Institute (Ireland),396,53.3457,-6.22166
+155927,Dunmore,Dunmore,Marine Institute (Ireland),396,52.1477,-6.9919
+156214,El Hierro 2 tide gauge,ElHierroTG,Puertos del Estado (Spain),2751,27.78,-17.9
+157654,Fenit,Fenit,Office of Public Works (Ireland),5133,52.2696,-9.8621
+157942,Ferrol 2 tide gauge,Ferrol2TG,Puertos del Estado (Spain),2751,43.4762,-8.2485
+159382,Ferrol 1 tide gauge,FerrolTG,Puertos del Estado (Spain),2751,43.463,-8.326
+160820,Fishguard,Fishguard,National Oceanography Centre (United_Kingdom),2424,52.0167,-4.98333
+160916,Formentera tide gauge,FormenteraTG,Puertos del Estado (Spain),2751,38.7347,1.41889
+162351,Fuerteventura FUER2 TG tide gauge,Fuerteventura3TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.4912,-13.8552
+163791,Fuerteventura 2 tide gaug,FuerteventuraTG,Puertos del Estado (Spain),2751,28.5,-13.85
+165231,Galway Port,GalwayPort,Marine Institute (Ireland),396,53.269,-9.04796
+165519,Gandia tide gauge,GandiaTG,Puertos del Estado (Spain),2751,38.995,-0.152
+166951,Gijon 2 tide gauge,GijonTG,Puertos del Estado (Spain),2751,43.558,-5.698
+168387,Gomera tide gauge,GomeraTG,Puertos del Estado (Spain),2751,28.0,-17.0
+169827,Harwich,Harwich,National Oceanography Centre (United_Kingdom),2424,51.948,1.292
+169923,Heysham,Heysham,National Oceanography Centre (United_Kingdom),2424,54.0333,-2.91667
+170019,Hinkley Point,Hinkley,National Oceanography Centre (United_Kingdom),2424,51.2167,-3.13333
+170115,Holyhead,Holyhead,National Oceanography Centre (United_Kingdom),2424,53.3167,-4.61667
+170211,Huelva 5 tide gauge,HuelvaTG,Puertos del Estado (Spain),2751,37.132,-6.834
+171648,Ibiza 2 tide gauge,IbizaTG,Puertos del Estado (Spain),2751,38.9111,1.44972
+173085,Ilfracombe,Ilfracombe,National Oceanography Centre (United_Kingdom),2424,51.2167,-4.11667
+173181,Immingham,Immingham,National Oceanography Centre (United_Kingdom),2424,53.6333,-0.18333
+173277,Inishmore,Inishmore,Marine Institute (Ireland),396,53.126,-9.66
+173564,Killybegs Port,Killybegs,Marine Institute (Ireland),396,54.6364,-8.3949
+173852,Kilrush Lough,KilrushLough,Marine Institute (Ireland),396,52.63191,-9.50208
+174139,Kinlochbervie,Kinlochbervie,National Oceanography Centre (United_Kingdom),2424,58.4572,-5.0496
+174235,La Palma tide gauge,LaPalmaTG,Puertos del Estado (Spain),2751,28.678,-17.768
+175675,Lagos,LagosTG,Dire\u00e7\u00e3o-Geral do Territ\u00f3rio (Portugal),4609,37.1,-8.6667
+176152,Langosteira tide gauge,LangosteiraTG,Puertos del Estado (Spain),2751,43.3465,-8.5301
+177592,Las Palmas 2 tide gauge,LasPalmasTG,Puertos del Estado (Spain),2751,28.141,-15.412
+179032,Leith,Leith,National Oceanography Centre (United_Kingdom),2424,55.9898,-3.1804
+179128,LeixoesTG,LeixoesTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,41.1867,-8.7045
+180565,Lerwick,Lerwick,National Oceanography Centre (United_Kingdom),2424,60.1546,-1.1384
+180661,Liverpool,Liverpool,National Oceanography Centre (United_Kingdom),2424,53.45,-3.01667
+180757,Llandudno,Llandudno,National Oceanography Centre (United_Kingdom),2424,53.3148,-3.8237
+180853,Lowestoft,Lowestoft,National Oceanography Centre (United_Kingdom),2424,52.4667,1.75
+180949,Mahon tide gauge,MahonTG,Puertos del Estado (Spain),2751,39.893,4.27056
+182386,Malaga 3 tide gauge,MalagaTG,Puertos del Estado (Spain),2751,36.712,-4.417
+183808,Marin tide gauge,MarinTG,Puertos del Estado (Spain),2751,42.4061,-8.6911
+185244,Melilla tide gauge,MelillaTG,Puertos del Estado (Spain),2751,35.291,-2.918
+186684,Milford Haven,Milford,National Oceanography Centre (United_Kingdom),2424,51.7167,-5.05
+186780,Millport,Millport,National Oceanography Centre (United_Kingdom),2424,55.7497,-4.9047
+186876,Motril 2 tide gauge,MotrilTG,Puertos del Estado (Spain),2751,36.72,-3.524
+188313,Mumbles,Mumbles,National Oceanography Centre (United_Kingdom),2424,51.5697,-3.9737
+188409,NazareTG,NazareTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,39.586,-9.074
+189847,Newhaven,Newhaven,National Oceanography Centre (United_Kingdom),2424,50.7833,0.06667
+189943,Newlyn,Newlyn,National Oceanography Centre (United_Kingdom),2424,50.1,-5.53333
+190039,Newport,Newport,National Oceanography Centre (United_Kingdom),2424,51.5496,-2.986
+190135,North Shields,NorthShields,National Oceanography Centre (United_Kingdom),2424,55.0,-1.43333
+190231,Palma de Mallorca tide ga,PalmadeMallorcaTG,Puertos del Estado (Spain),2751,39.5603,2.6375
+191671,Pasaia tide gauge,PasaiaTG,Puertos del Estado (Spain),2751,43.3232,-1.92325
+193107,Peniche - Radar Vega,PenicheTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,39.354,-9.367
+194545,Plymouth (Devonport),Plymouth,National Oceanography Centre (United_Kingdom),2424,50.3684,-4.1852
+194641,Avonmouth (Portbury),Portbury,National Oceanography Centre (United_Kingdom),2424,51.5,-2.7284
+194737,Portpatrick,Portpatrick,National Oceanography Centre (United_Kingdom),2424,54.8424,-5.1189
+194833,Portrush,Portrush,National Oceanography Centre (United_Kingdom),2424,55.2,-6.6667
+194929,Portsmouth,Portsmouth,National Oceanography Centre (United_Kingdom),2424,50.8004,-1.1102
+195025,Ringaskiddy NMCI,RingaskiddyNMCI,Office of Public Works (Ireland),5133,51.84,-8.304
+195313,Rossaveel Pier,RossaveelPier,Office of Public Works (Ireland),5133,53.2669,-9.562
+195425,Rosslare,Rosslare,Marine Institute (Ireland),396,52.2546,-6.6648
+195713,Sagunto tide gauge,SaguntoTG,Puertos del Estado (Spain),2751,39.634,-0.206
+197153,San Cibrao tide gauge,SanCibraoTG,Puertos del Estado (Spain),2751,43.7091,-7.4609
+198591,Santander 2 tide gauge,SantanderTG,Puertos del Estado (Spain),2751,43.461,-3.791
+200019,Sevilla 2 tide gauge,Sevilla2TG,Puertos del Estado (Spain),2751,37.3185,-6.0077
+201457,Sheerness,Sheerness,National Oceanography Centre (United_Kingdom),2424,51.45,0.75
+201553,SinesTG,SinesTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,37.949,-8.888
+202993,St. Helier (Jersey),StHelier,National Oceanography Centre (United_Kingdom),2424,49.1833,-2.1167
+203089,St Marys,StMarys,National Oceanography Centre (United_Kingdom),2424,49.9179,-6.3156
+203185,Stornoway,Stornoway,National Oceanography Centre (United_Kingdom),2424,58.2167,-6.38333
+203281,Tarifa tide gauge,TarifaTG,Puertos del Estado (Spain),2751,36.0064,-5.60361
+204721,Tarragona tide gauge,TarragonaTG,Puertos del Estado (Spain),2751,41.0789,1.2132
+206157,Santa Cruz de Tenerife TN013 TG tide gauge,Tenerife2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.47721,-16.24113
+207597,Los Cristianos TN031 TG tide gauge,Tenerife4TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.04694,-16.71805
+209037,Tenerife 2 tide gauge,TenerifeTG,Puertos del Estado (Spain),2751,28.48,-16.24
+210477,Tobermory,Tobermory,National Oceanography Centre (United_Kingdom),2424,56.6231,-6.0631
+210573,Ullapool,Ullapool,National Oceanography Centre (United_Kingdom),2424,57.8955,-5.1568
+210669,Valencia 3 tide gauge,ValenciaTG,Puertos del Estado (Spain),2751,39.46,-0.33
+212109,VianaDoCasteloTG,VianaDoCasteloTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,41.685,-8.8396
+213548,Vigo 2 tide gauge,VigoTG,Puertos del Estado (Spain),2751,42.243,-8.726
+214985,Villagarcia 2 tide gauge,VillagarciaTG,Puertos del Estado (Spain),2751,42.601,-8.77
+216423,Wexford,Wexford,Marine Institute (Ireland),396,52.3385,-6.4589
+216711,Weymouth,Weymouth,National Oceanography Centre (United_Kingdom),2424,50.6079,-2.4465
+216807,Whitby,Whitby,National Oceanography Centre (United_Kingdom),2424,54.4833,-0.61667
+216903,Wick,Wick,National Oceanography Centre (United_Kingdom),2424,58.4333,-3.08333
+216999,Workington,Workington,National Oceanography Centre (United_Kingdom),2424,54.65,-3.56667
+217095,Station Andratx,ANDRATX,Sistema de Observacion y prediccion Costero de las Islas Baleares (SOCIB) - Spain,3410,39.5442,2.37846
+217239,,ANTALYA,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,36.835537,30.61261
+217527,,BODRUM,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,37.031055,27.42477
+217815,,BOZYAZI,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,36.09742,32.94131
+218103,Station Colonia Sant Pere,COLONIA-SANT-PERE,Sistema de Observacion y prediccion Costero de las Islas Baleares (SOCIB) - Spain,3410,39.7373,3.27335
+218247,,IDSL-Bozcaada,Joint Research Centre(JRC);Kandilli Observatory and Earthquake Research Institute (KOERI),2688 3913,39.8357,26.0759
+218535,,IDSL-Cartagena,Joint Research Centre(JRC);Instituto Geogr\u00e1fico Nacional(IGN),2688,37.5671,-0.978958
+218823,,IDSL-Ceuta,Joint Research Centre(JRC);Instituto Geogr\u00e1fico Nacional(IGN),2688,35.8958,-5.31153
+219111,,IDSL-Imperia,Joint Research Centre(JRC);ISPRA,2688 3009,43.8783,8.0188
+219400,,IDSL-LaMolaDeMahon,Joint Research Centre(JRC);Instituto Geogr\u00e1fico Nacional(IGN),2688,39.8723,4.30836
+219688,,IDSL-MarinaDiTeulada,Joint Research Centre(JRC);Istituto nazionale di geofisica e vulcanologia(INGV),2688 251,38.9275,8.7195
+219977,,IDSL-Panormos,Joint Research Centre(JRC);National Observatory of Athens(NOA),2688 1202,38.36,22.2539
+220265,,IDSL-SaidiaMarina,Joint Research Centre(JRC);Centre National de la Recherche Scientifique et Technique(CNRST),2688,35.1119,-2.29294
+220553,,KOPER,ARSO - Slovenian Environment Agency,1755,45.5482,13.7245
+220577,,MARMARIS,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,36.848675,28.282265
+220865,,MENTES,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,38.42769,26.716642
+221153,Station Porto Cristo,PORTO-CRISTO,Sistema de Observacion y prediccion Costero de las Islas Baleares (SOCIB) - Spain,3410,39.5392,3.33509
+221297,,PaleaFokea,HELLENIC CENTER FOR MARINE RESEARCH (HCMR),164,37.717503,23.945171
+221585,,Rhodes-Port,HELLENIC CENTER FOR MARINE RESEARCH (HCMR),164,36.442104,28.2374
+221729,Station Sa Rapita,SA-RAPITA,Sistema de Observacion y prediccion Costero de las Islas Baleares (SOCIB) - Spain,3410,39.3603,2.95326
+221873,Station Sant Antoni,SANT-ANTONI,Sistema de Observacion y prediccion Costero de las Islas Baleares (SOCIB) - Spain,3410,38.9771,1.29878
+222017,,Skopelos,HELLENIC CENTER FOR MARINE RESEARCH (HCMR),164,39.12384,23.72967
+222305,,TASUCU,The Ministry of National Defense - General Command of Mapping (GCM) - Turkey,1014,36.281464,33.836227
+222593,,A121TG,Rijkswaterstaat Water Traffic and Environment,1526,55.4,3.81
+222737,A2TG,A2TG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.3606,3.11833
+223025,,AWGTG,Rijkswaterstaat Water Traffic and Environment,1526,53.492,5.94
+223169,,AalesundTG,Norwegian Hydrographic Service,543,62.469414,6.151946
+223313,,AlteWeserTG,Waterways and Shipping Office Bremerhaven,1179,53.8633,8.1275
+223457,,AndenesTG,Norwegian Hydrographic Service,543,69.326065,16.1348
+223601,,BallumTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.1308,8.6859
+223745,,BergenTG,Norwegian Hydrographic Service,543,60.398045,5.320487
+223889,BlankenbergeTG,BlankenbergeTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.3105,3.11638
+224177,,BodoeTG,Norwegian Hydrographic Service,543,67.28829,14.390813
+224321,BolVanHeistTG,BolVanHeistTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.3897,3.1986
+224609,BorkumTG,BorkumTG,WATERWAYS AND SHIPPING BOARD (WSA) EMDEN (WSA-EMD),3002,53.557,6.748
+224753,,BremenTG,Waterways and Shipping Office Bremen,3485,53.12,8.712
+224897,,BremerhavenTG,Waterways and Shipping Office Bremerhaven,1179,53.545,8.568
+225041,,BronsTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.1833,8.6833
+225181,,Brouwershavensegat8TG,Rijkswaterstaat Water Traffic and Environment,1526,51.751694,3.81169
+225324,Brouwershavensegat Tide Gauge,BrouwershavensegatTG,Rijkswaterstaat Water Traffic and Environment,1526,51.767467,3.621925
+225467,,BuesumTG,Waterways and Shipping Office Toenning,1182,54.1222,8.8592
+225611,,CadzandTG,Rijkswaterstaat Water Traffic and Environment,1526,51.38,3.376
+225753,,CuxhavenTG,Waterways and Shipping Office Cuxhaven,1178,53.8678,8.7175
+225897,,D151TG,Rijkswaterstaat Water Traffic and Environment,1526,54.316654,2.933349
+226041,,DagebuellTG,Waterways and Shipping Office Toenning,1182,54.731,8.687
+226185,,DelfzijlTG,Rijkswaterstaat Water Traffic and Environment,1526,53.33,6.934
+226329,,DenHelderTG,Rijkswaterstaat Water Traffic and Environment,1526,52.97,4.75
+226473,,DenOeverBinnenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.931274,5.047921
+226617,,DenOeverTG,Rijkswaterstaat Water Traffic and Environment,1526,52.932617,5.045977
+226761,,DordrechtTG,Rijkswaterstaat Water Traffic and Environment,1526,51.82,4.671
+226905,,EdamTG,Rijkswaterstaat Water Traffic and Environment,1526,52.517,5.07
+227049,EemsMeetpaal Tide Gauge,EemsMeetpaalTG,Rijkswaterstaat Water Traffic and Environment,1526,53.475536,6.82237
+227193,,EemshavenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.46324,6.83895
+227336,,EiderSPTG,Waterways and Shipping Office Toenning,1182,54.266,8.842
+227480,,EmdenTG,WATERWAYS AND SHIPPING BOARD (WSA) EMDEN (WSA-EMD),3002,53.3367,7.1864
+227624,EsbjergTG,EsbjergTG,Danish Meteorological Institute Oceanographic Section,469,55.4667,8.4333
+227767,,EuroplatformTG,Rijkswaterstaat Water Traffic and Environment,1526,52.0,3.28
+227911,,F3platformTG,Rijkswaterstaat Water Traffic and Environment,1526,54.85,4.72
+228055,,FerringTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.5246,8.1152
+228199,,HammerfestTG,Norwegian Hydrographic Service,543,70.66464,23.683228
+228343,,HanstholmTG,Danish Meteorological Institute Oceanographic Section,469,57.1166,8.6
+228486,,Haringvliet10TG,Rijkswaterstaat Water Traffic and Environment,1526,51.864082,3.86
+228629,,HarlingenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.18,5.41
+228773,,HarstadTG,Norwegian Hydrographic Service,543,68.80126,16.548237
+228917,,HavnebyTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.087,8.5654
+229061,,HeimsjoeTG,Norwegian Hydrographic Service,543,63.425224,9.101504
+229205,,HelgeroaTG,Norwegian Hydrographic Service,543,58.995213,9.856379
+229349,,HelgolandTG,Waterways and Shipping Office Toenning,1182,54.1789,7.89
+229493,,HirtshalsTG,Danish Meteorological Institute Oceanographic Section,469,57.6,9.9667
+229634,HoekVanHollandTG,HoekVanHollandTG,Rijkswaterstaat Water Traffic and Environment,1526,51.98,4.12
+229778,,HoernumTG,Waterways and Shipping Office Toenning,1182,54.758,8.296
+229922,,HollandseBrugTG,Rijkswaterstaat Water Traffic and Environment,1526,52.3267,5.14
+230065,,HonningsvaagTG,Norwegian Hydrographic Service,543,70.980316,25.972696
+230209,,HoutribsluizenNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.52963,5.434654
+230352,,HoutribsluizenZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.52738,5.434357
+230495,,HuibertgatTG,Rijkswaterstaat Water Traffic and Environment,1526,53.57,6.4
+230639,,HusumTG,Waterways and Shipping Office Toenning,1182,54.472,9.025
+230783,,HvideSandeKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.9988,8.1146
+230926,,IJmondstroompaalTG,Rijkswaterstaat Water Traffic and Environment,1526,52.464966,4.517901
+231069,,IjmuidenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.46335,4.555134
+231213,,J61TG,Rijkswaterstaat Water Traffic and Environment,1526,53.823246,2.943804
+231357,,K141TG,Rijkswaterstaat Water Traffic and Environment,1526,53.269,3.6262
+231501,,KabelvaagTG,Norwegian Hydrographic Service,543,68.21264,14.482149
+231645,,KadoelenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.65929,5.982163
+231788,,KampenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5525,5.924
+231932,,KamperhoekTG,Rijkswaterstaat Water Traffic and Environment,1526,52.61,5.6425
+232075,,KaterveerTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5,6.06
+232218,,KeizersveerTG,Rijkswaterstaat Water Traffic and Environment,1526,51.72,4.895
+232360,,KeteldiepTG,Rijkswaterstaat Water Traffic and Environment,1526,52.582,5.845
+232503,,KetelhavenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.585,5.783
+232647,,KornwerderzandBinnenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.07,5.338
+232791,,KornwerderzandTG,Rijkswaterstaat Water Traffic and Environment,1526,53.071,5.337055
+232935,,KrabbersgatsluizenNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.694435,5.284232
+233078,,KrabbersgatsluizenZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.6923,5.28
+233221,,KrimpenAdLekTG,Rijkswaterstaat Water Traffic and Environment,1526,51.892,4.629
+233364,,KristiansundTG,Norwegian Hydrographic Service,543,63.113857,7.734352
+233508,,L91TG,Rijkswaterstaat Water Traffic and Environment,1526,53.566,4.87
+233652,,LauwersoogTG,Rijkswaterstaat Water Traffic and Environment,1526,53.41,6.2
+233796,,LemmerTG,Rijkswaterstaat Water Traffic and Environment,1526,52.839,5.714
+233939,,LichteilandGoeree1TG,Rijkswaterstaat Water Traffic and Environment,1526,51.927,3.67
+234081,LichteilandGoeree2 Tide Gauge,LichteilandGoeree2TG,Rijkswaterstaat Water Traffic and Environment,1526,51.925835,3.669722
+234223,,ListTG,Waterways and Shipping Office Toenning,1182,55.017,8.441
+234367,,MaloyTG,Norwegian Hydrographic Service,543,61.933777,5.11331
+234511,,MandoTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.2833,8.5833
+234647,,MausundTG,Norwegian Hydrographic Service,543,63.86933,8.66523
+234791,,MondDerVechtTG,Rijkswaterstaat Water Traffic and Environment,1526,52.565,6.102
+234934,,NarvikTG,Norwegian Hydrographic Service,543,68.42828,17.425758
+235078,,NesTG,Rijkswaterstaat Water Traffic and Environment,1526,53.4311,5.761
+235222,,NieuweStatenzijlTG,Rijkswaterstaat Water Traffic and Environment,1526,53.232677,7.208
+235366,,NieuwpoortTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.150555,2.728056
+235654,NorderneyTG,NorderneyTG,WATERWAYS AND SHIPPING BOARD (WSA) EMDEN (WSA-EMD),3002,53.7,7.16
+235798,,Ny-AlesundTG,Norwegian Hydrographic Service,543,78.92854,11.938015
+235942,,OostendeTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.234,2.927
+236230,,Oosterschelde11TG,Rijkswaterstaat Water Traffic and Environment,1526,51.64,3.48
+236373,,OscarsborgTG,Norwegian Hydrographic Service,543,59.678074,10.604861
+236517,,OsloTG,Norwegian Hydrographic Service,543,59.908558,10.73451
+236661,,OudeSchildTG,Rijkswaterstaat Water Traffic and Environment,1526,53.04,4.85
+236804,,Q11TG,Rijkswaterstaat Water Traffic and Environment,1526,52.925,4.149
+236816,,RamspolbrugTG,Rijkswaterstaat Water Traffic and Environment,1526,52.614,5.84
+236959,,RibeTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.3333,8.6833
+237103,,RoggebotsluisNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5455,5.856455
+237247,,RoggebotsluisZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.54265,5.8557
+237391,,RoompotBuitenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.62,3.68
+237535,,RorvikTG,Norwegian Hydrographic Service,543,64.85946,11.230107
+237679,,RotterdamTG,Rijkswaterstaat Water Traffic and Environment,1526,51.92,4.5
+237823,,SchellingwoudeTG,Rijkswaterstaat Water Traffic and Environment,1526,52.38,4.968
+237966,ScheurWielingenTG,ScheurWielingenTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.4183,3.2986
+238254,,ScheveningenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.1,4.264
+238397,,SchiermonnikoogWaddenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.47,6.2
+238541,,SchoonhovenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.944,4.852
+238683,,SpijkenisseTG,Rijkswaterstaat Water Traffic and Environment,1526,51.8626,4.3342
+238826,,SpooldersluisTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5109,6.0557
+238970,,StPauliTG,Hamburg Port Authority (HPA),3406,53.547,9.972
+239114,,StavangerTG,Norwegian Hydrographic Service,543,58.97434,5.730121
+239258,,TerschellingNoordzeeTG,Rijkswaterstaat Water Traffic and Environment,1526,53.4436,5.3334
+239402,,ThyboronKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.7075,8.209
+239546,,TorsmindeKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.37,8.12
+239547,,TregdeTG,Norwegian Hydrographic Service,543,58.00638,7.554759
+239691,,TromsoeTG,Norwegian Hydrographic Service,543,69.64742,18.961323
+239835,,TrondheimTG,Norwegian Hydrographic Service,543,63.436485,10.391669
+239979,,VardoeTG,Norwegian Hydrographic Service,543,70.37498,31.104015
+240123,,VidaaTG,Danish Meteorological Institute Oceanographic Section,469,54.9667,8.666
+240267,,VikerTG,Norwegian Hydrographic Service,543,59.036045,10.949769
+240411,,VlakteVdRaanTG,Rijkswaterstaat Water Traffic and Environment,1526,51.5046,3.2422
+240554,,VlielandHavenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.2972,5.0918
+240697,,VlissingenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.45,3.6
+240841,,VurenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.823,5.017
+240984,WandelaarTG,WandelaarTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.3944,3.0458
+241272,,WangeroogeTG,Waterways and Shipping Authority Wilhelmshaven (WSA-WIL),2314,53.806,7.929
+241416,,WerkendamBuitenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.807,4.877
+241559,,WestkapelleTG,Rijkswaterstaat Water Traffic and Environment,1526,51.5223,3.4402
+241702,,WierumergrondenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.517,5.9588
+241846,,WilhelmshavenTG,Waterways and Shipping Authority Wilhelmshaven (WSA-WIL),2314,53.5144,8.145
+241990,,WittduenTG,Waterways and Shipping Office Toenning,1182,54.632,8.384
+242134,ZeebruggeTG,ZeebruggeTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.346,3.2
+242422,Zeebrugge Wielingendok - Tide,ZeebruggeWielingendokTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.35528,3.17806
+242710,,ZwartsluisTG,Rijkswaterstaat Water Traffic and Environment,1526,52.6388,6.0784
+242853,Aarhus,Aarhus,DMI,469,56.15,10.2167
+242994,Althagen,Althagen,BSH,1850,54.3769,12.4194
+243090,Ark\u00f6 mobi,Arko,SMHI,545,58.4843,16.9607
+243114,Assens,Assens,DMI,469,55.2667,9.8833
+243258,Bagenkop,Bagenkop,DMI,469,54.7528,10.6778
+243399,Ballen,Ballen,DMI,469,55.8167,10.6444
+243542,Bandholm,Bandholm,DMI,469,54.8333,11.4833
+243686,Barh\u00f6f,Barhoeft,BSH,1850,54.4397,13.0328
+243782,Barseb\u00e4c,Barseback,SMHI,545,55.7564,12.9033
+243806,Bogense,Bogense,DMI,469,55.5667,10.0833
+243950,B\u00f6na,Bonan,SMHI,545,60.7315,17.3258
+243974,Brofjorden,Brofjorden,SMHI,545,58.336,11.4046
+243998,Darlowo,Darlowo,IMWM,193,54.4392,16.3802
+244022,Daugavgriva,Daugavgriva,LEGMA,892,57.05,24.0167
+244046,Degerby / F\u00f6gl,Degerby,FMI,1725,60.0319,20.3848
+244070,Drag\u00f6,Dragor,DMI,469,55.6,12.6833
+244214,Drogden,Drogden,DMI,469,55.5358,12.7117
+244355,E4 Bron S\u00f6dert\u00e4l,E4BronSodertalje,SMHI,545,59.1848,17.6428
+244379,Eckernf\u00f6rd,Eckernfoerde,BSH,1850,54.4747,9.8361
+244523,Eisma,Eisma,MSI,713,59.568,26.305
+244547,F\u00e5bor,Faaborg,DMI,469,55.1,10.25
+244690,Falkenberg,Falkenberg,SMHI,545,56.892,12.4895
+244714,Flensburg,Flensburg,BSH,1850,54.795,9.4331
+244858,Forsmark,Forsmark,SMHI,545,60.4086,18.2108
+244882,Fredericia,Fredericia,DMI,469,55.5667,9.75
+245023,Frederikshavn,Frederikshavn,DMI,469,57.4333,10.5667
+245166,Furu\u00f6grun,Furuogrund,SMHI,545,64.9158,21.2306
+245190,Fynshav,Fynshav,DMI,469,55.0,9.9833
+245334,Gdansk,Gdansk,IMWM,193,54.3997,18.6981
+245357,Gedser,Gedser,DMI,469,54.5667,11.9333
+245499,G\u00f6teborg-Agnesber,GoteborgAgnesberg,SMHI,545,57.7897,12.01
+246939,G\u00f6teborg-Eriksber,GoteborgEriksberg,SMHI,545,57.6967,11.9089
+248379,G\u00f6teborg-L\u00e4rjeho,GoteborgLarjeholm,SMHI,545,57.7658,12.0056
+248791,G\u00f6teborg-Tingstadstunnel,GoteborgTingstadstunneln,SMHI,545,57.7231,11.9869
+250231,G\u00f6teborg-Torshamne,GoteborgTorshamnen,SMHI,545,57.6847,11.7906
+250255,Greifswald,Greifswald,BSH,1850,54.0928,13.4461
+250399,Gren\ufffd,Grena,DMI,469,56.4111,10.9306
+250541,Halmstad,Halmstad,SMHI,545,56.6488,12.8358
+250565,Hamina Pit\u00e4j\u00e4nsaari / Fredriksha,Hamina,FMI,1725,60.5628,27.1792
+250589,Hanko Pikku Kolalahti / Hang\ufffd,Hanko,FMI,1725,59.8229,22.9766
+250613,Heiligenhafen,Heiligenhafen,BSH,1850,54.3731,11.0056
+250757,Helsingborg,Helsingborg,SMHI,545,56.0412,12.6845
+250781,Helsinki Kaivopuisto / Helsingfors,Helsinki,FMI,1725,60.1536,24.9562
+250805,Heltermaa,Heltermaa,MSI,713,58.8664,23.0466
+250829,Hesnaes,Hesnaes,DMI,469,54.8167,12.1333
+250973,Hobro,Hobro,DMI,469,56.6333,9.8
+251113,Holbaek,Holbaek,DMI,469,55.7167,11.7167
+251256,Holmsund,Holmsund,SMHI,545,63.6555,20.341
+251280,Hornbaek,Hornbaek,DMI,469,56.1,12.4667
+251423,Hov,Hov,DMI,469,55.9167,10.2667
+251567,Juelsminde,Juelsminde,DMI,469,55.7167,10.0167
+251710,Juten,Juten,SMHI,545,58.6342,16.3248
+251734,Kalix Karlsborg,KalixKarlsborg,SMHI,545,65.7888,23.3033
+251758,Kalix Stor\u00f6,KalixStoron,SMHI,545,65.6969,23.0961
+251782,Kalkgrund,Kalkgrund,BSH,1850,54.8247,9.8881
+251878,Kalmar,Kalmar,SMHI,545,56.6713,16.3888
+251902,Kalvehave,Kalvehave,DMI,469,55.0,12.1667
+252046,Kappeln,Kappeln,BSH,1850,54.6644,9.9381
+252142,Karlshamn,Karlshamn,SMHI,545,56.1542,14.8212
+252166,Karrebaeksminde,Karrebaeksminde,DMI,469,55.1833,11.65
+252309,Kaskinen \u00c5dsk\u00e4r / Kas,Kaskinen,FMI,1725,62.344,21.2148
+252333,Kelnase,Kelnase,MSI,713,59.638,25.015
+252357,Kemi Ajos / Kemi,Kemi,FMI,1725,65.6729,24.5153
+252381,Kiel-Holtenau,KielHoltenau,BSH,1850,54.3722,10.1569
+252525,Kiel TG,KielTG,BSH,1850,54.5003,10.275
+252669,Klagshamn,Klagshamn,SMHI,545,55.5222,12.8936
+252693,K\u00f6benhav,Kobenhavn,DMI,469,55.7,12.6
+252736,K\u00f6g,Koege,DMI,469,55.45,12.2
+252880,Kolka,Kolka,LEGMA,892,57.7333,22.5833
+252904,Kors\u00f6,Korsor,DMI,469,55.3333,11.1333
+253047,Koserow,Koserow,BSH,1850,54.0603,14.0008
+253098,Kristineberg,Kristineberg1,SMHI,545,58.25,11.45
+253386,Kronstadt,Kronstadt,NWAHEM,911,59.9667,29.75
+253410,Kuivastu,Kuivastu,MSI,713,58.5742,23.3935
+253434,Kungsholmsfort,Kungsholmsfort,SMHI,545,56.1053,15.5894
+253458,Kungsvik,Kungsvik,SMHI,545,58.9967,11.1272
+253482,Landsort Norra,LandsortNorra,SMHI,545,58.7689,17.8589
+253506,Langballigau,Langballigau,BSH,1850,54.8233,9.6542
+253650,Leppneeme,Leppneeme,MSI,713,59.5531,24.8662
+253674,Ljusne Orrsk\u00e4rskaje,LjusneOrrskarskajen,SMHI,545,61.2067,17.1452
+253698,L\u00fcbec,Luebeck,BSH,1850,53.8931,10.7031
+253842,Lunde,Lunde,SMHI,545,62.8806,17.8764
+253866,Malm\u00f6 Ham,MalmoHamn,SMHI,545,55.6257,12.9845
+253890,Marstrand,Marstrand,SMHI,545,57.888,11.5732
+253913,Munalaiu,Munalaiu,MSI,713,58.228,24.1185
+253937,Neustadt,Neustadt,BSH,1850,54.0967,10.8128
+254081,Nyn\u00e4s Fiskeham,NynasFiskehamn,SMHI,545,58.9006,17.9536
+254105,\u00d6lands norra udd,OlandsNorraUdde,SMHI,545,57.3661,17.0972
+254129,Onsala,Onsala,SMHI,545,57.392,11.919
+254153,Oskarshamn,Oskarshamn,SMHI,545,57.275,16.4781
+254177,Oulu Toppila / Ule\u00e5bor,Oulu,FMI,1725,65.0403,25.4182
+254201,Oxel\u00f6sund Vinterklase,OxelosundVinterklasen,SMHI,545,58.6617,17.1248
+254225,Paldiski,Paldiski,MSI,713,59.3349,24.0796
+254249,P\u00e4rn,Parnu,MSI,713,58.3889,24.4868
+254272,Pietarsaari Lepp\u00e4luoto / Jakobsta,Pietarsaari,FMI,1725,63.7086,22.6896
+254296,Pori M\u00e4ntyluoto Kallo / Bj\u00f6rnebo,Pori,FMI,1725,61.5944,21.4634
+254320,Porvoo Em\u00e4salo Vaarlahti / Borg,Porvoo,FMI,1725,60.2058,25.6251
+254344,Raahe Lapaluoto / Brahestad,Raahe,FMI,1725,64.6659,24.4071
+254368,Randers,Randers,DMI,469,56.45,10.05
+254508,Ratan,Ratan,SMHI,545,63.9861,20.895
+254532,Rauma Ulko-Pet\u00e4j\u00e4s / Rau,Rauma,FMI,1725,61.1335,21.4258
+254556,Ringhals,Ringhals,SMHI,545,57.2497,12.1125
+254580,R\u00f6db,Rodby,DMI,469,54.65,11.35
+254719,R\u00f6dvi,Rodvig,DMI,469,55.2542,12.3728
+254859,Rohukula,Rohukula,MSI,713,58.9049,23.4248
+254883,R\u00f6nn,Ronne,DMI,469,55.1,14.6833
+255027,Roskilde,Roskilde,DMI,469,55.65,12.0833
+255166,Rostock,Rostock,BSH,1850,54.0831,12.155
+255310,Sassnitz,Sassnitz,BSH,1850,54.5108,13.6431
+255454,Schleim\u00fcnd,Schleimuende,BSH,1850,54.6733,10.0367
+255598,Schleswig,Schleswig,BSH,1850,54.5114,9.5692
+255687,Sillam\u00e4,Sillamae,MSI,713,59.4227,27.7401
+255711,Simpevarp,Simpevarp,SMHI,545,57.4092,16.6759
+255735,Simrishamn,Simrishamn,SMHI,545,55.5575,14.3578
+255759,Sjaellands Odde,SjaellandsOdde,DMI,469,55.975,11.3722
+255902,Skagsudde2,Skagsudde2,SMHI,545,63.1881,19.0161
+255926,Skan\u00f6,Skanor,SMHI,545,55.4167,12.8294
+255950,Slipshavn,Slipshavn,DMI,469,55.2833,10.8333
+256094,Sm\u00f6ge,Smogen,SMHI,545,58.3536,11.2178
+256118,S\u00f6nderbor,Sonderborg,DMI,469,54.9167,9.7833
+256262,S\u00f6r,Soru,MSI,713,58.6938,22.5229
+256286,Spikarna,Spikarna,SMHI,545,62.3633,17.5311
+256310,S:t Petersburg,StPetersburg,NWAHEM,911,59.9333,30.2667
+256334,Stenungsund,Stenungsund,SMHI,545,58.0933,11.8325
+256358,Stockholm,Stockholm,SMHI,545,59.3242,18.0817
+256382,Stralsund,Stralsund,BSH,1850,54.3153,13.0986
+256526,Str\u00f6m\u00f6r,Stromoren,SMHI,545,65.5497,22.2383
+256550,Tallinn,Tallinn,MSI,713,59.4444,24.7637
+256568,Tallinnamadal,Tallinnamadal,MSI,713,59.7119,24.7314
+256592,T\u00e5ngudden GBG Ham,TanguddenGBGHamn,SMHI,545,57.6819,11.8721
+256616,Tejn,Tejn,DMI,469,55.25,14.8333
+256660,Timmendorf Poel,TimmendorfPoel,BSH,1850,53.9919,11.3756
+256804,Travem\u00fcnd,Travemuende,BSH,1850,53.9581,10.8722
+256948,Triigi,Triigi,MSI,713,58.5914,22.7173
+256972,Turku Ruissalo Saaronniemi / \u00c5b,Turku,FMI,1725,60.4283,22.1005
+256996,Udbyhoej,Udbyhoej,DMI,469,56.6,10.3
+257139,Uddevalla mobil,Uddevalla,SMHI,545,58.3475,11.8948
+257163,Ueckerm\u00fcnd,Ueckermuende,BSH,1850,53.7503,14.0664
+257307,Ustka,Ustka,IMWM,193,54.588,16.8538
+257331,Vaasa Vaskiluoto / Vasa,Vaasa,FMI,1725,63.0815,21.5712
+257355,Varberg2,Varberg2,SMHI,545,57.1096,12.2415
+257379,V\u00e4stervi,Vastervik,SMHI,545,57.7482,16.6747
+257403,Vedbaek,Vedbaek,DMI,469,55.85,12.5667
+257547,Viken,Viken,SMHI,545,56.1422,12.5792
+257571,Vinga2,Vinga2,SMHI,545,57.6317,11.6076
+257595,Virtsu,Virtsu,MSI,713,58.5761,23.5081
+257619,Visby,Visby,SMHI,545,57.6392,18.2844
+257643,Warnem\u00fcnd,Warnemuende,BSH,1850,54.1697,12.1033
+257787,Wismar,Wismar,BSH,1850,53.8989,11.4581
+257931,Wittower F\u00e4hr,WittowerFaehre,BSH,1850,54.5575,13.245
+258075,Wladyslawowo,Wladyslawowo,IMWM,193,54.7968,18.4187
+258099,Wolgast,Wolgast,BSH,1850,54.0417,13.7703
+258243,Ystad2,Ystad2,SMHI,545,55.4227,13.8255
+258267,Amasra,amas,General Command of Mapping (Turkey),1014,41.744358,32.39175
+261146,Igneada,igne,General Command of Mapping (Turkey),1014,41.888763,28.02372
+374087,Alcudia tide gauge,AlcudiaTG,Puertos del Estado (Spain),2751,39.8347,3.13917
+375527,Algeciras tide gauge,AlgecirasTG,Puertos del Estado (Spain),2751,36.1769,-5.39833
+376967,Alicante ALAC2 TG tide gauge,Alicante2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,38.33889,-0.48139
+378407,Alicante ALAC1 TG tide gauge,AlicanteTG,Instituto Geogr\u00e1fico Nacional (Spain),995,38.33829,-0.47786
+379847,Almeria 2 tide gauge,Almeria2TG,Puertos del Estado (Spain),2751,36.8319,-2.4809
+381287,Almer\u00eda ALME2 TG tide gauge,Almeria3TG,Instituto Geogr\u00e1fico Nacional (Spain),995,36.83223,-2.48495
+382727,Almeria 2 tide gauge,AlmeriaTG,Puertos del Estado (Spain),2751,36.83,-2.478
+384167,Aranmore,Aranmore,Marine Institute (Ireland),396,54.9896,-8.49562
+384455,Arklow Harbour,ArklowHarbour,Office of Public Works (Ireland),5133,52.792,-6.1452
+384551,Lanzarote-Arrecife tide g,ArrecifeTG,Puertos del Estado (Spain),2751,28.967,-13.53
+385991,Avil\u00e9s tide gauge,AvilesTG,Autoridad Portuaria de Avil\u00e9s (Spain),5405,43.59138,-5.92993
+386087,Ballyglass,Ballyglass,Marine Institute (Ireland),396,54.253,-9.89
+386374,Bangor,Bangor,National Oceanography Centre (United_Kingdom),2424,54.665,-5.6692
+386470,Barcelona 2 tide gauge,BarcelonaTG,Puertos del Estado (Spain),2751,41.342,2.163
+387910,Barmouth,Barmouth,National Oceanography Centre (United_Kingdom),2424,52.7167,-4.03333
+388006,Bilbao 3 tide gauge ,BilbaoTG,Puertos del Estado (Spain),2751,43.357,-3.05
+389446,Bonanza 2 tide gauge,BonanzaTG,Puertos del Estado (Spain),2751,36.8,-6.34
+390884,Bournemouth,Bournemouth,National Oceanography Centre (United_Kingdom),2424,50.7136,-1.8747
+390980,Carboneras tide gauge,CarbonerasTG,Puertos del Estado (Spain),2751,36.9743,-1.8996
+392420,Cartagena MURC2 TG tide gauge,CartagenaTG,Instituto Geogr\u00e1fico Nacional (Spain),995,37.59668,-0.97383
+505283,Istanbul,ista,General Command of Mapping (Turkey),1014,41.15984,29.074131
+508163,Sile,sile,General Command of Mapping (Turkey),1014,41.179832,29.603949
+511043,Sinop,sino,General Command of Mapping (Turkey),1014,42.016666,35.15
+513923,Trabzon,trab,General Command of Mapping (Turkey),1014,41.00195,39.744484
+516803,Varna,Varna,Institute of Oceanology  Bulgarian Academy of Sciences (IO-BAS),1843,43.192,27.911
+518161,Aiguillon-Sur-Mer,AiguillonSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.335,-1.31639
+518448,Ajaccio,AjaccioTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,41.9227,8.7629
+519888,Anglet Convergent,AngletConvergentTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.52696,-1.51364
+520176,Arcachon-Eyrac,ArcachonEyracTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.665,-1.1635
+521616,Audierne,AudierneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.02155,-4.53758
+523056,Balise A,BaliseARouenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.43183,0.11067
+523333,Boucau-Bayonne,BayonneBoucauTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.5273,-1.5154
+634149,Cascais,CascaisTG,Dire\u00e7\u00e3o-Geral do Territ\u00f3rio (Portugal),4609,38.6833,-9.4167
+634564,Castletownbere,Castletownbere,Marine Institute (Ireland),396,51.6496,-9.9034
+634851,A Coru\u00f1a ACOR1 TG tide gauge ,Coruna2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,43.3644,-8.3989
+636291,A Coru\u00f1a 2 tide gauge,CorunaTG,Puertos del Estado (Spain),2751,43.357,-8.389
+637731,Cromer,Cromer,National Oceanography Centre (United_Kingdom),2424,52.9333,1.3
+637827,Dingle Harbour,Dingle,Marine Institute (Ireland),396,52.1392,-10.2773
+638114,Dover,Dover,National Oceanography Centre (United_Kingdom),2424,51.1167,1.31667
+638210,Dublin Port,DublinPort,Marine Institute (Ireland),396,53.3457,-6.22166
+638498,Dunmore,Dunmore,Marine Institute (Ireland),396,52.1477,-6.9919
+638786,El Hierro 2 tide gauge,ElHierroTG,Puertos del Estado (Spain),2751,27.78,-17.9
+640226,Fenit,Fenit,Office of Public Works (Ireland),5133,52.2696,-9.8621
+640511,Ferrol 2 tide gauge,Ferrol2TG,Puertos del Estado (Spain),2751,43.4762,-8.2485
+641951,Ferrol 1 tide gauge,FerrolTG,Puertos del Estado (Spain),2751,43.463,-8.326
+643389,Fishguard,Fishguard,National Oceanography Centre (United_Kingdom),2424,52.0167,-4.98333
+643485,Formentera tide gauge,FormenteraTG,Puertos del Estado (Spain),2751,38.7347,1.41889
+644920,Fuerteventura FUER2 TG tide gauge,Fuerteventura3TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.4912,-13.8552
+646360,Fuerteventura 2 tide gaug,FuerteventuraTG,Puertos del Estado (Spain),2751,28.5,-13.85
+647800,Galway Port,GalwayPort,Marine Institute (Ireland),396,53.269,-9.04796
+648088,Gandia tide gauge,GandiaTG,Puertos del Estado (Spain),2751,38.995,-0.152
+649527,Gijon 2 tide gauge,GijonTG,Puertos del Estado (Spain),2751,43.558,-5.698
+650967,Gomera tide gauge,GomeraTG,Puertos del Estado (Spain),2751,28.0,-17.0
+652407,Harwich,Harwich,National Oceanography Centre (United_Kingdom),2424,51.948,1.292
+652503,Heysham,Heysham,National Oceanography Centre (United_Kingdom),2424,54.0333,-2.91667
+652599,Hinkley Point,Hinkley,National Oceanography Centre (United_Kingdom),2424,51.2167,-3.13333
+652695,Holyhead,Holyhead,National Oceanography Centre (United_Kingdom),2424,53.3167,-4.61667
+652791,Huelva 5 tide gauge,HuelvaTG,Puertos del Estado (Spain),2751,37.132,-6.834
+654227,Ibiza 2 tide gauge,IbizaTG,Puertos del Estado (Spain),2751,38.9111,1.44972
+677239,Port Oriel,PortOriel,Office of Public Works (Ireland),5133,53.7989,-6.2217
+765821,Pont-Blanc Bayonne,BayonnePontBlancTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.48183,-1.47315
+766109,Quai de Lesseps Bayonne,BayonneQuaiDeLessepsTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.49758,-1.47941
+766397,Bordeaux,BordeauxTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.86,-0.5528
+767824,Boulogne-Sur-Mer,BoulogneSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,50.7275,1.5774
+769223,Bourcefranc le Chapus,BourcefrancLeChapusTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.85341,-1.17782
+769511,Brest,BrestTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.3829,-4.4951
+770951,Calais,CalaisTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,50.9695,1.8677
+772385,Centuri,CenturiTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.96578,9.34983
+773825,Cherbourg,CherbourgTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.6513,-1.6355
+775265,Ciboure,CiboureTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.38916,-1.66271
+775537,Concarneau,ConcarneauTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.8738,-3.9076
+776972,Cordemais,CordemaisTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.27722,-1.8898
+777249,Deshaies,DeshaiesTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,16.30529,-61.79591
+778689,Dielette,DieletteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.5525,-1.86083
+780125,Dieppe,DieppeTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.93,1.085
+781560,Dunkerque,DunkerqueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,51.0482,2.3665
+782998,Fatouville,FatouvilleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.43179,0.31596
+783277,Fort-De-France,FortDeFranceTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,14.601,-61.063
+784711,Fos-sur-Mer,FosSurMerTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.40494,4.89294
+786110,Galets,GaletsTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.92,55.3
+786343,Havre GPM Rouen,HavreGPMRouenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.48378,0.11458
+896526,Ilfracombe,Ilfracombe,National Oceanography Centre (United_Kingdom),2424,51.2167,-4.11667
+896622,Immingham,Immingham,National Oceanography Centre (United_Kingdom),2424,53.6333,-0.18333
+896718,Inishmore,Inishmore,Marine Institute (Ireland),396,53.126,-9.66
+897005,Killybegs Port,Killybegs,Marine Institute (Ireland),396,54.6364,-8.3949
+897293,Kilrush Lough,KilrushLough,Marine Institute (Ireland),396,52.63191,-9.50208
+897580,Kinlochbervie,Kinlochbervie,National Oceanography Centre (United_Kingdom),2424,58.4572,-5.0496
+897676,La Palma tide gauge,LaPalmaTG,Puertos del Estado (Spain),2751,28.678,-17.768
+899116,Lagos,LagosTG,Dire\u00e7\u00e3o-Geral do Territ\u00f3rio (Portugal),4609,37.1,-8.6667
+899590,Langosteira tide gauge,LangosteiraTG,Puertos del Estado (Spain),2751,43.3465,-8.5301
+901030,Las Palmas 2 tide gauge,LasPalmasTG,Puertos del Estado (Spain),2751,28.141,-15.412
+902467,Leith,Leith,National Oceanography Centre (United_Kingdom),2424,55.9898,-3.1804
+902563,LeixoesTG,LeixoesTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,41.1867,-8.7045
+903999,Lerwick,Lerwick,National Oceanography Centre (United_Kingdom),2424,60.1546,-1.1384
+904095,Liverpool,Liverpool,National Oceanography Centre (United_Kingdom),2424,53.45,-3.01667
+904191,Llandudno,Llandudno,National Oceanography Centre (United_Kingdom),2424,53.3148,-3.8237
+904287,Lowestoft,Lowestoft,National Oceanography Centre (United_Kingdom),2424,52.4667,1.75
+904383,Mahon tide gauge,MahonTG,Puertos del Estado (Spain),2751,39.893,4.27056
+905820,Malaga 3 tide gauge,MalagaTG,Puertos del Estado (Spain),2751,36.712,-4.417
+907248,Marin tide gauge,MarinTG,Puertos del Estado (Spain),2751,42.4061,-8.6911
+908684,Melilla tide gauge,MelillaTG,Puertos del Estado (Spain),2751,35.291,-2.918
+910124,Milford Haven,Milford,National Oceanography Centre (United_Kingdom),2424,51.7167,-5.05
+910220,Millport,Millport,National Oceanography Centre (United_Kingdom),2424,55.7497,-4.9047
+910316,Motril 2 tide gauge,MotrilTG,Puertos del Estado (Spain),2751,36.72,-3.524
+911756,Mumbles,Mumbles,National Oceanography Centre (United_Kingdom),2424,51.5697,-3.9737
+911852,NazareTG,NazareTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,39.586,-9.074
+913291,Newhaven,Newhaven,National Oceanography Centre (United_Kingdom),2424,50.7833,0.06667
+913387,Newlyn,Newlyn,National Oceanography Centre (United_Kingdom),2424,50.1,-5.53333
+913483,Newport,Newport,National Oceanography Centre (United_Kingdom),2424,51.5496,-2.986
+913579,North Shields,NorthShields,National Oceanography Centre (United_Kingdom),2424,55.0,-1.43333
+913675,Palma de Mallorca tide ga,PalmadeMallorcaTG,Puertos del Estado (Spain),2751,39.5603,2.6375
+915115,Pasaia tide gauge,PasaiaTG,Puertos del Estado (Spain),2751,43.3232,-1.92325
+916551,Peniche - Radar Vega,PenicheTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,39.354,-9.367
+1026336,Herbaudiere,HerbaudiereTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.02494,-2.29831
+1027773,Hienghene,HiengheneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.69199,164.94312
+1029080,Honfleur,HonfleurTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.42833,0.23294
+1029365,Ile D Aix,IleDAixTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.00736,-1.17434
+1030801,Ile Rousse,IleRousseTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.6396,8.93524
+1032223,Iles Du Salut,IlesDuSalutTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,5.25,-52.62
+1032243,Kerguelen,KerguelenTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-49.35212,70.2191
+1033683,La Cotiniere,LaCotiniereTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.9136,-1.32781
+1033971,La Figueirette,LaFigueiretteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.48353,6.93377
+1035386,La Rochelle,LaRochelleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.1487,-1.2259
+1036826,Le Conquet,LeConquetTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.3593,-4.7809
+1038235,Le Crouesty,LeCrouestyTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.5429,-2.8954
+1039653,Le Havre,LeHavreTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.4816,0.1056
+1041075,Le Pellerin,LePellerinTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.20538,-1.76513
+1041352,Leava,LeavaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-14.29602,-178.16023
+1042792,Sables D Olonne,LesSablesDOlonneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.4975,-1.7938
+1044207,Lifou,LifouTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.91847,167.27869
+1045641,Makemo,MakemoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-16.627,-143.56921
+1046361,Mare,MareTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.5478,167.8771
+1047801,Marseille,MarseilleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.2785,5.3537
+1049219,Mata Utu,MataUtuTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-13.28466,-176.1685
+1050659,Mayotte,MayotteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-12.78333,45.2583
+1052094,Mimizan,MimizanTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,44.21068,-1.29512
+1053506,Monaco,MonacoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.733,7.4237
+1054924,Montoir-de-Bretagne,MontoirDeBretagneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.30555,-2.10837
+1055201,Nantes Salorges,NantesSalorgesTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.20422,-1.57425
+1055478,Nantes Usine Brulee,NantesUsineBruleeTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.19345,-1.63367
+1055755,Nice,NiceTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.6956,7.2855
+1057173,Noumea-Numbo,NoumeaNumboTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-22.2421,166.4162
+1058603,Nuku Hiva,NukuHivaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-8.9149,-140.09596
+1060023,Ouinne,OuinneTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.98288,166.68327
+1061271,Ouistreham,OuistrehamTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,49.27936,-0.24903
+1062690,Ouvea,OuveaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-20.54982,166.56187
+1064130,Paimboeuf,PaimboeufTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.28658,-2.00042
+1064406,Pointe-A-Pitre,PointeAPitreTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,16.23,-61.53
+1065840,Pont du Brault,PontDuBraultTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.31684,-1.08258
+1066128,Port Bloc,PortBlocTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.5684,-1.0616
+1067548,Port-Camargue,PortCamargueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.52032,4.1264
+1067836,Port Ferreol,PortFerreolTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.35907,6.71761
+1069254,Port-La-Nouvelle,PortLaNouvelleTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.01471,3.0641
+1070664,Port-Tudy,PortTudyTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.6443,-3.44599
+1072081,Port-Vendres,PortVendresTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,42.5201,3.1073
+1073495,Richard,RichardTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.45367,-0.92305
+1074935,Rikitea Wharf,RikiteaWharfTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-23.1178,-134.969
+1076375,Rochefort,RochefortTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.94634,-0.95348
+1076663,Roscoff,RoscoffTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.7184,-3.9659
+1078091,Royan,RoyanTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,45.62058,-1.02781
+1078379,Saint-Malo,SaintMaloTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.6411,-2.0276
+1079811,Saint-Nazaire,SaintNazaireTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,47.27,-2.2
+1081224,Saint-Pierre-et-Miquelon,SaintPierreEtMiquelonTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,46.77883,-56.16831
+1082658,Saint-Quay-Portrieux,SaintQuayPortrieuxTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,48.6475,-2.81806
+1084071,Sete,SeteTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.4,3.7017
+1085490,Saint-Jean-De-Lu,SocoaTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.3984,-1.6731
+1086930,Solenzara,SolenzaraTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,41.85686,9.40383
+1088366,Thio,ThioTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-21.61381,166.24153
+1089806,Toulon,ToulonTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.1228,5.9146
+1091240,Tubuai,TubuaiTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-23.34177,-149.47554
+1092680,Urt,UrtTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.50253,-1.29952
+1092968,Vairao,VairaoTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,-17.8059,-149.295
+1093254,Villefranque,VillefranqueTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,43.43798,-1.46024
+1093542,Aberdeen,Aberdeen,National Oceanography Centre (United_Kingdom),2424,57.15,-2.08333
+1506650,Iles Du Salut,IlesDuSalutTG,SHOM  Service Hydrographique et Oceanographique de la Marine,540,5.25,-52.62
+1652440,,IDSL-ZygiMarina,Joint Research Centre(JRC);Cyprus Oceanography Center(OC-UCY),2688 711,34.7263,33.3402
+2340278,Plymouth (Devonport),Plymouth,National Oceanography Centre (United_Kingdom),2424,50.3684,-4.1852
+2340374,Port Oriel,PortOriel,Office of Public Works (Ireland),5133,53.7989,-6.2217
+2340572,Avonmouth (Portbury),Portbury,National Oceanography Centre (United_Kingdom),2424,51.5,-2.7284
+2340668,Portpatrick,Portpatrick,National Oceanography Centre (United_Kingdom),2424,54.8424,-5.1189
+2340764,Portrush,Portrush,National Oceanography Centre (United_Kingdom),2424,55.2,-6.6667
+2340860,Portsmouth,Portsmouth,National Oceanography Centre (United_Kingdom),2424,50.8004,-1.1102
+2340956,Ringaskiddy NMCI,RingaskiddyNMCI,Office of Public Works (Ireland),5133,51.84,-8.304
+2341244,Rossaveel Pier,RossaveelPier,Office of Public Works (Ireland),5133,53.2669,-9.562
+2341532,Rosslare,Rosslare,Marine Institute (Ireland),396,52.2546,-6.6648
+2341817,Sagunto tide gauge,SaguntoTG,Puertos del Estado (Spain),2751,39.634,-0.206
+2343253,San Cibrao tide gauge,SanCibraoTG,Puertos del Estado (Spain),2751,43.7091,-7.4609
+2344691,Santander 2 tide gauge,SantanderTG,Puertos del Estado (Spain),2751,43.461,-3.791
+2346131,Sevilla 2 tide gauge,Sevilla2TG,Puertos del Estado (Spain),2751,37.3185,-6.0077
+2347570,Sheerness,Sheerness,National Oceanography Centre (United_Kingdom),2424,51.45,0.75
+2347666,SinesTG,SinesTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,37.949,-8.888
+2348226,St. Helier (Jersey),StHelier,National Oceanography Centre (United_Kingdom),2424,49.1833,-2.1167
+2348322,St Marys,StMarys,National Oceanography Centre (United_Kingdom),2424,49.9179,-6.3156
+2348418,Stornoway,Stornoway,National Oceanography Centre (United_Kingdom),2424,58.2167,-6.38333
+2348514,Tarifa tide gauge,TarifaTG,Puertos del Estado (Spain),2751,36.0064,-5.60361
+2349954,Tarragona tide gauge,TarragonaTG,Puertos del Estado (Spain),2751,41.0789,1.2132
+2351390,Santa Cruz de Tenerife TN013 TG tide gauge,Tenerife2TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.47721,-16.24113
+2352830,Tenerife 2 tide gauge,TenerifeTG,Puertos del Estado (Spain),2751,28.48,-16.24
+2354270,Tobermory,Tobermory,National Oceanography Centre (United_Kingdom),2424,56.6231,-6.0631
+2354366,Ullapool,Ullapool,National Oceanography Centre (United_Kingdom),2424,57.8955,-5.1568
+2354462,Valencia 3 tide gauge,ValenciaTG,Puertos del Estado (Spain),2751,39.46,-0.33
+2355902,VianaDoCasteloTG,VianaDoCasteloTG,Instituto Hidrogr\u00e1fico da Marinha Portuguesa (Portugal),590,41.685,-8.8396
+2357342,Vigo 2 tide gauge,VigoTG,Puertos del Estado (Spain),2751,42.243,-8.726
+2358779,Villagarcia 2 tide gauge,VillagarciaTG,Puertos del Estado (Spain),2751,42.601,-8.77
+2829985,,IDSL-Corinth,Joint Research Centre(JRC);National Observatory of Athens(NOA),2688 1202,37.9425,22.9336
+3292775,,IDSL-Ciutadella,Joint Research Centre(JRC);Instituto Geogr\u00e1fico Nacional(IGN),2688,39.9876,3.82815
+3538944,,KampenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5525,5.924
+3538969,,KamperhoekTG,Rijkswaterstaat Water Traffic and Environment,1526,52.61,5.6425
+3539113,,KaterveerTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5,6.06
+3539257,,KeizersveerTG,Rijkswaterstaat Water Traffic and Environment,1526,51.72,4.895
+3539401,,KeteldiepTG,Rijkswaterstaat Water Traffic and Environment,1526,52.582,5.845
+3539545,,KetelhavenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.585,5.783
+3539689,,KornwerderzandBinnenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.07,5.338
+3539833,,KornwerderzandTG,Rijkswaterstaat Water Traffic and Environment,1526,53.071,5.337055
+3539977,,KrabbersgatsluizenNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.694435,5.284232
+3540121,,KrabbersgatsluizenZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.6923,5.28
+3540265,,KrimpenAdLekTG,Rijkswaterstaat Water Traffic and Environment,1526,51.892,4.629
+3540409,,KristiansundTG,Norwegian Hydrographic Service,543,63.113857,7.734352
+3540553,,L91TG,Rijkswaterstaat Water Traffic and Environment,1526,53.566,4.87
+3540697,,LauwersoogTG,Rijkswaterstaat Water Traffic and Environment,1526,53.41,6.2
+3540841,,LemmerTG,Rijkswaterstaat Water Traffic and Environment,1526,52.839,5.714
+3540985,,LichteilandGoeree1TG,Rijkswaterstaat Water Traffic and Environment,1526,51.927,3.67
+3541128,LichteilandGoeree2 Tide Gauge,LichteilandGoeree2TG,Rijkswaterstaat Water Traffic and Environment,1526,51.925835,3.669722
+3541271,,ListTG,Waterways and Shipping Office Toenning,1182,55.017,8.441
+3541415,,MaloyTG,Norwegian Hydrographic Service,543,61.933777,5.11331
+3541559,,MandoTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.2833,8.5833
+3541632,,MausundTG,Norwegian Hydrographic Service,543,63.86933,8.66523
+3541776,,MondDerVechtTG,Rijkswaterstaat Water Traffic and Environment,1526,52.565,6.102
+3541920,,NarvikTG,Norwegian Hydrographic Service,543,68.42828,17.425758
+3542064,,NesTG,Rijkswaterstaat Water Traffic and Environment,1526,53.4311,5.761
+3542208,,NieuweStatenzijlTG,Rijkswaterstaat Water Traffic and Environment,1526,53.232677,7.208
+3542352,,NieuwpoortTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.150555,2.728056
+3542639,NorderneyTG,NorderneyTG,WATERWAYS AND SHIPPING BOARD (WSA) EMDEN (WSA-EMD),3002,53.7,7.16
+3542783,,Ny-AlesundTG,Norwegian Hydrographic Service,543,78.92854,11.938015
+3542927,,OostendeTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.234,2.927
+3543215,,Oosterschelde11TG,Rijkswaterstaat Water Traffic and Environment,1526,51.64,3.48
+3543359,,OscarsborgTG,Norwegian Hydrographic Service,543,59.678074,10.604861
+3543503,,OsloTG,Norwegian Hydrographic Service,543,59.908558,10.73451
+3543647,,OudeSchildTG,Rijkswaterstaat Water Traffic and Environment,1526,53.04,4.85
+3543791,,Q11TG,Rijkswaterstaat Water Traffic and Environment,1526,52.925,4.149
+3543935,,RamspolbrugTG,Rijkswaterstaat Water Traffic and Environment,1526,52.614,5.84
+3544079,,RibeTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.3333,8.6833
+3544143,,RoggebotsluisNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5455,5.856455
+3544287,,RoggebotsluisZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.54265,5.8557
+3544431,,RoompotBuitenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.62,3.68
+3544575,,RorvikTG,Norwegian Hydrographic Service,543,64.85946,11.230107
+3544719,,RotterdamTG,Rijkswaterstaat Water Traffic and Environment,1526,51.92,4.5
+3544863,,SchellingwoudeTG,Rijkswaterstaat Water Traffic and Environment,1526,52.38,4.968
+3545007,ScheurWielingenTG,ScheurWielingenTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.4183,3.2986
+3545293,,ScheveningenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.1,4.264
+3545437,,SchiermonnikoogWaddenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.47,6.2
+3545581,,SchoonhovenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.944,4.852
+3545725,,SpijkenisseTG,Rijkswaterstaat Water Traffic and Environment,1526,51.8626,4.3342
+3545869,,SpooldersluisTG,Rijkswaterstaat Water Traffic and Environment,1526,52.5109,6.0557
+3546013,,StPauliTG,Hamburg Port Authority (HPA),3406,53.547,9.972
+3546157,,StavangerTG,Norwegian Hydrographic Service,543,58.97434,5.730121
+3546301,,TerschellingNoordzeeTG,Rijkswaterstaat Water Traffic and Environment,1526,53.4436,5.3334
+3546445,,ThyboronKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.7075,8.209
+3546518,,TorsmindeKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.37,8.12
+3546591,,TregdeTG,Norwegian Hydrographic Service,543,58.00638,7.554759
+3546735,,TromsoeTG,Norwegian Hydrographic Service,543,69.64742,18.961323
+3546879,,TrondheimTG,Norwegian Hydrographic Service,543,63.436485,10.391669
+3547023,,VardoeTG,Norwegian Hydrographic Service,543,70.37498,31.104015
+3547167,,VidaaTG,Danish Meteorological Institute Oceanographic Section,469,54.9667,8.666
+3547311,,VikerTG,Norwegian Hydrographic Service,543,59.036045,10.949769
+3547455,,VlakteVdRaanTG,Rijkswaterstaat Water Traffic and Environment,1526,51.5046,3.2422
+3547598,,VlielandHavenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.2972,5.0918
+3547742,,VlissingenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.45,3.6
+3547886,,VurenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.823,5.017
+3548030,WandelaarTG,WandelaarTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.3944,3.0458
+3548317,,WerkendamBuitenTG,Rijkswaterstaat Water Traffic and Environment,1526,51.807,4.877
+3548461,,WestkapelleTG,Rijkswaterstaat Water Traffic and Environment,1526,51.5223,3.4402
+3548605,,WierumergrondenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.517,5.9588
+3548749,,WilhelmshavenTG,Waterways and Shipping Authority Wilhelmshaven (WSA-WIL),2314,53.5144,8.145
+3548893,,WittduenTG,Waterways and Shipping Office Toenning,1182,54.632,8.384
+3549037,ZeebruggeTG,ZeebruggeTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.346,3.2
+3549324,Zeebrugge Wielingendok - Tide,ZeebruggeWielingendokTG,Agency for Maritime Services and Coast Department Coast (MDK),3900,51.35528,3.17806
+3549612,,ZwartsluisTG,Rijkswaterstaat Water Traffic and Environment,1526,52.6388,6.0784
+4453489,Los Cristianos TN031 TG tide gauge,Tenerife4TG,Instituto Geogr\u00e1fico Nacional (Spain),995,28.04694,-16.71805
+5406169,,K13aTG,Rijkswaterstaat Water Traffic and Environment,1526,53.218,3.219
+5636096,,HammerfestTG,Norwegian Hydrographic Service,543,70.66464,23.683228
+5636108,,HanstholmTG,Danish Meteorological Institute Oceanographic Section,469,57.1166,8.6
+5636252,,Haringvliet10TG,Rijkswaterstaat Water Traffic and Environment,1526,51.864082,3.86
+5636396,,HarlingenTG,Rijkswaterstaat Water Traffic and Environment,1526,53.18,5.41
+5636540,,HarstadTG,Norwegian Hydrographic Service,543,68.80126,16.548237
+5636684,,HavnebyTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.087,8.5654
+5636756,,HeimsjoeTG,Norwegian Hydrographic Service,543,63.425224,9.101504
+5636900,,HelgeroaTG,Norwegian Hydrographic Service,543,58.995213,9.856379
+5637044,,HelgolandTG,Waterways and Shipping Office Toenning,1182,54.1789,7.89
+5637188,,HirtshalsTG,Danish Meteorological Institute Oceanographic Section,469,57.6,9.9667
+5637332,HoekVanHollandTG,HoekVanHollandTG,Rijkswaterstaat Water Traffic and Environment,1526,51.98,4.12
+5637476,,HoernumTG,Waterways and Shipping Office Toenning,1182,54.758,8.296
+5637620,,HollandseBrugTG,Rijkswaterstaat Water Traffic and Environment,1526,52.3267,5.14
+5637764,,HonningsvaagTG,Norwegian Hydrographic Service,543,70.980316,25.972696
+5637908,,HoutribsluizenNoordTG,Rijkswaterstaat Water Traffic and Environment,1526,52.52963,5.434654
+5638052,,HoutribsluizenZuidTG,Rijkswaterstaat Water Traffic and Environment,1526,52.52738,5.434357
+5638196,,HuibertgatTG,Rijkswaterstaat Water Traffic and Environment,1526,53.57,6.4
+5638340,,HusumTG,Waterways and Shipping Office Toenning,1182,54.472,9.025
+5638484,,HvideSandeKystTG,Danish Coastal Authority Ministry of Transport and Energy,466,55.9988,8.1146
+5638555,,IJmondstroompaalTG,Rijkswaterstaat Water Traffic and Environment,1526,52.464966,4.517901
+5638699,,IjmuidenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.46335,4.555134
+5638843,,J61TG,Rijkswaterstaat Water Traffic and Environment,1526,53.823246,2.943804
+5638987,,K13aTG,Rijkswaterstaat Water Traffic and Environment,1526,53.218,3.219
+5639131,,K141TG,Rijkswaterstaat Water Traffic and Environment,1526,53.269,3.6262
+5639274,,KabelvaagTG,Norwegian Hydrographic Service,543,68.21264,14.482149
+5639418,,KadoelenTG,Rijkswaterstaat Water Traffic and Environment,1526,52.65929,5.982163
+6553600,,EiderSPTG,Waterways and Shipping Office Toenning,1182,54.266,8.842
+6553728,,EmdenTG,WATERWAYS AND SHIPPING BOARD (WSA) EMDEN (WSA-EMD),3002,53.3367,7.1864
+6553872,EsbjergTG,EsbjergTG,Danish Meteorological Institute Oceanographic Section,469,55.4667,8.4333
+6554016,,EuroplatformTG,Rijkswaterstaat Water Traffic and Environment,1526,52.0,3.28
+6554160,,F3platformTG,Rijkswaterstaat Water Traffic and Environment,1526,54.85,4.72
+6554304,,FerringTG,Danish Coastal Authority Ministry of Transport and Energy,466,56.5246,8.1152
