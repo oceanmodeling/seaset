@@ -14,7 +14,6 @@ PROVIDERS = {
     'emodnet_id': 'platform_code', 
     'cmems_id': 'PLATFORM_CODE'
     }
-COASTLINES = '/home/tomsail/work/QGIS/coastlines/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp'
 PLOT = False
 
 def drop_geometry(df):
@@ -24,13 +23,12 @@ def drop_geometry(df):
 
 
 def detect_new_stations(ref_df,provider_key, df, plot = False): 
-    # existing_ids = set(ref_df[provider_key].dropna())  # Existing provider IDs in the reference catalog
     id = PROVIDERS[provider_key]
     existing_rows = ref_df[ref_df[id].isin(df[id])]
     if plot: 
         fig, ax = plt.subplots(figsize=(20,10))
         ax.set_title(provider_key)
-        countries = gpd.read_file(COASTLINES)
+        countries = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
         countries.plot(color='lightgrey', ax=ax, zorder=-1)
         ref_df.plot.scatter(ax=ax, x='longitude',y='latitude',s=30, label = 'reference catalog')
         df[~df[id].isin(existing_rows[id])].plot.scatter(ax=ax, x='longitude',y='latitude', c='r',s=20, label='new stations')
