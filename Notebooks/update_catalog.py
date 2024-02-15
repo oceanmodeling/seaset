@@ -94,6 +94,7 @@ def append_or_warn(ref_df, new_df, provider_key):
             # If no duplicate, append new station with a new seaset_id
             new_seaset_id = ref_df['seaset_id'].max() + 1
             new_row['seaset_id'] = new_seaset_id
+            new_row[provider_key] = new_row.Station_Name
             if new_row.notna().any():
                 # If yes, proceed with concatenation
                 ref_df = pd.concat([ref_df, pd.DataFrame([new_row])], ignore_index=True)
