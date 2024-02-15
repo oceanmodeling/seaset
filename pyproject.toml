@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "seaset"
+version = "0.1.0"
+description = ""
+authors = ["tomsail <saillour.thomas@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+numpy = "*"
+pandas = "*"
+searvey = { git = "https://github.com/oceanmodeling/searvey.git", rev = "refs/pull/125/merge" }
+matplotlib = "*"
+pyarrow = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
